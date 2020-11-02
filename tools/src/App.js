@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import GrouperPage from './pages/grouper_page';
 import ToolsMainPage from './pages/tools_main_page';
 import { MenuComponent } from './components/page_decorations'

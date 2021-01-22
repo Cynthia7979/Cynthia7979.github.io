@@ -1,5 +1,4 @@
-# Book Notes
-My thoughts when reading books.
+#My thoughts on books.
 
-## *The Gospel of the Flying Spaghetti Monster* by Bobby Henderson
+### *The Gospel of the Flying Spaghetti Monster* by Bobby Henderson
 * 

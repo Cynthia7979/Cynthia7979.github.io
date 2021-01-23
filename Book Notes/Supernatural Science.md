@@ -9,9 +9,7 @@
 
 ![Land Area Discovered](/static/Land%20Area%20Discovered.jpg)
 
-Land area discovered during the supernatural era and the scientific era.
-{:.center}
-
+Land area discovered during the supernatural era and the scientific era.  
 Henderson, Boobby. *The Gospel of the Flying Spaghetti Monster*. New York, Villard Books, 2006. pp12.
 {:.center}
 

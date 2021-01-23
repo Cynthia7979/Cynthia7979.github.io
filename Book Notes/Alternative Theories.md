@@ -17,9 +17,7 @@ just as the system of any other “alternate theories”.
 
 ![FSM Theory of Gravity](/static/FSM%20Theory%20of%20Gravity.jpg)
 
-The Flying Spaghetti Monster theory of gravity.
-{:.center}
-
+The Flying Spaghetti Monster theory of gravity.  
 Henderson, Boobby. *The Gospel of the Flying Spaghetti Monster*. New York, Villard Books, 2006. pp5.
 {:.center}
 

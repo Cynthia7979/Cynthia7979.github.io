@@ -1,7 +1,13 @@
+<style>
+.center {
+    text-align: center;
+}
+</style>
+
 # Supernatural Science
 **P11-P16**
 
-![Land Area Discovered](https://github.com/Cynthia7979/Cynthia7979.github.io/blob/master/static/Land%20Area%20Discovered.jpg)
+![Land Area Discovered](/static/Land%20Area%20Discovered.jpg)
 
 Land area discovered during the supernatural era and the scientific era.
 {:.center}
@@ -26,7 +32,7 @@ See this quote:
 >it certainly is possible that prayer aids in healing - 
 >but it could very well be that these prayers are being applied in a nonoptimal fashion, 
 >thus explaining the lack of evidence for their effectiveness. 
->**The truth is we don’t know ** 
+>**The truth is we don’t know** 
 >**because current scientific methods and religious sensitivities don’t allow this type of study.**”
 
 It is apparent that dogmatism against the supernatural restricts our view of the world. 

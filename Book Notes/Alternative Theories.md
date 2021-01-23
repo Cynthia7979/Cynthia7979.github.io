@@ -15,7 +15,7 @@ it is impossible to have them defend their own points and to know what they are 
 This suggests that science can also be full of logical errors and unproven assumptions, 
 just as the system of any other “alternate theories”.
 
-![FSM Theory of Gravity](https://github.com/Cynthia7979/Cynthia7979.github.io/blob/master/static/FSM%20Theory%20of%20Gravity.jpg)
+![FSM Theory of Gravity](/static/FSM%20Theory%20of%20Gravity.jpg)
 
 The Flying Spaghetti Monster theory of gravity.
 {:.center}

@@ -1,9 +1,3 @@
-<style>
-.center {
-    text-align: center;
-}
-</style>
-
 # Alternative Theories
 **P3-P10**
 
@@ -29,3 +23,6 @@ and it tries to explain the world for people.
 (What about rituals and/or religious belongings?  
 Well, not to mention religions don’t *require* rituals, 
 aren’t laboratory requirements and publication-related regulations similar to “rituals”?)
+
+[RETURN](/Book%20Notes)
+{:.right}

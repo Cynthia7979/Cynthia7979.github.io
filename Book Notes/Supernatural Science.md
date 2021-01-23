@@ -1,9 +1,3 @@
-<style>
-.center {
-    text-align: center;
-}
-</style>
-
 # Supernatural Science
 **P11-P16**
 
@@ -36,3 +30,6 @@ It is apparent that dogmatism against the supernatural restricts our view of the
 This book, as far as where I’m at (which is, the first 10%), 
 is all about expanding our worldview with more “alternative viewpoints”, 
 in other words, a larger “collection of tools” for scientists.
+
+[RETURN](/Book%20Notes)
+{:.right}

@@ -26,7 +26,7 @@ Henderson, Boobby. *The Gospel of the Flying Spaghetti Monster*. New York, Villa
 So, as my personal deduction, science can  in some ways be considered a religion; 
 it is based on nothing but models and math, 
 it generated a system out of those things,
- and it tries to explain the world for people.
+and it tries to explain the world for people.
 
 (What about rituals and/or religious belongings?  
 Well, not to mention religions don’t *require* rituals, 

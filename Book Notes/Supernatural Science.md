@@ -15,11 +15,10 @@ Land area discovered during the supernatural era and the scientific era.
 Henderson, Boobby. *The Gospel of the Flying Spaghetti Monster*. New York, Villard Books, 2006. pp12.
 {:.center}
 
-Our TOK teacher told us that the greatest plague to science
- - and other fields as well -  is dogmatism. 
- Dogmatism fixes people’s mindsets and makes them refuse any opposing evidence. 
- For science, according to my teacher and to this book, 
- a part of its dogmatism is the refusal of supernatural explanations.
+Our TOK teacher told us that the greatest plague to science - and other fields as well -  is dogmatism. 
+Dogmatism fixes people’s mindsets and makes them refuse any opposing evidence. 
+For science, according to my teacher and to this book, 
+a part of its dogmatism is the refusal of supernatural explanations.
 
 There are scientists out there (no citations, I didn’t do individual research) 
 who believe that supernatural explanations exist and wish to conduct experiments to test them. 

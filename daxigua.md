@@ -150,3 +150,6 @@
 * 合成原神（无链接）
     * **作者：** [圆suai](https://space.bilibili.com/360691920)
     * **试玩视频：** [【合成大西瓜】原神魔改版](https://www.bilibili.com/video/BV1oy4y117c8)
+
+[RETURN](/)
+{:.right}

@@ -9,6 +9,10 @@
 *A:* 请[开一个Issue](https://github.com/Cynthia7979/Cynthia7979.github.io/issues/new?assignees=Cynthia7979)
 或者（如果你对GitHub不熟悉的话）给我[发一封邮件](mailto:CynthiaWang7979@hotmail.com)
 
+*Q:* 这也太多了吧！  
+*A:* 是的。所以如果要找一个特定版本的话，请使用`Ctrl+F`（电脑）或浏览器的搜索功能。另外，名称旁边的*斜体字*可以辅助搜索——它们提供了一些名称中没有的关键词。
+如果你认为一个项目需要关键词，请使用上方的链接提出建议。
+
 *Q:* 这个版本明明是我做的，为什么你写成了别人？  
 *A:* 我默认上传视频的up主是该版本的作者，如果你想认领一个作品，请按照上面的方式联系我。
 
@@ -31,7 +35,7 @@
     * **作者：** [琉凌セイギ](https://space.bilibili.com/2085689)
     * **试玩视频：** [把阴阳怪气打在大西瓜上](https://www.bilibili.com/video/BV1Q54y1p75b)
     * **QQ分享链接：** [https://qq.xiaozhan.rest/](https://qq.xiaozhan.rest/)
-* [合成新浪微博](https://game.liuling.win/weibo/)
+* [合成新浪微博](https://game.liuling.win/weibo/) *表情*
     * **作者：** [琉凌セイギ](https://space.bilibili.com/2085689)
     * **试玩视频：** [微博，随时随地夹住新内容](https://www.bilibili.com/video/BV1fz4y1m72B)
     * **QQ分享链接：** [https://wb.xiaozhan.rest/](https://wb.xiaozhan.rest/)
@@ -118,8 +122,14 @@
 提取码：2yn8
     * **作者：** [老举温抖丶](https://space.bilibili.com/6193541)
     * **试玩视频：** [Unity自制合成大西瓜简陋版](https://www.bilibili.com/video/BV1gy4y1172R)
-    
-
+* [合成陆小果](https://wichellchung.gitee.io/watermelon) *果宝特攻*
+    * **作者：** [未来会好吗]()(https://space.bilibili.com/49471257)
+    * **试玩视频：** [合成大西瓜✘，合成陆小果✔](https://www.bilibili.com/video/BV1vr4y1K7tf)
+* [合成灿白](https://no-north.gitee.io/synthesis-of-chanbaek/)
+    * **作者：** [无島北渡](https://m.weibo.cn/profile/3961247229)
+    * **试玩视频：** [【灿白】灿白版合成大西瓜！！！](https://www.bilibili.com/video/BV16r4y1K7is)
+* [合成小问号](https://vaccaria.gitee.io/composite-question-mark-20/) *张艺兴*
+    * 作者未知
 
 ## 同人版本（链接暂缺）
 这些版本仅仅存在分享的图片/视频，但没有可以游玩的链接。如果你有资源，

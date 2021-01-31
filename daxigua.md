@@ -1,8 +1,5 @@
 # 合成大西瓜合集
-<!-- Badge Code - Do Not Change The Code -->
-<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="968be8aed3ff4c30db5b969a5e7fe082|5|page|1|rgb(72, 177, 84);|#ffffff|small|s-hit">Hit Counter</a><script>s="'"+"https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'";document.write("<script type='text/javascript' src="+s+"><\/script>");</script>
-<!-- Badge Code End Here -->
-
+[![HitCount](http://hits.dwyl.com/Cynthia7979/https://Cynthia7979githubio/daxigua.svg)](http://hits.dwyl.com/Cynthia7979/https://Cynthia7979githubio/daxigua)
 这里收录一些B站/Q群流传的合成大西瓜同人版本。
 
 所有版本都建议手机游玩。电脑端游玩请点击`Ctrl+Shift+I`，打开控制台后点击下方箭头处换成手机模式，然后刷新页面游玩。

@@ -113,6 +113,13 @@
 * [合成大猫诺](https://aabbcczhy.gitee.io/maonuo)
     * **作者：** [米法の祈り](https://space.bilibili.com/266749744)
     * **试玩视频：** [合成大猫诺1.0（测试）](https://www.bilibili.com/video/BV1Sy4y117wY)
+* Unity自制合成大西瓜简陋版 *原作向*
+    * 需要下载。网盘：[https://pan.baidu.com/s/1NLqL5_bm9CAIexLAOw9I3Q](https://pan.baidu.com/s/1NLqL5_bm9CAIexLAOw9I3Q)
+提取码：2yn8
+    * **作者：** [老举温抖丶](https://space.bilibili.com/6193541)
+    * **试玩视频：** [Unity自制合成大西瓜简陋版](https://www.bilibili.com/video/BV1gy4y1172R)
+    
+
 
 ## 同人版本（链接暂缺）
 这些版本仅仅存在分享的图片/视频，但没有可以游玩的链接。如果你有资源，

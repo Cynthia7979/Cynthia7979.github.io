@@ -1,6 +1,6 @@
 # 合成大西瓜合集
 <!-- Badge Code - Do Not Change The Code -->
-<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="968be8aed3ff4c30db5b969a5e7fe082|5|page|1|rgb(72, 177, 84);|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="968be8aed3ff4c30db5b969a5e7fe082|5|page|1|rgb(72, 177, 84);|#ffffff|small|s-hit">Hit Counter</a><script>s="'"+"https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'";document.write("<script type='text/javascript' src="+s+"><\/script>");</script>
 <!-- Badge Code End Here -->
 
 这里收录一些B站/Q群流传的合成大西瓜同人版本。

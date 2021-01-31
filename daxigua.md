@@ -1,4 +1,6 @@
 # 合成大西瓜合集
+[![HitCount](http://hits.dwyl.com/Cynthia7979/https://Cynthia7979githubio/daxigua.svg)](http://hits.dwyl.com/Cynthia7979/https://Cynthia7979githubio/daxigua)
+
 这里收录一些B站/Q群流传的合成大西瓜同人版本。
 
 所有版本都建议手机游玩。电脑端游玩请点击`Ctrl+Shift+I`，打开控制台后点击下方箭头处换成手机模式，然后刷新页面游玩。

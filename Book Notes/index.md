@@ -6,6 +6,7 @@
 
 ### Other Books/Short Stories
 * [魔术与催眠术 Magic And Hypnosis](/Book%20Notes/魔术与催眠术)
+* [Quotes摘录](/Book%20Notes/quotes.html)
 
 
 [RETURN](/)

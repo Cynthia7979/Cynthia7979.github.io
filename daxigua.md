@@ -135,6 +135,10 @@
 * [合成素素](https://a-white-vic.gitee.io/synthamin/) *朴素妍*
     * **作者：** [冠你之名Tiamo](https://space.bilibili.com/591843284)
     * **试玩视频：** [【朴素妍】合成大西瓜✘ 合成素素✔](https://www.bilibili.com/video/BV1v54y1p7Hw)
+* [合成小芝麻](http://www.wesane.com/game/658/) *原作向*
+	* [App Store下载（疑似非原作者上传）](https://apps.apple.com/cn/app/%E5%90%88%E6%88%90%E5%B0%8F%E8%8A%9D%E9%BA%BB/id1224088907)
+	* **作者：** （可能）与原作相同
+	* **试玩视频：** [【合成小芝麻（简介含链接）】反转吧！大西瓜合成小芝麻！](https://www.bilibili.com/video/BV1Ht4y1B7zy)
 
 ## ❔同人版本（链接暂缺）
 这些版本仅仅存在分享的图片/视频，但没有可以游玩的链接。如果你有资源，
@@ -155,7 +159,7 @@
 * 合成原神（无链接）
     * **作者：** [圆suai](https://space.bilibili.com/360691920)
     * **试玩视频：** [【合成大西瓜】原神魔改版](https://www.bilibili.com/video/BV1oy4y117c8)
-* 合成小葡萄（链接404
+* 合成小葡萄（链接404）
     * [https://fmwww.gitee.io/watermelon/game/552/](https://fmwww.gitee.io/watermelon/game/552/)
     * 作者未知
     * **试玩视频：** [《合成小葡萄》笑死了，瞎乱点就完了哈哈哈，合成大西瓜的儿子合成小葡萄](http://bilibili.com/BV1nr4y1K7hb)

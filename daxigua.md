@@ -5,6 +5,14 @@
 
 ![Where is Phone Console](/static/whereconsole.png)
 
+**目录**
+* [Q&A](/daxigua#Q&A)
+* [原作](/daxigua#原作)
+* [同人版本](/daxigua#同人版本)
+* [链接暂缺同人版本](/daxigua#同人版本（链接暂缺）)
+* [其他相关作品](/daxigua#其他相关作品)
+
+## Q&A
 *Q:* 我有一个建议/我发现了一个错误  
 *A:* 请[开一个Issue](https://github.com/Cynthia7979/Cynthia7979.github.io/issues/new?assignees=Cynthia7979&labels=&template=-----.md&title=)
 或者（如果你对GitHub不熟悉的话）给我[发一封邮件](mailto:CynthiaWang7979@hotmail.com)
@@ -24,12 +32,13 @@
 * [链接](http://www.wesane.com/game/654/?dt_dapp=1&dt_dapp=1)
 * [修改教程](http://bilibili.com/BV1nV411q7Ze)
     * [教程笔记](https://note.youdao.com/ynoteshare1/index.html?id=aec13507eec8ab75c63bfd38f79ed651&type=note)
+* 其它与原作视觉上相似的版本，请在页面内搜索“原作向”
 
 
 ## ✒同人版本
 这些**不是现存所有的同人版本**。如果你发现/制作了一个此处没有列出的版本，欢迎在[这里](https://github.com/Cynthia7979/Cynthia7979.github.io/issues/new?assignees=Cynthia7979&labels=&template=---------.md&title=%5B合成大西瓜%5D+资源提供——版本名称)
 提供信息，我会尽快把它加进来。
-* [合成风暴对立](https://melon.arcaea.moe) *Arcaea*
+* [合成风暴对立](https://melon.arcaea.moe) *Arcaea* *音游*
     * Q群传的 作者未知
 * [合成阴阳怪气](https://game.liuling.win/QQ/) *表情 QQ*
     * **作者：** [琉凌セイギ](https://space.bilibili.com/2085689)
@@ -139,6 +148,21 @@
 	* [App Store下载（疑似非原作者上传）](https://apps.apple.com/cn/app/%E5%90%88%E6%88%90%E5%B0%8F%E8%8A%9D%E9%BA%BB/id1224088907)
 	* **作者：** （可能）与原作相同
 	* **试玩视频：** [【合成小芝麻（简介含链接）】反转吧！大西瓜合成小芝麻！](https://www.bilibili.com/video/BV1Ht4y1B7zy)
+* [开挂版+其它魔改版合成大西瓜](http://watermelon.uz3.top/games.html) *原作向*
+    * **作者：** [XAzrael](https://www.zhihu.com/people/XAzrael)
+    * **背景故事：** [手机游戏《合成大西瓜》可以合成两个西瓜吗？ - XAzrael的回答](https://www.zhihu.com/question/440715965/answer/1697176595)
+* [合成osu](https://osu.bit.moe/) *音游*
+    * 作者未知
+* [合成大叔叔](https://tup0lev.github.io/MergeChenRui/) *陈睿*
+    * 作者未知
+* [合成大Igallta](https://melon.solariar.tech) *Phigros* *音游*
+    * 作者未知
+    * 【优质】自定义了背景、音效和特效
+    * 看到这里我才意识到我火星了（指不知道怎么解锁Igallta） ~Cynthia
+* [合成苏维埃](https://njuer.top/hechengxigua/?uid=10299&name=Soviet)
+    * **作者：** [西楚爸爸王](https://space.bilibili.com/281271249)
+    * **试玩视频：** [合成苏维埃](https://www.bilibili.com/video/BV1K54y1W7rF)
+
 
 ## ❔同人版本（链接暂缺）
 这些版本仅仅存在分享的图片/视频，但没有可以游玩的链接。如果你有资源，
@@ -163,6 +187,14 @@
     * [https://fmwww.gitee.io/watermelon/game/552/](https://fmwww.gitee.io/watermelon/game/552/)
     * 作者未知
     * **试玩视频：** [《合成小葡萄》笑死了，瞎乱点就完了哈哈哈，合成大西瓜的儿子合成小葡萄](http://bilibili.com/BV1nr4y1K7hb)
+* 合成大陈睿 另一个版本（无链接）
+    * **试玩视频：** [叔叔我啊，最喜欢玩合成大西瓜了](https://www.bilibili.com/video/BV11f4y1k7YR)
+
+## 📦其他相关作品
+* [【自制动画】真实版《合成大西瓜》](https://www.bilibili.com/video/BV1Cr4y1K7Lc)
+* [使用cocos实现一个合成大西瓜](http://www.shymean.com/article/使用cocos实现一个合成大西瓜)
+    * [Repo](https://github.com/tangxiangmin/cocos-big-watermelon)
+    * [在线体验](https://web-game-9gh6nrus14fec37e-1252170212.tcloudbaseapp.com/) *原作向*
 
 [RETURN](/)
 {:.right}

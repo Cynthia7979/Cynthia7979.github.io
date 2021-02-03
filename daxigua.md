@@ -162,7 +162,23 @@
 * [合成苏维埃](https://njuer.top/hechengxigua/?uid=10299&name=Soviet)
     * **作者：** [西楚爸爸王](https://space.bilibili.com/281271249)
     * **试玩视频：** [合成苏维埃](https://www.bilibili.com/video/BV1K54y1W7rF)
-
+* 合成大乔 *JoJo*
+    * 需要下载后自建服务器游玩
+    * > 好了你们赢了，这里是链接[tv_笑哭]  
+    不过这玩意直接双击html文件会卡在99%，要自己搭一个服务器才能用  
+    详情可以搜iis服务器搭建  
+    链接：https://pan.baidu.com/s/1ZR16k847KNWOzwXs5D1gFw  
+    提取码：jojo   
+    改的源码来源:https://github.com/xiaopengand/daxigua
+    * **作者：** [AccelCYang](https://space.bilibili.com/15153924)
+    * **试玩视频：** [合 成 大 乔(×) 超 级 加 辈(√)](https://www.bilibili.com/video/BV1Uv411s7ou)
+* [合成露西亚](https://coding-pages-bucket-3519941-8306729-11836-485562-1304912479.cos-website.ap-hongkong.myqcloud.com/)
+    * **作者：** [凉樱夢](https://space.bilibili.com/260487856)
+    * **试玩视频：** [合成露西亚](https://www.bilibili.com/video/BV1dv411Y7ap)
+* [合成大帕瓦](https://bigvergil-main.vercel.app)
+    * **作者：** [文鸟气球](https://space.bilibili.com/2167233)
+    * **试玩视频：** [合成大帕瓦！！！](https://www.bilibili.com/video/BV1tt4y167Zk)
+    
 
 ## ❔同人版本（链接暂缺）
 这些版本仅仅存在分享的图片/视频，但没有可以游玩的链接。如果你有资源，
@@ -189,6 +205,11 @@
     * **试玩视频：** [《合成小葡萄》笑死了，瞎乱点就完了哈哈哈，合成大西瓜的儿子合成小葡萄](http://bilibili.com/BV1nr4y1K7hb)
 * 合成大陈睿 另一个版本（无链接）
     * **试玩视频：** [叔叔我啊，最喜欢玩合成大西瓜了](https://www.bilibili.com/video/BV11f4y1k7YR)
+* 合成不胜西瓜（连接全部404）
+    * [http://widdit.gitee.io/synthesis-watermelonpp/](http://widdit.gitee.io/synthesis-watermelonpp/)（多方面魔改）
+    和[http://widdit.gitee.io/synthesis-watermelon/](http://widdit.gitee.io/synthesis-watermelon/)
+    * **作者：** [Entropy_S](https://space.bilibili.com/355054841)
+    * **试玩视频：** [合 成 大 西 瓜](https://www.bilibili.com/video/BV1Ko4y1d7Cu)
 
 ## 📦其他相关作品
 * [【自制动画】真实版《合成大西瓜》](https://www.bilibili.com/video/BV1Cr4y1K7Lc)

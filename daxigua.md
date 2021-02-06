@@ -221,6 +221,10 @@
 * [合成SCP基金会](https://plashspeed.top/xigua/game?id=2726d849)
     * **作者：** [StarryPony](https://space.bilibili.com/3836886)
     * **试玩视频：** [合成SCP基金会](https://www.bilibili.com/video/BV1Cr4y1P7P8)
+* [合成五条悟](https://xiaowu.ipiyo.vercel.app/)
+    * 备用链接：[https://xiaowu.vercel.app/](https://xiaowu.vercel.app/)
+    * **作者：** [xliio](https://space.bilibili.com/13686566)
+    * **试玩视频：** [【五条悟】一起来合成小五老师叭！](https://www.bilibili.com/video/BV1kr4y1K71i)
     
 
 ## ❔同人版本（链接暂缺）
@@ -228,7 +232,7 @@
 请在[这里](https://github.com/Cynthia7979/Cynthia7979.github.io/issues/new?assignees=Cynthia7979&labels=&template=---------.md&title=%5B合成大西瓜%5D+资源提供——版本名称)
 提供。
 
-另外，在收集B站的版本时，我忽略了没有提供链接和没有制作线上版本的试玩视频。
+另外，在收集B站的版本时，我*忽略了*没有提供链接和没有制作线上版本的试玩视频。
 如果你对它们感兴趣，可以在[这个](https://search.bilibili.com/all?keyword=合成大&from_source=nav_search_new)搜索结果里挖一挖。
 
 * 合成武大（仅有截屏没有链接）
@@ -261,6 +265,8 @@
     * [在线体验](https://web-game-9gh6nrus14fec37e-1252170212.tcloudbaseapp.com/) *原作向*
 * [合成大西瓜源码复制](https://github.com/bullhe4d/bigwatermelon)
     * **不是**原作者开源，代码是压缩后的js代码
+* [合成大西瓜创意工坊](https://plashspeed.top/xigua/creator#/) *制作器*
+    * 目前服务器负荷似乎有点重
 
 [RETURN](/)
 {:.right}

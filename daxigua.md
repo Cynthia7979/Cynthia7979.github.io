@@ -178,6 +178,49 @@
 * [合成大帕瓦](https://bigvergil-main.vercel.app)
     * **作者：** [文鸟气球](https://space.bilibili.com/2167233)
     * **试玩视频：** [合成大帕瓦！！！](https://www.bilibili.com/video/BV1tt4y167Zk)
+* [合成大钻石](http://www.kitick.xyz/)
+    * **作者：** [KiTick_](https://message.bilibili.com/#whisper/mid397444350)
+    * **试玩视频：** [合成大西瓜魔改版——合成大钻石](https://www.bilibili.com/video/BV185411J7pK)
+* [合成大汐瓜](https://hosimiyasio.com/game/) *星宮汐*
+    * 作者未知
+    * **试玩视频：** [【星宮汐/底部弹幕】合成大汐瓜](https://www.bilibili.com/video/BV15y4y1n77c)
+* [合成大呜米](https://u5er-n4me.github.io/SyntheticUmy/ver1/index.html)
+    * **作者：** [泡泡要抱抱咕噜叽](https://space.bilibili.com/3045020)
+    * 如果加载不出来可以下载到本地用浏览器打开
+    * **试玩视频：** [【呜米】合 成 大 呜 米](https://www.bilibili.com/video/BV1TA411p7Ft)
+* [合成大呜米另一版本](https://meumy.live)
+    * **作者：** [是本本哒](https://space.bilibili.com/165598943)
+* [合成大德克萨斯](http://arknights.yang99.top/) *明日方舟*
+    * **作者：** [旸旸旸g](https://space.bilibili.com/9154099)
+    * **试玩视频：** [合 成 大 德 克 萨 斯](https://www.bilibili.com/video/BV1Rz4y1S7Sb)
+    * 电脑端游玩方法 [http://www.yang99.top/index.php/archives/22/](http://www.yang99.top/index.php/archives/22/)
+* [合成大玄晶](https://heigui.weixiwu.cn/?continueFlag=023cabae3d8d9ac6faf928c5c79207f7) *剑网3*
+    * **作者：** [紫喵Azunya](https://space.bilibili.com/2469548)
+    * **试玩视频：** [五行石合成玄晶？玄晶x2＝玫瑰？](https://www.bilibili.com/video/BV1pT4y1P7be)
+* [合成大pi瓜](http://thog.xyz:2333/) *api*
+    * 作者未知
+    * **试玩视频：** [【api】如何合成一个大pi瓜|合成大西瓜api版](https://www.bilibili.com/video/BV1h5411J7Hv)
+* [合成假面骑士](https://build.weiranmua.vercel.app/)
+    * **作者：** [梦思远妄](https://space.bilibili.com/203664560)
+    * **试玩视频：** [【撒，合成的法则已经决定】](https://www.bilibili.com/video/BV1UT4y1P7hk)
+* 合成大QB *魔法少女小圆*
+    * 需要下载：[https://pan.baidu.com/s/1o2OvThhw2px5y5nDSv8nbQ](https://pan.baidu.com/s/1o2OvThhw2px5y5nDSv8nbQ)
+        * 提取码：z0f6
+    * **作者：** [归帆去棹残阳里](https://space.bilibili.com/2078925)
+    * **试玩视频：** [合成大QB](https://www.bilibili.com/video/BV12f4y16727)
+* [合成大吉尔](https://daxigua-vergil.vercel.app) *鬼泣*
+    * 备用链接：[https://daxigua-dante.vercel.app](https://daxigua-dante.vercel.app)
+    * **作者：** [盐焗瓜-](https://space.bilibili.com/2140697)
+    * **试玩视频：** [合 成 大 吉 尔](https://www.bilibili.com/video/BV1Zf4y167fY)
+* [合成魔王曲](https://robocoawsl.gitee.io/the-magic-song/) *Arcaea* *音游*
+    * **作者：** [白露级四番舰poi](https://space.bilibili.com/3217118)
+    * **试玩视频：** [【Arc】合 成 魔 王 曲](https://www.bilibili.com/video/BV1Gv411e7sc)
+* [合成青蒿素](https://youjihecheng-1gell9ya9bad9372-1301642626.tcloudbaseapp.com)
+    * **作者：** [北极挖不到石英](https://space.bilibili.com/110359606)
+    * **试玩视频：** [有 机 合 成](https://www.bilibili.com/video/BV1rh411C7uS)
+* [合成SCP基金会](https://plashspeed.top/xigua/game?id=2726d849)
+    * **作者：** [StarryPony](https://space.bilibili.com/3836886)
+    * **试玩视频：** [合成SCP基金会](https://www.bilibili.com/video/BV1Cr4y1P7P8)
     
 
 ## ❔同人版本（链接暂缺）
@@ -213,9 +256,11 @@
 
 ## 📦其他相关作品
 * [【自制动画】真实版《合成大西瓜》](https://www.bilibili.com/video/BV1Cr4y1K7Lc)
-* [使用cocos实现一个合成大西瓜](http://www.shymean.com/article/使用cocos实现一个合成大西瓜)
+* 使用cocos实现一个合成大西瓜 [文章](http://www.shymean.com/article/使用cocos实现一个合成大西瓜)
     * [Repo](https://github.com/tangxiangmin/cocos-big-watermelon)
     * [在线体验](https://web-game-9gh6nrus14fec37e-1252170212.tcloudbaseapp.com/) *原作向*
+* [合成大西瓜源码复制](https://github.com/bullhe4d/bigwatermelon)
+    * **不是**原作者开源，代码是压缩后的js代码
 
 [RETURN](/)
 {:.right}

@@ -22,3 +22,6 @@ def some_function():
 ```
 
 Better start using it soon!
+
+[RETURN](/Tech%20Stuff)
+{:.right}

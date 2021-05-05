@@ -8,5 +8,5 @@ After all, this is just another place to hold some of my "sharable" ideas :)
 |------|-------------|---------|
 | [Tools Hub](/tools) (Malfunctioning) | 2 Nov 2020 | 2 Nov 2020 |
 | [Book Notes Hub](/Book Notes) | 22 Jan 2021 | Feb 2021 |
-| [Tech Stuff HUb](/Tech Stuff) | 23 Jan 2021 | 23 Jan 2021 |
+| [Tech Stuff HUb](/Tech Stuff) | 23 Jan 2021 | 5 May 2021 |
 | [合成大西瓜全集](/daxigua) | 31 Jan 2021 | 6 Feb 2021 |

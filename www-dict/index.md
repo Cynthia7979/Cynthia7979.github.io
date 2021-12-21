@@ -22,6 +22,7 @@ page by MakeUseOf.
 - `n.a.` Not available 关联词不存在
 - `uncmn.` Uncommon 不常用
 - `alt.` Alternative meaning 另一个意思
+- `lit.` Literal translation 直译
 
 **[Contribute Here! 在这里提交新条目！](/www-dict/contrib)**
 
@@ -59,3 +60,4 @@ page by MakeUseOf.
 | 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion. |
 | 刷 | To grind | (In games) doing things over and over again to get some desired outcome. |
 | 熊 | To grief | Destroying things on purpose; Sabotage |
+| 世另我 | `n.a.` | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world |

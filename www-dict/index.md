@@ -11,17 +11,19 @@ Some words here are found on
 cheat sheet published by Common Sense, and
 [this](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
 page by MakeUseOf.  
-部分词汇来自Common Sense发布的
-[这篇](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
-词汇表及MakeUseOf撰写的
-[这篇](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-文章。
+部分词汇来自 Common Sense 发布的
+[词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
+，和 MakeUseOf 撰写的
+[文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
+。
 
-Legend 词汇标签
+## Legend 词汇标签
 - `amb.` Ambiguous 模糊翻译
 - `n.a.` Not available 关联词不存在
 - `uncmn.` Uncommon 不常用
 - `alt.` Alternative meaning 另一个意思
+
+**[Contribute Here! 在这里提交新条目！](/www-dict/contrib)**
 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |

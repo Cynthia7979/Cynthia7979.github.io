@@ -17,5 +17,9 @@ code {
 }
 
 #contrib-md b {
-    width: 100px;
+    display: block;
+}
+
+#contrib-md input, #contrib-md textarea {
+    margin: 0 0 0 4px;
 }

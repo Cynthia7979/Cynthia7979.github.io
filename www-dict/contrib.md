@@ -1,3 +1,7 @@
+# Contribute to the Internet Slang Dictionary
+
+Your submission will be reviewed before being added into the dictionary. Thank you for contributing!
+
 <div id="contrib-md">
     <form action="https://app.99inbound.com/api/e/IDgc13DI" method="POST" target="_blank">
         <b>Email</b><input type="email" name="email" placeholder="Enter your email"><br>

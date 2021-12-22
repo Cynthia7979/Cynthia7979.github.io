@@ -6,16 +6,20 @@ Use `Ctrl+F` (`Command+F`) to search for a specific word!
 All parentheses and slashes are part of the term. For Chinese, the right parenthesis is usually left out when used at the end of a sentence.  
 所有括号和斜杠都是词汇的一部分。用在句末时，中文的右括号通常会省略
 
-Some words here are found on
-[this](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
-cheat sheet published by Common Sense, and
-[this](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-page by MakeUseOf.  
-部分词汇来自 Common Sense 发布的
+Some words here are based on those sources:
+* [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
+ published by Common Sense
+* [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
+page by MakeUseOf
+* [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
+
+部分词汇来自以下来源：
+* Common Sense 发布的
 [词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
-，和 MakeUseOf 撰写的
+* MakeUseOf 撰写的
 [文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-。
+* @ranlaugh制作的
+[Carrd](https://tonetags.carrd.co/#masterlist)
 
 ## Legend 词汇标签
 - `amb.` Ambiguous 模糊翻译
@@ -29,7 +33,7 @@ page by MakeUseOf.
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
 | xswl; xs; 笑死; 草 | lmao; rofl; lol | All terms are about laughter.<br/>**xswl**: I'm laughing to death<br/>**lmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
-| （不是）;（什么）;（草）| /j;<br/>`amb.` /ij; /lh | The previous statement is a joke / not serious<br/>**/ij**: Inside Joke<br/>**/lh**: Lighthearted |
+| （不是）;（什么）;（草）| /j; /nsrs;<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke / not serious<br/>**/ij**: Inside Joke<br/>**/lh**: Lighthearted |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实 | `amb.` ikr | Indeed<br/>**ikr**: I know right |
 | 什 | wha- | "What" but surprised |
@@ -61,3 +65,4 @@ page by MakeUseOf.
 | 刷 | To grind | (In games) doing things over and over again to get some desired outcome. |
 | 熊 | To grief | Destroying things on purpose; Sabotage |
 | 世另我 | `n.a.` | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world |
+| 好耶 | Let's go; Horray | Used when a nice thing happens and the speaker wants to express excitement. |

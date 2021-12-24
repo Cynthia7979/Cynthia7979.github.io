@@ -26,7 +26,7 @@ page by MakeUseOf
 ## Legend 词汇标签
 - `amb.` Ambiguous 模糊翻译
 - `n.a.` Not available 关联词不存在
-- `uncmn.` Uncommon 不常用
+- `uncmn.` Uncommon or not a slang 不常用或过于正式
 - `alt.` Alternative meaning 另一个意思
 - `lit.` Literal translation 直译
 
@@ -67,7 +67,10 @@ page by MakeUseOf
 | 刷 | To grind | (In games) doing things over and over again to get some desired outcome. |
 | 熊 | To grief | Destroying things on purpose; Sabotage |
 | 世另我 | `n.a.` | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world |
-| 好耶 | Let's go; Horray | Used when a nice thing happens and the speaker wants to express excitement. |
+| 好耶 | Let's go; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement. |
 | (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
 | 标题党; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and isn't actually related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
+| dbq | sry | **dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry. |
+| 顶贴; dd/ddd/dddd | `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
+| cpdd | `n.a.` | A public, if not lighthearted, notice that the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |

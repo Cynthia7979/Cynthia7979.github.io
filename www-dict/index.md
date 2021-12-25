@@ -1,6 +1,6 @@
 # The Incomplete Internet Slang Dictionary (Chinese - English) 不完全网络用语中英词典
 
-_**Content Warning: Content about cyberbullying. Implicit or explicit sexual reference.**_
+_**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
 
 Use `Ctrl+F` (`Command+F`) to search for a specific word!  
 使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇
@@ -74,3 +74,4 @@ page by MakeUseOf
 | dbq | sry | **dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry. |
 | 顶贴; dd/ddd/dddd | `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, notice that the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
+| woc | wtf; wth | To express anger, surprise, and/or excitement.<br>**wtf**: What the fuck.<br>**wth**: What the hell. |

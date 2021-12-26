@@ -48,7 +48,7 @@ page by MakeUseOf
 | tql | pog; poggers; pogchamp | This person / thing is incredible.<br/>**pog**: Play of the Game |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
 | jrm; jr; 家人们; 集美（们） | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
-| 梗 | Meme | Something that went viral; a concept/story/reference that became popular |
+| 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated. |
 | 玩梗 | (Use a) Reference; Meme | To use a meme. To include a popular reference. |
 | 酸（了）;<br/>`uncmn.` 吃醋 | Salty | Being jealous |
 | 怪; 太怪了 | (This is so) weird/awkward; sus | Usually used as an exclamation on something confusing, with sexual intent, or both. |
@@ -70,8 +70,14 @@ page by MakeUseOf
 | 好耶 | Let's go; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement. |
 | (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
-| 标题党; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and isn't actually related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
+| 标题党; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
 | dbq | sry | **dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry. |
 | 顶贴; dd/ddd/dddd | `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
-| cpdd | `n.a.` | A public, if not lighthearted, notice that the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
+| cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
 | woc | wtf; wth | To express anger, surprise, and/or excitement.<br>**wtf**: What the fuck.<br>**wth**: What the hell. |
+| 鬼畜 | YTP | A type of meme video which re-edits an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
+| 自闭; emo | emo | To feel frustrated, depressed, anxious, or in any way psychologically unwell. <br>**emo**: Originally an abbreviation of emotional hardcore. |
+| 主角光环 | Plot armor | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
+| 圈子 | Fandom | The creative community consisted of fans of a video game, novel, manga, or other types of fiction. Note that 圈子 can also refer to other types of social groups. |
+| 说 话 带 空 格 | WRITING IN ALL CAPS; wRiTiNg In AlTeRnAtInG CaSeS | A form of textual communication used to represent an exaggerated, loud, angry, or sarcastic tone. It is also possible that their CapsLock or Space Bar is broken. |
+| 缝合怪 | `amb.` (Person who makes) Meme mashup | One who makes *meme* by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**Note**: This phrase is neutral in English, but has negative connotation in Chinese. |

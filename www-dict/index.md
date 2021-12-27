@@ -34,7 +34,7 @@ page by MakeUseOf
 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
-| xswl; xs; 笑死; 草 | lmao; rofl; lol | All terms are about laughter.<br/>**xswl**: I'm laughing to death<br/>**lmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
+| xswl; xs; 笑死; 草; 蚌埠住了; 绷不住了 | lmao/lfmao; rofl; lol | All terms are about laughter.<br/>**xswl**: I'm laughing to death<br/>**lmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
 | （不是）;（什么）;（草）| /j; /nsrs;<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke / not serious<br/>**/nsrs**: Not serious<br>**/ij**: Inside Joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实 | `amb.` ikr | Indeed<br/>**ikr**: I know right |
@@ -81,3 +81,7 @@ page by MakeUseOf
 | 圈子 | Fandom | The creative community consisted of fans of a video game, novel, manga, or other types of fiction. Note that 圈子 can also refer to other types of social groups. |
 | 说 话 带 空 格 | WRITING IN ALL CAPS; wRiTiNg In AlTeRnAtInG CaSeS | A form of textual communication used to represent an exaggerated, loud, angry, or sarcastic tone. It is also possible that their CapsLock or Space Bar is broken. |
 | 缝合怪 | `amb.` (Person who makes) Meme mashup | One who makes *meme* by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**Note**: This phrase is neutral in English, but has negative connotation in Chinese. |
+| 溜了 | gtg; g2g | I'm leaving. Got to go. |
+| 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
+| 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
+| 自设; `amb.` 人设 | Persona | Someone's character's setting. Can describe the creator's personality in some way, or simply be the setting of an original character (aka. *OC*). |

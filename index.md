@@ -6,8 +6,8 @@ After all, this is just another place to hold some of my "sharable" ideas :)
 
 | Page | Established | Updated |
 |------|-------------|---------|
-| [Tools Hub](/tools) (Malfunctioning) | 2 Nov 2020 | 2 Nov 2020 |
 | [Book Notes Hub](/Book%20Notes) | 22 Jan 2021 | 5 Sep 2021 |
 | [Tech Stuff HUb](/Tech%20Stuff) | 23 Jan 2021 | 5 May 2021 |
-| [合成大西瓜全集](/daxigua) | 31 Jan 2021 | 6 Feb 2021 |
+| [合成大西瓜全集](daxigua) | 31 Jan 2021 | 6 Feb 2021 |
 | [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 29 Dec 2021 |
+| [Ideas](ideas) | 30 Dec 2021 | 30 Dec 2021 |

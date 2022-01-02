@@ -45,9 +45,9 @@ page by MakeUseOf
 | （并不） | /f; /neg | The previous statement is fake |
 | `uncmn.`（反问） | /rh; /rt | Rhetorical question |
 | （认真） | /g; /gen; /srs | Genuinely; Seriously |
-| 涩; 嘶哈; 裤子飞了; 裤子没了; hso  | `amb.` /x, /sx | It is sexy; Shows sexual intent / interest |
+| 涩; 嘶哈; 裤子飞了; 裤子没了; hso  | `amb.` /x, /sx | This is so sexy/hot; Showing sexual intent, interpretation, or interest. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
-| tql | pog; poggers; pogchamp | This person / thing is incredible.<br/>**pog**: Play of the Game |
+| tql; 大佬 | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
 | jrm; jr; 家人们; 集美（们） | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
 | 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated. |
@@ -62,7 +62,7 @@ page by MakeUseOf
 | 互关/赞 | Follow/Like Back; FB/LB | If one posts this, they're offering you a follow/like if you follow/like them first. |
 | 磕; 磕CP | To ship (a couple) | To assume that two people (fictional or real) are in a romantic relationship and awe at their intimate interactions.<br/>Related: CP粉 (Shipper) |
 | kdl; 磕到了 | `n.a.` | Used by a shipper when something romantic or intimate happens between the people they're shipping. |
-| yysy | tbh; imo; fr | `lit.` Speaking on behave of the matter being discussed.<br>**tbh**: To be honest/humble<br>**imo**: In my opinion<br>**fr**: For real. |
+| yysy | tbh; imo; ngl; fr | `lit.` Speaking on behave of the matter being discussed.<br>**tbh**: To be honest/humble<br>**imo**: In my opinion<br>**ngl**: Not gonna lie<br>**fr**: For real. |
 | nsdd | You're right;<br/>`alt.` `amb.` You got owned | **nsdd**: This abbreviation can stand for two things: "You're right", or `lit`. "You're a child". |
 | 太长不看 | TL;DR | A summary of a long article. Too long; didn't read. |
 | 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion. |
@@ -89,3 +89,5 @@ page by MakeUseOf
 | 自设; `amb.` 人设 | Persona | Someone's character's setting. Can describe the creator's personality in some way, or simply be the setting of an original character (aka. *OC*). |
 | MB; NMB | Fuck (you) | Offensive swear words. Can be interchangably used with any arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
+| xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual characteristic) |
+| gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |

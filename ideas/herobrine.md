@@ -2,7 +2,7 @@
 Please wait patiently as I grind words day and night...
 
 
-# (Possibly) Why Herobrine Was Created
+# (Possibly) Why Herobrine Was Created: An Exploration of Liminal Spaces in Minecraft
 
 So recently I saw this meme at [ImgFlip](https://imgflip.com/i/5zcec6)...
 

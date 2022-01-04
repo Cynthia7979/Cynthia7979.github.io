@@ -47,14 +47,14 @@ page by MakeUseOf
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
 | xswl; xs; 笑死; 草; 蚌埠住了; 绷不住了 | lmao/lfmao; rofl; lol | All terms are about laughter.<br/>**xswl**: I'm laughing to death<br/>**lmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
-| （不是）;（什么）;（草）| /j; /nsrs;<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke / not serious<br/>**/nsrs**: Not serious<br>**/ij**: Inside Joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
+| （不是）;（什么）;（草）| /j; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实 | `amb.` ikr | Indeed; You got a point.<br/>**ikr**: I know right |
 | 什 | wha- | "What" but surprised |
 | （无慈悲） | `amb.` /s or /sarc | `lit.` Not being sorry.<br/>**/s**:With sarcasm |
 | （并不） | /f; /neg | The previous statement is fake |
 | `uncmn.`（反问） | /rh; /rt | Rhetorical question |
-| （认真） | /g; /gen; /srs | Genuinely; Seriously |
+| （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |
 | 涩; 嘶哈; 裤子飞了; 裤子没了; hso  | `amb.` /x, /sx | This is so sexy/hot; Showing sexual intent, interpretation, or interest. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
 | tql; 大佬 | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |

@@ -1,5 +1,8 @@
 # The Incomplete Internet Slang Dictionary (Chinese - English) 不完全网络用语中英词典
 
+[RETURN](/)
+{:.right}
+
 _**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
 
 ## Introduction 简介
@@ -41,6 +44,7 @@ page by MakeUseOf
 - `neg.` Negative connotation 贬义
 
 ## **[CONTRIBUTE HERE! 在这里提交新条目！](/www-dict/contrib)**
+{:.center}
 
 ## The Dictionary 词典正文
 
@@ -105,3 +109,6 @@ page by MakeUseOf
 | 摆烂 | `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
 | （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
+
+[RETURN](/)
+{:.right}

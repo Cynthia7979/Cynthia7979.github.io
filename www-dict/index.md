@@ -2,11 +2,15 @@
 
 _**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
 
-Use `Ctrl+F` (`Command+F`) to search for a specific word!  
-使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇
+## Introduction 简介
+This dictionary is made for those who'd like to speak more natively in both Chinese and English, translate or write internet-related thing like a chat history, or just want to understand what everything means in this digital world.  
+本词典可以用来学习更地道的中英网络用语、作为网络相关文学作品的翻译或写作参考、或只是用来辅助理解网络上常见用词的意思。
 
-All parentheses and slashes are part of the term. For Chinese, the right parenthesis is usually left out when used at the end of a sentence.  
-所有括号和斜杠都是词汇的一部分。用在句末时，中文的右括号通常会省略
+A term is usually included if it has a matching translation in Chinese or can't be easily found on web. It does not need an English translation to appear here.  
+如果一个词汇有对应的中文翻译，或者未被其他主流词典收录，那么它就会出现在这里。有的词汇不会有对应的英文意思。
+
+Use `Ctrl+F` (`Command+F`) to search for a specific word!  
+请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！
 
 Some words here are based on those sources:
 * [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
@@ -23,6 +27,9 @@ page by MakeUseOf
 * @ranlaugh制作的
 [Carrd](https://tonetags.carrd.co/#masterlist)
 
+**Please Note:** The abbreviations that start with slashes are called **tone indicators**. They are used to clarify a sentence's connotation and should be used accurately. Read more about tone indicators [here](https://toneindicators.carrd.co/).  
+**请注意**：下列英语词汇中，以斜杠（/）开头的词汇都是**tone indicator**（语气指示词）。它们的作用是阐明一句话的语气和意思，因此需要被恰当使用。在 [这里](https://toneindicators.carrd.co/) 阅读更多关于tone indicator（语气指示词）的介绍。
+
 ## Legend 词汇标签
 - `amb.` Ambiguous 模糊翻译
 - `n.a.` Not available 关联词不存在
@@ -31,8 +38,11 @@ page by MakeUseOf
 - `lit.` Literal translation of the Chinese term 直译
 - `f.` Female 对于女性的用词
 - `m.` Male 对于男性的用词
+- `neg.` Negative connotation 贬义
 
-**[Contribute Here! 在这里提交新条目！](/www-dict/contrib)**
+## **[CONTRIBUTE HERE! 在这里提交新条目！](/www-dict/contrib)**
+
+## The Dictionary 词典正文
 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
@@ -65,7 +75,7 @@ page by MakeUseOf
 | yysy | tbh; imo; ngl; fr | `lit.` Speaking on behave of the matter being discussed.<br>**tbh**: To be honest/humble<br>**imo**: In my opinion<br>**ngl**: Not gonna lie<br>**fr**: For real. |
 | nsdd | You're right;<br/>`alt.` `amb.` You got owned | **nsdd**: This abbreviation can stand for two things: "You're right", or `lit`. "You're a child". |
 | 太长不看 | TL;DR | A summary of a long article. Too long; didn't read. |
-| 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion. |
+| 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion.<br>Joining the conversation sometime to show that one exists is called 冒泡 (`lit.` bubbling). Those who *lurk* are called *lurkers*. |
 | 刷 | To grind | (In games) doing things over and over again to get some desired outcome. |
 | 熊 | To grief | Destroying things on purpose; Sabotage |
 | 世另我 | `n.a.` | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world |
@@ -73,21 +83,25 @@ page by MakeUseOf
 | (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
 | 标题党; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
-| dbq | sry; mb | **dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese). |
+| dbq | sry; mb | **dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
 | 顶贴; dd/ddd/dddd | `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
 | woc | wtf; wth | To express anger, surprise, and/or excitement.<br>**wtf**: What the fuck.<br>**wth**: What the hell. |
 | 鬼畜 | YTP | A type of meme video which re-edits an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
 | 自闭; emo | emo | To feel frustrated, depressed, anxious, or in any way psychologically unwell. <br>**emo**: Originally an abbreviation of emotional hardcore. |
 | 主角光环 | Plot armor; `lit.` Protagonist halo | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
-| 圈子 | Fandom | The creative community consisted of fans of a video game, novel, manga, or other types of fiction. Note that 圈子 can also refer to other types of social groups. |
-| 说 话 带 空 格 | WRITING IN ALL CAPS; wRiTiNg In AlTeRnAtInG CaSeS | A form of textual communication used to represent an exaggerated, loud, angry, or sarcastic tone. It is also possible that their CapsLock or Space Bar is broken. |
-| 缝合怪 | `amb.` (Person who makes) Meme mashup | One who makes *meme* by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**Note**: This phrase is neutral in English, but has negative connotation in Chinese. |
+| 圈子; 同人圈 | Fandom | The creative community consisted of fans of a video game, novel, manga, or other types of fiction. Note that 圈子 can also refer to other types of social groups. |
+| 说 话 带 空 格 | WRITING IN ALL CAPS; wRiTiNg In AlTeRnAtInG CaSeS | A form of textual communication used to represent an exaggerated, loud, angry, or sarcastic tone. It is also possible that their CapsLock is broken. |
+| 融梗; `neg.` 缝合怪 | `amb.` (Person who makes) Meme mashup | One who makes *meme* by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**融梗**: `lit.` Melting memes together. |
 | 溜了 | gtg; g2g | I'm leaving. Got to go. |
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
 | 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
-| 自设; `amb.` 人设 | Persona | Someone's character's setting. Can describe the creator's personality in some way, or simply be the setting of an original character (aka. *OC*). |
+| 自设; `amb.` 人设 | Persona | Someone's character's setting. Can describe the creator's personality in some way, or simply an original character (aka. *OC*). |
 | MB; NMB | Fuck (you) | Offensive swear words. Can be interchangably used with any arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
-| xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual characteristic) |
+| xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
 | gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |
+| bzd | dunno; idk | I don't know. |
+| 摆烂 | `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
+| 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
+| （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |

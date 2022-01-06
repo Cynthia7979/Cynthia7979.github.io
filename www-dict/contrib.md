@@ -6,7 +6,7 @@ Feel free to write "I don't know" if you're not sure about any of the meanings.
 Your submission will be reviewed before being added into the dictionary. Thank you for contributing!  
 你提交的词汇将会在审核后添加到词典中。感谢你的贡献！
 
-<div id="contrib-md" class="form">
+<div class="form">
     <form action="https://app.99inbound.com/api/e/IDgc13DI" method="POST" target="_blank">
         <b>Email 你的邮箱地址</b><input type="email" name="email" placeholder="Enter your email"><br>
         <b>New Term (Chinese) 词汇中文</b><input type="text" name="english" placeholder="Enter Chinese for the term"><br>

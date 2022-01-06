@@ -55,10 +55,18 @@ tbody {
 
 #contrib-md b, .form b {
     display: block;
+    margin-top: 5px;
 }
 
-#contrib-md input, #contrib-md textarea,
 .form input, .form textarea {
     margin: 0 0 0 4px;
     width: 97%;
+}
+
+.form button {
+    border: solid 2px #222;
+    border-radius: 5px;
+    background: #eeeeee;
+    margin: 5px;
+    padding: 0px 5px;
 }

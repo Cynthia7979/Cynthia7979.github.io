@@ -40,7 +40,7 @@ Visualize this feeling, and we'll get some of the most viral liminal space photo
 
 See anything in common?
 1. **They're all unusually empty**. There's no people, no decorations, no tableware, nothing.
-2. **The "far end" of the picture is unclear**. It could be foggy, dark, overexposed, blocked, or just not included in the frame.
+2. **The "far end" of the picture is unclear**. It could be foggy, dark, overexposed, blocked, or just not included in the frame. No matter the approach, it creates the feeling as if something invisible and unknown may be lurking from you.
 3. Although being pictures shot in real world, **they still look remotely unrealistic**. This unreality could come from the low quality of the picture (making it hard to identify individual objects), artificial/impossible lighting (look closely at the first example), or color manipulation that pushes us straight into the uncanny valley (apparent from the second example, aka "Backrooms").
 
 ## How Is Minecraft Linked to Liminal Spaces?
@@ -48,9 +48,11 @@ As mentioned before, the early versions of Minecraft are, visually and functiona
 
 ![Minecraft Classic](/static/minecraft-classic-lighting.png)  
 A screenshot of Minecraft Classic showing [binary light levels](https://minecraft.fandom.com/wiki/Light#History) and high fog distance.
+{:.caption}
 
 ![Minecraft Alpha](https://media.minecraftforum.net/attachments/282/356/636655882262077072.png)  
 A screenshot of Minecraft Alpha, survival mode ([source](https://www.minecraftforum.net/forums/minecraft-java-edition/survival-mode/2910659-skyblock-in-minecraft-alpha))
+{:.caption}
 
 Surely quite a number of things have been added; the player can now use tools and the crafting table, there is a new health bar, and the lighting of blocks have been reworked to make the blocks look a bit more 3-dimensional. However, this did not help to make Minecraft look more realistic; the shadows still look as if they were drawn with paint, and the fog at the far end of the world still clouds any mystery that could be there...
 
@@ -63,11 +65,16 @@ That's right: The early version of Minecraft satisfies all three categories of a
 
 Sure, one can argue that the textures at this point is nowhere near a photograph and that it doesn't satisfy the prominent feature of liminal spaces, the feeling of familiarity. 
 
-However, as declared by early Minecraft Forum users, a 3D, first-person survival game like Minecraft is already immersing enough to have people "suspend the disbelief" and imagine that they're not controlling a player, but living in this eerie, dangerous world themselves.
+However, as declared by several early Minecraft players, a 3D, first-person survival game like Minecraft is already immersing enough to have people "suspend the disbelief" and imagine that they're not controlling a player, but living in this eerie, dangerous world themselves.
 
 ![Minecraft scary](/static/minecraft-scary-forum.png)  
 ![Minecraft immersive](/static/minecraft-immersive-forum.png)  
 ([source](https://www.minecraftforum.net/forums/archive/alpha/alpha-survival-single-player/817234-why-is-minecraft-so-scary))
+{:.caption}
 
 ![Minecraft creepy glitch](/static/creepy-glitch-forum.png)  
 ([source](https://www.minecraftforum.net/forums/archive/alpha/alpha-survival-multiplayer/822199-creepy-glitch))
+{:.caption}
+
+So, what effect would this have on a player?
+

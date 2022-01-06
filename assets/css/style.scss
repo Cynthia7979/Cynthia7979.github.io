@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.caption {
+    color: #D1D1D1;
+    font-family: 'Monaco', 'Lucida Console', monospace;
+    font-style: italic;
+    text-align: center;
+}
+
 .center {
     text-align: center;
 }
@@ -11,9 +18,24 @@
     text-align: right;
 }
 
+.wrapper {
+    width: 80%;
+}
+
+.current-section {
+    left: 8.75%;
+    width: 82.5%;
+}
+
 code {
     color: #c53232;
     font-size: 0.8em;
+}
+
+img {
+    border: 0;
+    margin: 0 22.5%;
+    width: 55%;
 }
 
 #contrib-md b {

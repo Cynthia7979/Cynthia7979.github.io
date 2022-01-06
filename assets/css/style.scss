@@ -44,16 +44,16 @@ img {
     width: 55%;
 }
 
-table {
-    width: 100%;
-    margin: 0;
+table, .markdown-body table {
+    width: 100%; !important
+    margin: 0; !important
 }
 
-tbody {
-    border: 2px solid #557398;
+tbody, .markdown-body tbody {
+    border: 2px solid #557398; !important
 }
 
-#contrib-md b, .form b {
+.form b {
     display: block;
     margin-top: 5px;
 }

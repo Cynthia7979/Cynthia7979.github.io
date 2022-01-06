@@ -38,7 +38,9 @@ Visualize this feeling, and we'll get some of the most viral liminal space photo
 [source](https://aesthetics.fandom.com/wiki/Liminal_Space)
 
 ![liminal space example 3](https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1619925239500-5XAC9BS2OXJU67Z7RDSA/wuww8vph8ub51.jpeg?format=1000w)
+
 [source](https://sabukaru.online/articles/liminal-spaces-the-era-of-realizing-false-promises)
+{:.caption}
 
 See anything in common?
 1. **They're all unusually empty**. There's no people, no decorations, no tableware, nothing.

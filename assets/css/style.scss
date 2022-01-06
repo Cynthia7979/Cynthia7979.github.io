@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .caption {
-    color: #D1D1D1;
+    color: #C1C1C1;
     font-family: 'Monaco', 'Lucida Console', monospace;
     font-style: italic;
     text-align: center;
@@ -14,17 +14,23 @@
     text-align: center;
 }
 
+.current-section {
+    left: 8.75%;
+    margin-left: 0;
+    width: 82.5%;
+}
+
+.date {
+    color: #C1C1C1;
+    font-size: small;
+}
+
 .right {
     text-align: right;
 }
 
 .wrapper {
     width: 80%;
-}
-
-.current-section {
-    left: 8.75%;
-    width: 82.5%;
 }
 
 code {
@@ -38,11 +44,12 @@ img {
     width: 55%;
 }
 
-#contrib-md b {
+#contrib-md b, .form b {
     display: block;
 }
 
-#contrib-md input, #contrib-md textarea {
+#contrib-md input, #contrib-md textarea,
+.form input, .form textarea {
     margin: 0 0 0 4px;
     width: 97%;
 }

@@ -1,8 +1,10 @@
-# This Article is NOT FINISHED
-Please wait patiently as I grind words day and night...
+# Why Herobrine Was Created: An Exploration of Liminal Spaces in Minecraft
 
+2022/1/6 18:01
+{:.date}
 
-# (Possibly) Why Herobrine Was Created: An Exploration of Liminal Spaces in Minecraft
+[RETURN](/)
+{:.right}
 
 So recently I saw this meme at [ImgFlip](https://imgflip.com/i/5zcec6)...
 
@@ -65,16 +67,52 @@ That's right: The early version of Minecraft satisfies all three categories of a
 
 Sure, one can argue that the textures at this point is nowhere near a photograph and that it doesn't satisfy the prominent feature of liminal spaces, the feeling of familiarity. 
 
-However, as declared by several early Minecraft players, a 3D, first-person survival game like Minecraft is already immersing enough to have people "suspend the disbelief" and imagine that they're not controlling a player, but living in this eerie, dangerous world themselves.
+However, as declared by several early Minecraft players, a 3D, first-person survival game like Minecraft is already immersing enough to have people "suspend the disbelief".
 
 ![Minecraft scary](/static/minecraft-scary-forum.png)  
 ![Minecraft immersive](/static/minecraft-immersive-forum.png)  
 ([source](https://www.minecraftforum.net/forums/archive/alpha/alpha-survival-single-player/817234-why-is-minecraft-so-scary))
 {:.caption}
 
+In fact, some even describe their experiences as if they were not controlling a player, but living in this eerie, dangerous world themselves.
+
 ![Minecraft creepy glitch](/static/creepy-glitch-forum.png)  
 ([source](https://www.minecraftforum.net/forums/archive/alpha/alpha-survival-multiplayer/822199-creepy-glitch))
 {:.caption}
 
-So, what effect would this have on a player?
+## How Does this Lead to the Creation of Herobrine?
+As we can see, the early Minecraft world creates a lonely and uneasy atmosphere similar to a liminal space. If playing alone, it may easily scare a person, even if there is nothing to be scared of. This already spooky atmosphere creates a perfect medium for creepypasta to appear. 
 
+As [stated by several horror writers](https://www.quora.com/Are-horror-writers-less-easily-scared-than-normal-people), while horror writers are as easily scared as others, they're unique in the sense that they collect inspirations from those scary situations. Not coincidentally, /x/, [the origin of Herobrine](https://minecraft.fandom.com/wiki/Herobrine), is a forum crowded with [creepypasta](https://en.wikipedia.org/wiki/creepypasta) writers and enjoyers. It is possible that one of the content producers of that community, namely "the creator of Herobrine", **noticed the liminal-space like atmosphere of Minecraft and put it into use in the form of an original creepypasta**.
+
+If we go a little further, we can argue that if Minecraft came out as a colorful, realistic (or very unrealistic) multiplayer game, then there would be no Herobrine. The liminal-space-like atmosphere of early Minecraft is, I would say, the foremost reason why Herobrine exists today.
+
+## Why Minecraft Never Produced Another Herobrine
+At the end of this article, I want to discuss why Minecraft never produced another viral creepypasta, because apparently, if early Minecraft was such a rich incubator, there *should* be more horror writers inspired by it and producing related works. Here, I'm going to offer two possible explanations.
+
+The first explanation is that people did make other Minecraft creepypasta, but they either did not become as viral as Herobrine or was only created based on the Herobrine mythology. For example, Notch, in real life the creator of Minecraft, is canonically the brother of Herobrine as well as the god of Minecraft. The canon of Notch as a god might not be as rich or widespread without the existence of Herobrine. 
+
+To support this, I looked up other urban legends, and according to [McGuire's summary of common "ingredients" in creepypastas](https://venngage.com/blog/creepypasta/), the Herobrine legend actually succeeded for a reason. It has creepy images, creepy videos, an unexplanable phenomenon, a supernatural being, a story told through first-person POV ([the stream that made Herobrine popular](https://minecraft.fandom.com/wiki/Herobrine)), and a cliffhanger ending (the [image](https://minecraft.fandom.com/wiki/File:HerobrineBrocastCreepyPage.gif) shown at the end of the stream), all elements that stir up people's minds, inducing both fear and curiosity. It is possible that writers at the time Herobrine was created didn't yet find out the steps to a creepypasta's success, and therefore failed to create as successful horror stories based on a Minecraft inspiration.
+
+An alternative explanation would be the recede of the "horror fever" during the 2010s. The 2010s was said to be the time when ["horrors get smart"](https://www.esquire.com/uk/culture/film/a30284121/elevated-horror-2010s-peele-eggers-aster-blumhouse/). It was a time when niche became the mainstream and cheap jumpscares were pushed away by the tides of time. While horror movies continued to thrive, those that were meant to be more folklore- and legend-like returned to the shadows as the world entered the 2020s. The New Weird lost its superpower of drawing attention from across the web, and, as Minecraft became less "liminal", people gradually lost the inspiration to write Minecraft urban legends. 
+
+--------
+
+**Thank you for reading!**
+
+This is the first blog post that I've ever written, and I don't ... really plan to write another in a short time. But if you're interested, you can leave your Email here, and I will write you at the time I post another blog.
+
+Have a nice day, and stay safe. :)
+
+<div class="form">
+    <form action="https://app.99inbound.com/api/e/3cZaTIPD" method="POST" target="_blank">
+        <b>Email</b><input type="email" name="email" placeholder="yourname@email.com"><br>
+        <div style="position: absolute; left: -5000px;">
+            <input type="checkbox" name="magnetic_almond_waved_lamp" value="1" tabindex="-1" autocomplete="no">
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+</div>
+
+[RETURN](/)
+{:.right}

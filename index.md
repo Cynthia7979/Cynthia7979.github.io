@@ -11,3 +11,5 @@ After all, this is just another place to hold some of my "sharable" ideas :)
 | [合成大西瓜全集](daxigua) | 31 Jan 2021 | 6 Feb 2021 |
 | [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 4 Jan 2022 |
 | [Ideas](ideas) | 30 Dec 2021 | 30 Dec 2021 |
+{:.table}
+{:.tbody}

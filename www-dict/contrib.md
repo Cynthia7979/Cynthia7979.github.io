@@ -16,3 +16,6 @@ Your submission will be reviewed before being added into the dictionary. Thank y
         <button type="submit">Submit 提交</button>
     </form>
 </div>
+
+[RETURN](/)
+{:.right}

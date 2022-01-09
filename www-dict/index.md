@@ -21,6 +21,7 @@ Some words here are based on those sources:
 * [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
 page by MakeUseOf
 * [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
+* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
 
 部分词汇来自以下来源：
 * Common Sense 发布的
@@ -29,6 +30,7 @@ page by MakeUseOf
 [文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
 * @ranlaugh制作的
 [Carrd](https://tonetags.carrd.co/#masterlist)
+* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
 
 **Please Note:** The abbreviations that start with slashes are called **tone indicators**. They are used to clarify a sentence's connotation and should be used accurately. Read more about tone indicators [here](https://toneindicators.carrd.co/).  
 **请注意**：下列英语词汇中，以斜杠（/）开头的词汇都是**tone indicator**（语气指示词）。它们的作用是阐明一句话的语气和意思，因此需要被恰当使用。在 [这里](https://toneindicators.carrd.co/) 阅读更多关于tone indicator（语气指示词）的介绍。
@@ -109,6 +111,8 @@ page by MakeUseOf
 | 摆烂 | `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
 | （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
+| awsl | `n.a.` | `lit.` I'm dying (because this is so impressive/cute) |
+| KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
 
 [RETURN](/)
 {:.right}

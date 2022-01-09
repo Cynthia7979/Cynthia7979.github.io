@@ -3,6 +3,9 @@
 Feel free to write "I don't know" if you're not sure about any of the meanings.  
 如果不知道任何词语的中/英含义，请在对应的文本框中填写“不知道”
 
+If you want to fix an explanation, simply indicate the orginal phrase somewhere in your submission.
+如果你想要修正某个释义，请在任意文本框中注明原来的词汇。
+
 Your submission will be reviewed before being added into the dictionary. Thank you for contributing!  
 你提交的词汇将会在审核后添加到词典中。感谢你的贡献！
 

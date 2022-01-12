@@ -15,23 +15,6 @@ A term is usually included if it has a matching translation in Chinese or can't 
 Use `Ctrl+F` (`Command+F`) to search for a specific word!  
 请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！
 
-Some words here are based on those sources:
-* [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
- published by Common Sense
-* [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-page by MakeUseOf
-* [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
-* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
-
-部分词汇来自以下来源：
-* Common Sense 发布的
-[词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
-* MakeUseOf 撰写的
-[文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-* @ranlaugh制作的
-[Carrd](https://tonetags.carrd.co/#masterlist)
-* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
-
 **Please Note:** The abbreviations that start with slashes are called **tone indicators**. They are used to clarify a sentence's connotation and should be used accurately. Read more about tone indicators [here](https://toneindicators.carrd.co/).  
 **请注意**：下列英语词汇中，以斜杠（/）开头的词汇都是**tone indicator**（语气指示词）。它们的作用是阐明一句话的语气和意思，因此需要被恰当使用。在 [这里](https://toneindicators.carrd.co/) 阅读更多关于tone indicator（语气指示词）的介绍。
 
@@ -45,7 +28,30 @@ page by MakeUseOf
 - `m.` Male 对于男性的用词
 - `neg.` Negative connotation 贬义
 
-## **[CONTRIBUTE HERE! 在这里提交新条目！](/www-dict/contrib)**
+## References 参考资料
+Some words here are based on those sources
+部分词汇来自以下来源：
+* [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
+ published by Common Sense
+* [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
+page by MakeUseOf
+* [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
+* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
+
+* Common Sense 发布的
+[词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
+* MakeUseOf 撰写的
+[文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
+* @ranlaugh制作的
+[Carrd](https://tonetags.carrd.co/#masterlist)
+* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
+
+Take a look at those places if you didn't see the word you're finding here 
+如果你找不到想找的词，在这些地方看一看（英文）：
+* [Urban Dictionary](https://www.urbandictionary.com)
+* [Your Dictionary](https://www.yourdictionary.com)
+
+## **[Didn't Find Your Word? CONTRIBUTE HERE! 在这里提交新条目！](/www-dict/contrib)**
 {:.center}
 
 ## The Dictionary 词典正文
@@ -78,7 +84,7 @@ page by MakeUseOf
 | 互关/赞 | Follow/Like Back; FB/LB | If one posts this, they're offering you a follow/like if you follow/like them first. |
 | 磕; 磕CP | To ship (a couple) | To assume that two people (fictional or real) are in a romantic relationship and awe at their intimate interactions.<br/>Related: CP粉 (Shipper) |
 | kdl; 磕到了 | `n.a.` | Used by a shipper when something romantic or intimate happens between the people they're shipping. |
-| yysy | tbh; imo; ngl; fr | `lit.` Speaking on behave of the matter being discussed.<br>**tbh**: To be honest/humble<br>**imo**: In my opinion<br>**ngl**: Not gonna lie<br>**fr**: For real. |
+| yysy | tbf; tbh; imo; ngl; `amb.` fr | `lit.` Speaking on behave of the matter being discussed.<br>**tbf**: To be fair<br>**tbh**: To be honest/humble<br>**imo**: In my opinion<br>**ngl**: Not gonna lie<br>**fr**: For real. |
 | nsdd | You're right;<br/>`alt.` `amb.` You got owned | **nsdd**: This abbreviation can stand for two things: "You're right", or `lit`. "You're a child". |
 | 太长不看 | TL;DR | A summary of a long article. Too long; didn't read. |
 | 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion.<br>Joining the conversation sometime to show that one exists is called 冒泡 (`lit.` bubbling). Those who *lurk* are called *lurkers*. |
@@ -90,10 +96,10 @@ page by MakeUseOf
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
 | 标题党; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
 | dbq | sry; mb | **dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
-| 顶贴; dd/ddd/dddd | `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
+| 顶贴; dd (sometimes with more d's) | Bump; `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
 | woc | wtf; wth | To express anger, surprise, and/or excitement.<br>**wtf**: What the fuck.<br>**wth**: What the hell. |
-| 鬼畜 | YTP | A type of meme video which re-edits an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
+| 鬼畜 | YTP | A type of meme video re-editing an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
 | 自闭; emo | emo | To feel frustrated, depressed, anxious, or in any way psychologically unwell. <br>**emo**: Originally an abbreviation of emotional hardcore. |
 | 主角光环 | Plot armor; `lit.` Protagonist halo | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
 | 圈子; 同人圈 | Fandom | The creative community consisted of fans of a video game, novel, manga, or other types of fiction. Note that 圈子 can also refer to other types of social groups. |
@@ -102,6 +108,7 @@ page by MakeUseOf
 | 溜了 | gtg; g2g | I'm leaving. Got to go. |
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
 | 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
+| 自设; 二设 | Fanon | A *canon* created by fans. Not to be confused with *persona*. |
 | 自设; `amb.` 人设 | Persona | Someone's character's setting. Can describe the creator's personality in some way, or simply an original character (aka. *OC*). |
 | MB; NMB | Fuck (you) | Offensive swear words. Can be interchangably used with any arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |

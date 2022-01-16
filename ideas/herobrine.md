@@ -32,10 +32,14 @@ This is not a liminal space image, but it certainly generates a similar feeling:
 Visualize this feeling, and we'll get some of the most viral liminal space photos:
 
 ![liminal space example 1](https://cdn-0.studybreaks.com/wp-content/uploads/2021/12/Image-from-iOS-1-2.jpg)
+
 [source](https://studybreaks.com/thoughts/liminal-spaces-creepy-and-weird-places/)
+{:.caption}
 
 ![liminal space example 2](https://static.wikia.nocookie.net/aesthetics/images/0/00/Backrooms.PNG.png)
+
 [source](https://aesthetics.fandom.com/wiki/Liminal_Space)
+{:.caption}
 
 ![liminal space example 3](https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1619925239500-5XAC9BS2OXJU67Z7RDSA/wuww8vph8ub51.jpeg?format=1000w)
 

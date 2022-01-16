@@ -95,10 +95,10 @@ Take a look at those places if you didn't see the word you're finding here
 | (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
 | 标题党; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
-| dbq | sry; mb | **dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
+| dbq | sry; mb | Sorry. An apology.<br>**dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
 | 顶贴; dd (sometimes with more d's) | Bump; `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
-| woc | wtf; wth | To express anger, surprise, and/or excitement.<br>**wtf**: What the fuck.<br>**wth**: What the hell. |
+| woc | wtf; wth | To express anger, surprise, and/or excitement.<br>**wtf**: What the fuck.<br>**wth**: What the hell/heck. |
 | 鬼畜 | YTP | A type of meme video re-editing an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
 | 自闭; emo | emo | To feel frustrated, depressed, anxious, or in any way psychologically unwell. <br>**emo**: Originally an abbreviation of emotional hardcore. |
 | 主角光环 | Plot armor; `lit.` Protagonist halo | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
@@ -120,6 +120,7 @@ Take a look at those places if you didn't see the word you're finding here
 | （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
 | awsl | `n.a.` | `lit.` I'm dying (because this is so impressive/cute) |
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
+| 
 
 [RETURN](/)
 {:.right}

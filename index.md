@@ -1,7 +1,5 @@
 Welcome to my blog! This is where I will put my [Ideas](ideas), [Tech Blog](/Tech%20Stuff), and other things.
 
-
-
 ## All Pages
 
 | Page | Established | Updated |
@@ -13,3 +11,11 @@ Welcome to my blog! This is where I will put my [Ideas](ideas), [Tech Blog](/Tec
 | [Ideas](ideas) | 30 Dec 2021 | 16 Jan 2022 |
 
 ## News
+
+<div class="news-block">
+    <b>My DeviantArt Account!</b>
+    <p>
+    I've decided to create a DeviantArt to put my [long-forgotten artworks](https://github.com/Cynthia7979/images/tree/master/artwork).
+    Head over there to support me and leave a like if you found them interesting!
+    </p>
+</div>

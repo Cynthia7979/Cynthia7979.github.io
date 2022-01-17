@@ -21,7 +21,7 @@
 
 <a id="q-a"></a>
 
-## Q&A
+## 🍉 Q&A
 *Q:* 我有一个建议/我发现了一个错误  
 *A:* 请[开一个Issue](https://github.com/Cynthia7979/Cynthia7979.github.io/issues/new?assignees=Cynthia7979&labels=&template=-----.md&title=)
 或者（如果你对GitHub不熟悉的话）给我[发一封邮件](mailto:CynthiaWang7979@hotmail.com)

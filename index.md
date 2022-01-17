@@ -2,7 +2,7 @@ Welcome to my blog! This is where I will put my [Ideas](ideas), [Tech Blog](/Tec
 
 At the bottom of the page you'll find a list of available webpage hubs. Feel free to look around!
 
-If you'd like to get in touch, please fill out this form [here](contact),
+If you'd like to get in touch, please fill out this form [here](/contact),
 or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternative methods.
 
 ## News

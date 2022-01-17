@@ -53,7 +53,13 @@ img {
 }
 
 .news-block {
+    border: 2px dashed navy;
+    padding: 10px;
+    margin-bottom: 20px;
+}
 
+.news-block p {
+    margin: 10px 0 0 0;
 }
 
 .wrapper {

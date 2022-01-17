@@ -15,7 +15,7 @@ Your submission will be reviewed before being added into the dictionary. Thank y
         <b>New Term (Chinese) 词汇中文</b><input type="text" name="english" placeholder="Enter Chinese for the term"><br>
         <b>New Term (English) 词汇英文</b><input type="text" name="chinese" placeholder="Enter English for the term"><br>
         <b>Meaning 词汇释义</b><textarea name="meaning" placeholder="Enter a definition for the term in English or Chinese"></textarea><br>
-        <input type="text" name="origin" placeholder="www-dict/contrib.md" style="display: none;">
+        <input type="text" name="origin" value="www-dict/contrib.md" style="display: none;">
         <input style="position: absolute; left: -5000px;" type="checkbox" name="awesome_lavendar_waved_dolphin" value="1" tabindex="-1" autocomplete="no">
         <button type="submit">Submit 提交</button>
     </form>

@@ -106,6 +106,7 @@ Take a look at those places if you didn't see the word you're finding here
 | 说 话 带 空 格 | WRITING IN ALL CAPS; wRiTiNg In AlTeRnAtInG CaSeS | A form of textual communication used to represent an exaggerated, loud, angry, or sarcastic tone. It is also possible that their CapsLock is broken. |
 | 融梗; `neg.` 缝合怪 | `amb.` (Person who makes) Meme mashup | One who makes *meme* by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**融梗**: `lit.` Melting memes together. |
 | 溜了 | gtg; g2g | I'm leaving. Got to go. |
+| 88 | ttys | Bye. See you later.<br>**ttys:** Talk to you soon. |
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
 | 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
 | 自设; 二设 | Fanon | A *canon* created by fans. Not to be confused with *persona*. |
@@ -120,7 +121,7 @@ Take a look at those places if you didn't see the word you're finding here
 | （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
 | awsl | `n.a.` | `lit.` I'm dying (because this is so impressive/cute) |
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
-| 
+| 复读; 接龙 | Chain | To repeatedly post the exact same message, either for fun or to emphasize. |
 
 [RETURN](/)
 {:.right}

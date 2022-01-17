@@ -7,3 +7,6 @@
         <button type="submit">Submit 提交</button>
     </form>
 </div>
+
+[RETURN](/)
+{:.right}

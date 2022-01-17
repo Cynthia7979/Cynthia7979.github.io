@@ -1,4 +1,8 @@
 # 合成大西瓜合集
+
+[RETURN](/)
+{:.right}
+
 这里收录一些B站/Q群流传的合成大西瓜同人版本。
 
 所有版本都建议手机游玩。电脑端游玩请点击`Ctrl+Shift+I`，打开控制台后点击下方箭头处换成手机模式，然后刷新页面游玩。
@@ -6,11 +10,16 @@
 ![Where is Phone Console](/static/whereconsole.png)
 
 **目录**
-* [Q&A](/daxigua#Q&A)
-* [原作](/daxigua#原作)
-* [同人版本](/daxigua#同人版本)
-* [链接暂缺同人版本](/daxigua#同人版本（链接暂缺）)
-* [其他相关作品](/daxigua#其他相关作品)
+<!-- Have to use HTML here since anchor links seem to be malfunctioning -->
+<ul>
+    <li><a href="#q-a">Q&A</a></li>
+    <li><a href="#original">原作</a></li>
+    <li><a href="#fanmade">同人版本</a></li>
+    <li><a href="#link-missing-fanmade">连接暂缺同人版本</a></li>
+    <li><a href="#other">其他相关作品</a></li>
+</ul>
+
+<a id="q-a"></a>
 
 ## Q&A
 *Q:* 我有一个建议/我发现了一个错误  
@@ -28,12 +37,15 @@
 *A:* 原 作 向  
 ![Why Synthetic](/static/whysynthetic.png)
 
+<a id="original"></a>
+
 ## 🌟原作
 * [链接](http://www.wesane.com/game/654/?dt_dapp=1&dt_dapp=1)
 * [修改教程](http://bilibili.com/BV1nV411q7Ze)
     * [教程笔记](https://note.youdao.com/ynoteshare1/index.html?id=aec13507eec8ab75c63bfd38f79ed651&type=note)
 * 其它与原作视觉上相似的版本，请在页面内搜索“原作向”
 
+<a id="fanmade"></a>
 
 ## ✒同人版本
 这些**不是现存所有的同人版本**。如果你发现/制作了一个此处没有列出的版本，欢迎在[这里](https://github.com/Cynthia7979/Cynthia7979.github.io/issues/new?assignees=Cynthia7979&labels=&template=---------.md&title=%5B合成大西瓜%5D+资源提供——版本名称)
@@ -99,7 +111,7 @@
 * [休之卡比魔改版](https://azurlanenya.github.io)
     * **作者：** [休之卡比Official](https://space.bilibili.com/8548041)
     * **试玩视频：** [【合成大西瓜魔改版？】听说你们上b站就是为了看这个？](https://www.bilibili.com/video/BV1Ep4y1W7G3)
-* [合成大希瓜](https://magnoliar.github.io/Hiitermelon)
+* [合成大希瓜](https://magnoliar.github.io/Hiitermelon) *Hiiro*
     * **作者：** [咸鱼都不如的阿飞](https://space.bilibili.com/167243033)
     * **试玩视频：** [《合成大希瓜》](https://www.bilibili.com/video/BV1DT4y1P7Q1)
 * [合成大萃香](https://suika.touhoudog.com)
@@ -225,7 +237,11 @@
     * 备用链接：[https://xiaowu.vercel.app/](https://xiaowu.vercel.app/)
     * **作者：** [xliio](https://space.bilibili.com/13686566)
     * **试玩视频：** [【五条悟】一起来合成小五老师叭！](https://www.bilibili.com/video/BV1kr4y1K71i)
+* [合成小绿人](https://plashspeed.top/xigua/game?id=a19d1b95) *Dream* *MCYT*
+    * **作者：** [-缓之-](https://space.bilibili.com/150560407)
+    * **试玩视频：** [合 成 小 绿 人](https://www.bilibili.com/video/BV1Mb4y1z74L)
     
+<a id="link-missing-fanmade"></a>
 
 ## ❔同人版本（链接暂缺）
 这些版本仅仅存在分享的图片/视频，但没有可以游玩的链接。如果你有资源，
@@ -235,7 +251,7 @@
 另外，在收集B站的版本时，我*忽略了*没有提供链接和没有制作线上版本的试玩视频。
 如果你对它们感兴趣，可以在[这个](https://search.bilibili.com/all?keyword=合成大&from_source=nav_search_new)搜索结果里挖一挖。
 
-* 合成武大（仅有截屏没有链接）
+* 合成武大（仅有截屏没有链接）*武汉大学*
     * ![Synthetic Wu Han University](/static/synthetic_whu.JPG)
 * 合成大C瓜（链接404）
     * [http://cgua.bee-6.com/合成大C瓜](http://cgua.bee-6.com/合成大C瓜)
@@ -257,6 +273,11 @@
     和[http://widdit.gitee.io/synthesis-watermelon/](http://widdit.gitee.io/synthesis-watermelon/)
     * **作者：** [Entropy_S](https://space.bilibili.com/355054841)
     * **试玩视频：** [合 成 大 西 瓜](https://www.bilibili.com/video/BV1Ko4y1d7Cu)
+* 合成MCYT（无链接）
+    * **作者：** [九刻临兮](https://space.bilibili.com/22994321)
+    * **试玩视频：** [合成大西瓜 但是是MCYT（？](https://www.bilibili.com/video/BV1X3411e77a)
+    
+<a id="other></a>
 
 ## 📦其他相关作品
 * [【自制动画】真实版《合成大西瓜》](https://www.bilibili.com/video/BV1Cr4y1K7Lc)
@@ -266,7 +287,7 @@
 * [合成大西瓜源码复制](https://github.com/bullhe4d/bigwatermelon)
     * **不是**原作者开源，代码是压缩后的js代码
 * [合成大西瓜创意工坊](https://plashspeed.top/xigua/creator#/) *制作器*
-    * 目前服务器负荷似乎有点重
+    * 作者已终止图片上传功能
 
 [RETURN](/)
 {:.right}

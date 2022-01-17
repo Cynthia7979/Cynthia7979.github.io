@@ -106,7 +106,7 @@ Take a look at those places if you didn't see the word you're finding here
 | 说 话 带 空 格 | WRITING IN ALL CAPS; wRiTiNg In AlTeRnAtInG CaSeS | A form of textual communication used to represent an exaggerated, loud, angry, or sarcastic tone. It is also possible that their CapsLock is broken. |
 | 融梗; `neg.` 缝合怪 | `amb.` (Person who makes) Meme mashup | One who makes *meme* by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**融梗**: `lit.` Melting memes together. |
 | 溜了 | gtg; g2g | I'm leaving. Got to go. |
-| 88 | ttys | Bye. See you later.<br>**ttys:** Talk to you soon. |
+| 88 | ttys/ttyl | Bye. See you later.<br>**ttys**: Talk to you soon.<br>**ttyl**: Talk to you later. |
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
 | 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
 | 自设; 二设 | Fanon | A *canon* created by fans. Not to be confused with *persona*. |

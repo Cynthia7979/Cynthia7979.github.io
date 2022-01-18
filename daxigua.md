@@ -240,6 +240,8 @@
 * [合成小绿人](https://plashspeed.top/xigua/game?id=a19d1b95) *Dream* *MCYT*
     * **作者：** [-缓之-](https://space.bilibili.com/150560407)
     * **试玩视频：** [合 成 小 绿 人](https://www.bilibili.com/video/BV1Mb4y1z74L)
+* [合成波兰球](https://daxigua-master-rfyjz3bo3.vercel.app/?continueFlag=21d4d8c969a62efc86386abfa47577c3%E2%80%8B)
+    * 作者未知
     
 <a id="link-missing-fanmade"></a>
 

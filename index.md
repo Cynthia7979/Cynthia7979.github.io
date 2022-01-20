@@ -8,6 +8,13 @@ or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternat
 ## News
 
 <div class="news-block">
+    <b><a href="https://youtu.be/7QLaYM7dXWo">GLaDOS Sings <i>Revived</i></a></b>
+    <p>
+    A side project where I made GLaDOS from the Portal series to sing Revived, a song composed and produced by Derivakat. Click the link above or (<a href="https://www.bilibili.com/video/BV1Xq4y1k7gT">here</a> if you're on mainland) to give it a listen!
+    </p>
+</div>
+
+<div class="news-block">
     <b><a href="https://www.deviantart.com/cynthia7979">My DeviantArt Account!</a></b>
     <p>
     I've decided to create a DeviantArt account to put my <a href="https://github.com/Cynthia7979/images/tree/master/artwork">long-forgotten artworks</a>.

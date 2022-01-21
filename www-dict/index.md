@@ -15,6 +15,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 Use `Ctrl+F` (`Command+F`) to search for a specific word!  
 请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！
 
+**Disclaimer:** The terms in this dictionary are highly informal. They should *not* be used for formal situations, e.g. publications, academic presentations, news or scientific reports, etc.
+**免责声明：**本词典中的词汇是极度非正式的，不应被用在正式场合中。正式的场合包括但不限于论文写作、学术演讲、新闻报道及科学报告。
+
 **Please Note:** The abbreviations that start with slashes are called **tone indicators**. They are used to clarify a sentence's connotation and should be used accurately. Read more about tone indicators [here](https://toneindicators.carrd.co/).  
 **请注意**：下列英语词汇中，以斜杠（/）开头的词汇都是**tone indicator**（语气指示词）。它们的作用是阐明一句话的语气和意思，因此需要被恰当使用。在 [这里](https://toneindicators.carrd.co/) 阅读更多关于tone indicator（语气指示词）的介绍。
 
@@ -90,7 +93,7 @@ Take a look at those places if you didn't see the word you're finding here
 | 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion.<br>Joining the conversation sometime to show that one exists is called 冒泡 (`lit.` bubbling). Those who *lurk* are called *lurkers*. |
 | 刷 | To grind | (In games) doing things over and over again to get some desired outcome. |
 | 熊 | To grief | Destroying things on purpose; Sabotage |
-| 世另我 | `n.a.` | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world |
+| 世另我 | `amb.` ikr | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world<br>**ikr**: I know right |
 | 好耶 | Let's go; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement. |
 | (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |

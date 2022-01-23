@@ -5,6 +5,8 @@ At the bottom of the page you'll find a list of available webpage hubs. Feel fre
 If you'd like to get in touch, please fill out this form [here](/contact),
 or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternative methods.
 
+You may also be interested in: [Cynthia的小木屋](cynthia-s-cabin.wikidot.com)
+
 ## News
 
 <div class="news-block">

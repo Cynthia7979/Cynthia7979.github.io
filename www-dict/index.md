@@ -125,6 +125,7 @@ Take a look at those places if you didn't see the word you're finding here
 | awsl | `n.a.` | `lit.` I'm dying (because this is so impressive/cute) |
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
 | 复读; 接龙 | Chain | To repeatedly post the exact same message, either for fun or to emphasize. |
+| 废话文学 | `amb.` Hmm yes, the floor here is made out of floor. | Sentences that mean nothing because they used a phrase itself to describe a phrase. Statements that overstress obvious features. `lit.` Nonsense literature.<br>**Note**: The English phrase is both a summary of all related *memes* and a response one would get when they say something that fits the above criteria.<br>**Chinese Examples**:<br>这A可太A了！<br>听君一席话，如听一席话<br>X了Y就像X了Y一样 |
 
 [RETURN](/)
 {:.right}

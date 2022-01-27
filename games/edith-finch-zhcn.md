@@ -1,4 +1,4 @@
-# 《艾迪芬奇的记忆》评价
+# [艾迪芬奇的记忆](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/) 测评
 
 [RETURN](/games/)
 {:.right}

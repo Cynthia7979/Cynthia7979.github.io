@@ -1,4 +1,4 @@
-# [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/) Game Review
+# *[Inscryption](https://store.steampowered.com/app/1092790/Inscryption/)* Game Review
 
 [RETURN](/games/)
 {:.right}

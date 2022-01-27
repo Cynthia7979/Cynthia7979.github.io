@@ -14,7 +14,7 @@ You may also be interested in: [Cynthia的小木屋](cynthia-s-cabin.wikidot.com
 <div class="news-block">
     <b><a href="https://cynthia7979.github.io/games">Game Reviews</a></b>
     <p>
-    I reposted my game reviews that're originally published on Steam. Currently there's only *Inscryption* and *What Remains of Edith Finch* (in Chinese).
+    I reposted my game reviews that're originally published on Steam. Currently there's only <i>Inscryption</i> and <i>What Remains of Edith Finch</i> (in Chinese).
     </p>
 </div>
 

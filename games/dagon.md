@@ -1,4 +1,4 @@
-# [Dagon: by H.P. Lovecraft](https://store.steampowered.com/app/1481400/Dagon_by_H_P_Lovecraft/) Game Review
+# *[Dagon: by H.P. Lovecraft](https://store.steampowered.com/app/1481400/Dagon_by_H_P_Lovecraft/)* Game Review
 
 [RETURN](/games/)
 {:.right}

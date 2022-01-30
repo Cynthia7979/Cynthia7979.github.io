@@ -242,6 +242,8 @@
     * **试玩视频：** [合 成 小 绿 人](https://www.bilibili.com/video/BV1Mb4y1z74L)
 * [合成波兰球](https://daxigua-master-rfyjz3bo3.vercel.app/?continueFlag=21d4d8c969a62efc86386abfa47577c3%E2%80%8B)
     * 作者未知
+* [合成大C瓜](http://cgua.bee-6.com/)
+    * 作者未知
     
 <a id="link-missing-fanmade"></a>
 
@@ -255,9 +257,6 @@
 
 * 合成武大（仅有截屏没有链接）*武汉大学*
     * ![Synthetic Wu Han University](/static/synthetic_whu.JPG)
-* 合成大C瓜（链接404）
-    * [http://cgua.bee-6.com/合成大C瓜](http://cgua.bee-6.com/合成大C瓜)
-    * 由“重不三连的白嫖怪”在[这里](https://t.bilibili.com/486038621140731377?tab=2)提供
 * MC版合成大西瓜（没有地图资源）
     * **作者：** [过激海豹吹](https://space.bilibili.com/8227772)
     * **试玩视频：** [【MC】合成大村民](https://www.bilibili.com/video/BV1kf4y167Vc)

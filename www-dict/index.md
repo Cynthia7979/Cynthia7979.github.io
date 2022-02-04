@@ -3,6 +3,9 @@
 [RETURN](/)
 {:.right}
 
+**Use `Ctrl+F` (`Command+F`) to search for a specific word!**
+**请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！**
+
 _**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
 
 ## Introduction 简介
@@ -11,9 +14,6 @@ This dictionary is made for those who'd like to speak more natively in both Chin
 
 A term is usually included if it has a matching translation in Chinese or can't be easily found on web. It does not need an English translation to appear here.  
 如果一个词汇有对应的中文翻译，或者未被其他主流词典收录，那么它就会出现在这里。有的词汇不会有对应的英文意思。
-
-Use `Ctrl+F` (`Command+F`) to search for a specific word!  
-请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！
 
 **Disclaimer:** The terms in this dictionary are highly informal. They should *not* be used for formal situations, e.g. publications, academic presentations, news or scientific reports, etc.
 **免责声明：**本词典中的词汇是极度非正式的，不应被用在正式场合中。正式的场合包括但不限于论文写作、学术演讲、新闻报道及科学报告。

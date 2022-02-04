@@ -1,3 +1,11 @@
+Welcome to my blog! This is where I will put my [Ideas](ideas), [Tech Blog](/Tech%20Stuff), and other things in. Feel free to look around!
+
+If you'd like to get in touch, please fill out this form [here](/contact),
+or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternative methods.
+
+You may also be interested in: [Cynthia的小木屋](cynthia-s-cabin.wikidot.com)
+
+Here's a list of currently available pages:
 
 | Page | Established | Updated |
 |------|-------------|---------|
@@ -7,15 +15,6 @@
 | [Ideas](ideas) | 30 Dec 2021 | 16 Jan 2022 |
 | [Book Notes Hub](/Book%20Notes) | 22 Jan 2021 | 5 Sep 2021 |
 | [Tech Stuff Hub](/Tech%20Stuff) | 23 Jan 2021 | 5 May 2021 |
-
--------
-
-Welcome to my blog! This is where I will put my [Ideas](ideas), [Tech Blog](/Tech%20Stuff), and other things in. Feel free to look around!
-
-If you'd like to get in touch, please fill out this form [here](/contact),
-or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternative methods.
-
-You may also be interested in: [Cynthia的小木屋](cynthia-s-cabin.wikidot.com)
 
 ---------
 

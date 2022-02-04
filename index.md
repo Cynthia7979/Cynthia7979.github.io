@@ -15,7 +15,7 @@ You may also be interested in: [Cynthia的小木屋](cynthia-s-cabin.wikidot.com
     <b><a href="https://www.underthemadnessmagazine.com/editions/for-example">My Poems Got Published!</a></b>
     <p>
     <span class="date">Feb 4, 2022</span>
-    Two of my past poems got published on the first Issue of Under the Madness Magazine! They are <a href="https://www.underthemadnessmagazine.com/post/the-monster-september-2021">"The Monster</a> and <a href="https://www.underthemadnessmagazine.com/post/the-rational-mind">"The Rational Mind"</a>. There are some minor format mistakes made by the editors, though. If you'd like to see the original work and more, click <a href="http://cynthia-s-cabin.wikidot.com/dairies-hub">here</a> to access my Cabin.
+    Two of my past poems got published on the first Issue of Under the Madness Magazine! They are <a href="https://www.underthemadnessmagazine.com/post/the-monster-september-2021">"The Monster</a> and <a href="https://www.underthemadnessmagazine.com/post/the-rational-mind">"The Rational Mind"</a>. There are some minor format mistakes made by the editors, though. If you'd like to see the original work and more, click <a href="http://cynthia-s-cabin.wikidot.com/diary-18">here</a> to access my Cabin.
     </p><p>
     Under the Madness is a digital magazine founded and ran by teens, for teens. Click <a href="https://www.underthemadnessmagazine.com/masthead">here</a> to learn more about them.
     </p>

@@ -62,7 +62,7 @@ Take a look at those places if you didn't see the word you're finding here
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
 | xswl; xs; 笑死; 草; 蚌埠住了; 绷不住了 | lmao/lfmao; rofl; lol | All terms are about laughter.<br/>**xswl**: I'm laughing to death<br/>**lmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
-| （不是）;（什么）;（草）| /j; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
+| （不是）;（什么）;（草）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实 | `amb.` ikr | Indeed; You got a point.<br/>**ikr**: I know right |
 | 什 | wha- | "What" but surprised |
@@ -72,7 +72,7 @@ Take a look at those places if you didn't see the word you're finding here
 | （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |
 | 涩; 嘶哈; 裤子飞了; 裤子没了; hso  | `amb.` /x, /sx | This is so sexy/hot; Showing sexual intent, interpretation, or interest. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
-| tql; 大佬 | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |
+| tql | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
 | jrm; jr; 家人们; 集美（们） | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
 | 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated. |
@@ -97,7 +97,7 @@ Take a look at those places if you didn't see the word you're finding here
 | 好耶 | Let's go; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement. |
 | (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
-| 标题党; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
+| 标题党; `amb.` 营销号; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
 | dbq | sry; mb | Sorry. An apology.<br>**dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
 | 顶贴; dd (sometimes with more d's) | Bump; `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
@@ -113,7 +113,7 @@ Take a look at those places if you didn't see the word you're finding here
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
 | 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
 | 自设; 二设 | Fanon | A *canon* created by fans. Not to be confused with *persona*. |
-| 自设; `amb.` 人设 | Persona | Someone's character's setting. Can describe the creator's personality in some way, or simply an original character (aka. *OC*). |
+| 自设; `amb.` 人设 | Persona; `OC` | Someone's character's setting. Can describe the creator's personality in some way, or simply be an original character (aka. *OC*). |
 | MB; NMB | Fuck (you) | Offensive swear words. Can be interchangably used with any arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
 | xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
@@ -126,6 +126,10 @@ Take a look at those places if you didn't see the word you're finding here
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
 | 复读; 接龙 | Chain | To repeatedly post the exact same message, either for fun or to emphasize. |
 | 废话文学 | `amb.` Hmm yes, the floor here is made out of floor. | Sentences that mean nothing because they used a phrase itself to describe a phrase. Statements that overstress obvious features. `lit.` Nonsense literature.<br>**Note**: The English phrase is both a summary of all related *memes* and a response one would get when they say something that fits the above criteria.<br>**Chinese Examples**:<br>这A可太A了！<br>听君一席话，如听一席话<br>X了Y就像X了Y一样 |
+| 你 我 这 | When- (what-, how-, why-) | Expressing a surprised confusion.<br>Similar to *什* (*wha-*). |
+| 大佬 | Pogger; Pogchamp | Someone who is a master in a certain field. Someone who plays the game well.<br>See *tql*. |
+| 救命; 要命 | `amb.` (This is) Cursed; `amb.` Help | To express that something is so hilarious or crazy that one cannot stand it.<br>**Note:**While "Cursed" is always informal, "救命" can be a serious cry for help. It is important to note the context this phrase is in. |
+| 手书 | Animatic | A form of animated video that is usually based on one or more fictional *canon*(s), character(s), or *OC*(s). May and usually tell a story that is accompanied by a song. Usually digitally hand-drawn, though a small portion are rendered with 3D models. |
 
 [RETURN](/)
 {:.right}

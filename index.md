@@ -16,8 +16,6 @@ Here's a list of currently available pages:
 | [Book Notes Hub](/Book%20Notes) | 22 Jan 2021 | 5 Sep 2021 |
 | [Tech Stuff Hub](/Tech%20Stuff) | 23 Jan 2021 | 5 May 2021 |
 
----------
-
 ## News
 
 <div class="news-block">

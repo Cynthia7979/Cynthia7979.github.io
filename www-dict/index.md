@@ -61,7 +61,7 @@ Take a look at those places if you didn't see the word you're finding here
 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
-| xswl; xs; 笑死; 草; 蚌埠住了; 绷不住了 | lmao/lfmao; rofl; lol | All terms are about laughter.<br/>**xswl**: I'm laughing to death<br/>**lmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
+| xswl; xs; 笑死; 草; 蚌埠住了; 绷不住了 | lmao/lfmao; rofl; lol | To laugh.<br/>**xswl**: `lit.` I'm laughing to death<br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
 | （不是）;（什么）;（草）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实 | `amb.` ikr | Indeed; You got a point.<br/>**ikr**: I know right |

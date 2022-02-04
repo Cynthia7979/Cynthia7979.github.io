@@ -3,10 +3,10 @@
 [RETURN](/)
 {:.right}
 
+_**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
+
 **Use `Ctrl+F` (`Command+F`) to search for a specific word!**
 **请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！**
-
-_**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
 
 ## Introduction 简介
 This dictionary is made for those who'd like to speak more natively in both Chinese and English, translate or write internet-related thing like a chat history, or just want to understand what everything means in this digital world.  

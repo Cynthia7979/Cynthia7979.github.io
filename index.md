@@ -17,6 +17,14 @@ Here's a list of currently available pages:
 # News
 
 <div class="news-block">
+    <b><a href="http://cynthia-s-cabin.wikidot.com/universal-beijing">Universal Resort Beijing Review Published</a>
+    <span class="date">Feb 6, 2022</span></b>
+    <p>
+    After two visits, I made what's now the Universal Resort Beijing Review. It'll tell you what I strongly recommend or suggest you avoid. It's written in Chinese, but feel free to message me if you would like a translation. I would be happy to do so!
+    </p>
+</div>
+
+<div class="news-block">
     <b><a href="https://www.underthemadnessmagazine.com/editions/for-example">My Poems Got Published!</a>
     <span class="date">Feb 4, 2022</span></b>
     <p>
@@ -40,7 +48,19 @@ Here's a list of currently available pages:
     </p>
 </div>
 
-[News Archive](/news-archive)
-{:.center}
+<div class="news-block">
+    <b><a href="https://www.deviantart.com/cynthia7979">My DeviantArt Account!</a></b>
+    <p>
+    I've decided to create a DeviantArt account to put my <a href="https://github.com/Cynthia7979/images/tree/master/artwork">long-forgotten artworks</a>.
+    Head over there to take a look and leave a like if you found them interesting! :)
+    </p>
+</div>
+
+<div class="news-block">
+    <b><a href="https://cynthia7979.github.io/ideas/herobrine">First Ever Blog Article</a></b>
+    <p>
+    My first blog article ever, on the topic of Herobrine and liminal space, is now posted.
+    </p>
+</div>
 
 -------

@@ -1,4 +1,4 @@
-Welcome to my blog and feel free to look around! If you'd like to get in touch, please fill out this form [here](/contact),
+Welcome to my blog! If you'd like to get in touch, please fill out this form [here](/contact),
 or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternative methods.
 
 I also have a Chinese blog [at this address](cynthia-s-cabin.wikidot.com) that's lacking maintenance. I'll not delete or move existing content, but new content will be updated here.

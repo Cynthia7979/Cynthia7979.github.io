@@ -1,9 +1,7 @@
-Welcome to my blog! This is where I will put my [Ideas](ideas), [Tech Blog](/Tech%20Stuff), and other things in. Feel free to look around!
-
-If you'd like to get in touch, please fill out this form [here](/contact),
+Welcome to my blog and feel free to look around! If you'd like to get in touch, please fill out this form [here](/contact),
 or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternative methods.
 
-You may also be interested in: [Cynthia的小木屋](cynthia-s-cabin.wikidot.com)
+I also have a Chinese blog [at this address](cynthia-s-cabin.wikidot.com) that's lacking maintenance. I'll not delete or move existing content, but new content will be updated here.
 
 Here's a list of currently available pages:
 

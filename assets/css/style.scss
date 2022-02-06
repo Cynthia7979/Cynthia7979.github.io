@@ -7,8 +7,25 @@ body {
     font-size: 18px;
 }
 
+code {
+    color: #c53232;
+    font-size: 0.8em;
+}
+
 h1 { font-size: 31px; }
 h2 { font-size: 27px; }
+
+
+h1.title {
+    font-size: 54px;
+    margin: 30px 10px 10px;
+}
+
+img {
+    border: 0;
+    margin: 0 22.5%;
+    width: 55%;
+}
 
 .caption {
     color: #C1C1C1;
@@ -24,22 +41,6 @@ h2 { font-size: 27px; }
 .date {
     color: #C1C1C1;
     font-size: small;
-    display: inline-block;
-}
-
-.right {
-    text-align: right;
-}
-
-code {
-    color: #c53232;
-    font-size: 0.8em;
-}
-
-img {
-    border: 0;
-    margin: 0 22.5%;
-    width: 55%;
 }
 
 .form b {
@@ -60,6 +61,16 @@ img {
     padding: 0px 5px;
 }
 
+.hits {
+    display: inline;
+}
+
+.hits img {
+    height: 1em;
+    margin: 0 0 -3px 6px;
+    width: auto;
+}
+
 .news-block {
     border: 2px dashed navy;
     padding: 10px;
@@ -70,13 +81,12 @@ img {
     margin: 10px 0 0 0;
 }
 
-.wrapper {
-    width: 98%;
+.right {
+    text-align: right;
 }
 
-h1.title {
-    margin: 30px 10px 10px;
-    font-size: 54px;
+.wrapper {
+    width: 98%;
 }
 
 @media only screen and (min-width: 768px) {

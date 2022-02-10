@@ -104,7 +104,7 @@ Take a look at those places if you didn't see the word you're finding here
 | dbq | sry; mb | Sorry. An apology.<br>**dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
 | 顶贴; dd (sometimes with more d's) | Bump; `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
-| woc | wtf; wth | To express anger, surprise, and/or excitement.<br>**wtf**: What the fuck.<br>**wth**: What the hell/heck. |
+| woc; c | wtf; wth | To express anger, astonishment, and/or excitement. Can be substituted with arbitrary swear word. <br>**wtf**: What the fuck.<br>**wth**: What the hell. |
 | 鬼畜 | YTP | A type of meme video re-editing an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
 | 自闭; emo | emo | To feel frustrated, depressed, anxious, or in any way psychologically unwell. <br>**emo**: Originally an abbreviation of emotional hardcore. |
 | 主角光环 | Plot armor; `lit.` Protagonist halo | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
@@ -117,7 +117,7 @@ Take a look at those places if you didn't see the word you're finding here
 | 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
 | 自设; 二设 | Fanon | A *canon* created by fans. Not to be confused with *persona*. |
 | 自设; `amb.` 人设 | Persona; `OC` | Someone's character's setting. Can describe the creator's personality in some way, or simply be an original character (aka. *OC*). |
-| MB; NMB | Fuck (you) | Offensive swear words. Can be interchangably used with any arbitrary swear words. |
+| MB; NMB | Fuck (you) | Offensive swear words. Can be interchangably used with arbitrary swear word. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
 | xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
 | gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |
@@ -133,6 +133,8 @@ Take a look at those places if you didn't see the word you're finding here
 | 大佬 | Pogger; Pogchamp | Someone who is a master in a certain field. Someone who plays the game well.<br>See *tql*. |
 | 救命; 要命 | `amb.` (This is) Cursed; `amb.` Help | To express that something is so hilarious or crazy that one cannot stand it.<br>**Note:**While "Cursed" is always informal, "救命" can be a serious cry for help. It is important to note the context this phrase is in. |
 | 手书 | Animatic | A form of animated video that is usually based on one or more fictional *canon*(s), character(s), or *OC*(s). May and usually tell a story that is accompanied by a song. Usually digitally hand-drawn, though a small portion are rendered with 3D models. |
+| 这河里吗/这合理吗 | (How) is that fair | That doesn't make sense. |
+| 什么鬼 | What the frick/fudge; What the heck | A more gentle way to express confusement or atsonishment. Also see: *wtf*; *wth* |
 
 [RETURN](/)
 {:.right}

@@ -1,5 +1,5 @@
-# The Incomplete Internet Slang Dictionary (Chinese - English)  
-# 不完全网络用语中英词典
+# 不完全网络用语中英词典  
+# The Incomplete Internet Slang Dictionary (Chinese - English)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcynthia7979.github.io%2Fwww-dict%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 {:.hits}

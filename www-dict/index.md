@@ -53,7 +53,7 @@ page by MakeUseOf
 [Carrd](https://tonetags.carrd.co/#masterlist)
 * [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
 
-Take a look at those places if you didn't see the word you're finding here 
+Take a look at those places if you didn't see the word you're finding here  
 如果你找不到想找的词，在这些地方看一看（英文）：
 * [Urban Dictionary](https://www.urbandictionary.com)
 * [Your Dictionary](https://www.yourdictionary.com)

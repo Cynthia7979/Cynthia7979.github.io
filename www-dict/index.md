@@ -35,31 +35,10 @@ A term is usually included if it has a matching translation in Chinese or can't 
 - `m.` Male 对于男性的用词
 - `neg.` Negative connotation 贬义
 
-## References 参考资料
-Some words here are based on those sources
-部分词汇来自以下来源：
-* [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
- published by Common Sense
-* [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-page by MakeUseOf
-* [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
-* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
-
-* Common Sense 发布的
-[词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
-* MakeUseOf 撰写的
-[文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-* @ranlaugh制作的
-[Carrd](https://tonetags.carrd.co/#masterlist)
-* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
-
-Take a look at those places if you didn't see the word you're finding here  
-如果你找不到想找的词，在这些地方看一看（英文）：
-* [Urban Dictionary](https://www.urbandictionary.com)
-* [Your Dictionary](https://www.yourdictionary.com)
-
-## **[Didn't Find Your Word? CONTRIBUTE HERE! 在这里提交新条目！](/www-dict/contrib)**
+## **[Didn't Find Your Word? CONTRIBUTE HERE! 提交新条目！](/www-dict/contrib)**
 {:.center}
+
+
 
 ## The Dictionary 词典正文
 
@@ -140,6 +119,29 @@ Take a look at those places if you didn't see the word you're finding here
 | 破案了 | Spoiler: ; (Plot) Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Plot Twist: This hotel was built by the mafia. |
 | 爬, 爪巴 | Screw off, fuck off | A mean way to tell someone to leave. |
 | 🐍🐋; 身寸 | Cum | To produce semen.<br>In English: Sometimes mispronounced from "come" to create a *sus* atmosphere. |
+
+## References 参考资料
+Some words here are based on those sources
+部分词汇来自以下来源：
+* [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
+ published by Common Sense
+* [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
+page by MakeUseOf
+* [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
+* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
+
+* Common Sense 发布的
+[词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
+* MakeUseOf 撰写的
+[文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
+* @ranlaugh制作的
+[Carrd](https://tonetags.carrd.co/#masterlist)
+* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
+
+Take a look at those places if you didn't see the word you're finding here  
+如果你找不到想找的词，在这些地方看一看（英文）：
+* [Urban Dictionary](https://www.urbandictionary.com)
+* [Your Dictionary](https://www.yourdictionary.com)
 
 
 [RETURN](/)

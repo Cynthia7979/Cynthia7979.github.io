@@ -78,7 +78,7 @@ Take a look at those places if you didn't see the word you're finding here
 | tql | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
 | jrm, 家人们; jr; 集美（们） | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
-| 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated. |
+| 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated.<br>**Note:** *Meme* may also be used in Chinese, either with the same meaning or to denote short animation videos accompanied with viral music sections. Do not confuse with *手书* (*Animatic*). |
 | 玩梗 | (Use a) Reference; Meme | To use a meme. To include a popular reference. |
 | 酸（了）;<br/>`uncmn.` 吃醋 | Salty | Being jealous |
 | 怪; 太怪了 | (This is so) weird/awkward; sus | Usually used as an exclamation on something confusing, with sexual intent, or both. |
@@ -135,7 +135,7 @@ Take a look at those places if you didn't see the word you're finding here
 | 手书 | Animatic | A form of animated video that is usually based on one or more fictional *canon*(s), character(s), or *OC*(s). May and usually tell a story that is accompanied by a song. Usually digitally hand-drawn, though a small portion are rendered with 3D models. |
 | 这河里吗, 这合理吗 | (How) is that fair | That doesn't make sense. |
 | 什么鬼 | What the frick/fudge, What the heck | A more gentle way to express confusement or atsonishment. Also see: *wtf*; *wth* |
-| lj, 辣鸡, 垃圾 | `lit.` Trash; Sucker, crap; Crappy; `uncmn.` Dog water | To denote that something or someone is very bad. To show disregardness and unrespect. May be replaced with swearings that have similar meanings.<br>**Note:** As of 2022, *dog water* is usually used by youths to say that someone is bad at games. |
+| lj, 辣鸡, 垃圾 | `lit.` Trash; Sucker, crap; Crappy; `uncmn.` Dog water | To denote that something or someone is very bad. To show disregardness and unrespect. May be replaced with swearings that have similar meanings.<br>**Note:** As of 2022, *dog water* is most commonly used by youths to say that someone is bad at games. |
 | 破案了 | Spoiler: ; (Plot) Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Plot Twist: This hotel was built by the mafia. |
 | 爬, 爪巴 | Screw off, fuck off | A mean way to tell someone to leave. |
 | 🐍🐋; 身寸 | Cum | To produce semen.<br>In English: Sometimes mispronounced from "come" to create a *sus* atmosphere. |

@@ -21,5 +21,5 @@ Your submission will be reviewed before being added into the dictionary. Thank y
     </form>
 </div>
 
-[RETURN](/)
+[RETURN](/www-dict)
 {:.right}

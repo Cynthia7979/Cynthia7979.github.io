@@ -73,7 +73,7 @@ Take a look at those places if you didn't see the word you're finding here
 | （并不） | /f; /neg | The previous statement is fake |
 | `uncmn.`（反问） | /rh; /rt | Rhetorical question |
 | （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |
-| 涩; 嘶哈; 裤子飞了; 裤子没了; hso  | `amb.` /x, /sx | This is so sexy/hot; Showing sexual intent, interpretation, or interest. |
+| 涩, 色色; hso; 嘶哈, 裤子飞了, 裤子没了  | `amb.` Horny; `amb.` /x, /sx; `uncmn.` NSFW | This is so sexy/hot; Showing sexual intent, interpretation, or interest.<br>**Note:** Not Safe For Work (*NSFW*) is a general word which describes content that are violent, sexually explicit, or generally inappropriate. Do not post *NSFW* as a response to those content. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
 | tql | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |

@@ -8,7 +8,7 @@
 
 _**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
 
-**Use `Ctrl+F` (`Command+F`) to search for a specific word!**
+**Use `Ctrl+F` (`Command+F`) to search for a specific word!**  
 **请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！**
 
 ## Introduction 简介
@@ -136,8 +136,9 @@ Take a look at those places if you didn't see the word you're finding here
 | 这河里吗, 这合理吗 | (How) is that fair | That doesn't make sense. |
 | 什么鬼 | What the frick/fudge, What the heck | A more gentle way to express confusement or atsonishment. Also see: *wtf*; *wth* |
 | lj, 辣鸡, 垃圾 | `lit.` Trash; Sucker, crap; Crappy; `uncmn.` Dog water | To denote that something or someone is very bad. To show disregardness and unrespect. May be replaced with swearings that have similar meanings.<br>**Note:** As of 2022, *dog water* is usually used by youths to say that someone is bad at games. |
-| 破案了 | Spoiler: ; Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Twist: The hotel was actually built by the mafia. |
+| 破案了 | Spoiler: ; (Plot) Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Plot Twist: This hotel was built by the mafia. |
 | 爬, 爪巴 | Screw off, fuck off | A mean way to tell someone to leave. |
+| 🐍🐋; 身寸 | Cum | To produce semen.<br>In English: Sometimes mispronounced from "come" to create a *sus* atmosphere. |
 
 
 [RETURN](/)

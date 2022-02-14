@@ -1,4 +1,5 @@
-# The Incomplete Internet Slang Dictionary (Chinese - English) 不完全网络用语中英词典
+# The Incomplete Internet Slang Dictionary (Chinese - English)  
+# 不完全网络用语中英词典
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcynthia7979.github.io%2Fwww-dict%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 {:.hits}
@@ -18,7 +19,7 @@ This dictionary is made for those who'd like to speak more natively in both Chin
 A term is usually included if it has a matching translation in Chinese or can't be easily found on web. It does not need an English translation to appear here.  
 如果一个词汇有对应的中文翻译，或者未被其他主流词典收录，那么它就会出现在这里。有的词汇不会有对应的英文意思。
 
-**Disclaimer:** The terms in this dictionary are highly informal. They should *not* be used for formal situations, e.g. publications, academic presentations, news or scientific reports, etc.
+**Disclaimer:** The terms in this dictionary are highly informal. They should *not* be used for formal situations, e.g. publications, academic presentations, news or scientific reports, etc.  
 **免责声明：**本词典中的词汇是极度非正式的，不应被用在正式场合中。正式的场合包括但不限于论文写作、学术演讲、新闻报道及科学报告。
 
 **Please Note:** The abbreviations that start with slashes are called **tone indicators**. They are used to clarify a sentence's connotation and should be used accurately. Read more about tone indicators [here](https://toneindicators.carrd.co/).  
@@ -125,10 +126,10 @@ Take a look at those places if you didn't see the word you're finding here
 | 摆烂 | `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
 | （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
-| awsl | `n.a.` | `lit.` I'm dying (because this is so impressive/cute) |
+| awsl, 阿伟死了 | `lit.` I'm dying; `lit.` I died | A phrase used when something is extremely impressive, cute, and/or adorable. |
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
 | 复读; 接龙 | Chain | To repeatedly post the exact same message, either for fun or to emphasize. |
-| 废话文学 | `amb.` Hmm yes, the floor here is made out of floor. | Sentences that mean nothing because they used a phrase itself to describe a phrase. Statements that overstress obvious features. `lit.` Nonsense literature.<br>**Note**: The English phrase is both a summary of all related *memes* and a response one would get when they say something that fits the above criteria.<br>**Chinese Examples**:<br>这A可太A了！<br>听君一席话，如听一席话<br>X了Y就像X了Y一样 |
+| 废话文学 | `amb.` Hmm yes, the floor here is made out of floor.<br>`lit.` Nonsense literature | Sentences that mean nothing because they used a phrase itself to describe a phrase. Statements that overstress obvious features.<br>**Note**: The English phrase is both a summary of all related *memes* and a response one would get when they say something that fits the above criteria.<br>**Chinese Examples**:<br>这A可太A了！<br>听君一席话，如听一席话<br>X了Y就像X了Y一样 |
 | 你 我 这 | When-, what-, how-, why- | Expressing a surprised confusion.<br>Similar to *什* (*wha-*). |
 | 大佬 | Pogger, Pogchamp | Someone who is a master in a certain field. Someone who plays the game well.<br>See *tql*. |
 | 救命; 要命 | `amb.` (This is) Cursed; `lit.` Help | To express that something is so hilarious or crazy that one cannot stand it.<br>**Note:**While "Cursed" is always informal, "救命" can be a serious cry for help. It is important to note the context this phrase is in. |

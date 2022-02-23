@@ -44,16 +44,16 @@ A term is usually included if it has a matching translation in Chinese or can't 
 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
-| xswl, xs, 笑死; 草; 蚌埠住了, 绷不住了 | lmao/lfmao; rofl; lol | To laugh.<br/>**xswl**: `lit.` I'm laughing to death<br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on the floor (due to laughter)<br/>**lol**: Laughing out loud |
+| xswl, xs, 笑死; 草, 生草; 蚌埠住了, 绷不住了; hhhh (optionally with more h's) | lmao/lfmao; rofl; lol; kekw; `uncmn.` kek; kkkk (optionally with more k's); www (optionally with more w's) | To laugh.<br/>**xswl**: `lit.` I'm laughing to death.<br>**hhhh**: An acronym for laughter in Chinese. <br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on floor laughing <br/>**lol**: Laughing out loud<br/>**kekw**: Used to represent a laughing emote on Twitch.<br>**kek**: lol in Korean<br>**kkkk**: An acronym for laughter in Korean.<br>**www**: An acronym for laughter in Japanese.  |
 | （不是）;（什么）;（草）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
-| 确实 | `amb.` ikr | Indeed; You got a point.<br/>**ikr**: I know right |
+| 确实; 真实 | `amb.` ikr | Indeed; You got a point; That's true.<br/>**ikr**: I know right |
 | 什 | wha- | "What" but surprised |
 | （无慈悲） | `amb.` /s or /sarc | `lit.` Not being sorry.<br/>**/s**:With sarcasm |
 | （并不） | /f; /neg | The previous statement is fake |
 | `uncmn.`（反问） | /rh; /rt | Rhetorical question |
 | （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |
-| 涩, 色色; hso; 嘶哈, 裤子飞了, 裤子没了  | `amb.` Horny; `amb.` /x, /sx; `uncmn.` NSFW | This is so sexy/hot; Showing sexual intent, interpretation, or interest.<br>**Note:** Not Safe For Work (*NSFW*) is a general word which describes content that are violent, sexually explicit, or generally inappropriate. Do not post *NSFW* as a response to those content. |
+| 涩, 色色; hso; 嘶哈, 裤子飞了, 裤子没了  | `amb.` Being horny; `amb.` /x, /sx; `uncmn.` NSFW | This is so sexy/hot; Showing sexual intent, interpretation, or interest. Usually accompanied by emojis such as 🥵 and 🥴.<br>**Note:** Not Safe For Work (*NSFW*) is a general word which describes content that are violent, sexually explicit, or generally inappropriate. Do not post *NSFW* as a response to those content. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
 | tql | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
@@ -85,7 +85,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 顶贴; dd (sometimes with more d's) | Bump; `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
 | woc; c | wtf; wth | To express anger, astonishment, and/or excitement. May be replaced with swearings that have similar meanings. <br>**wtf**: What the fuck.<br>**wth**: What the hell. |
-| 鬼畜 | YTP | A type of meme video re-editing an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
+| 鬼畜; 美式鬼畜 | YTP | A type of meme video re-editing an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
 | 自闭; emo | emo | To feel frustrated, depressed, anxious, or in any way psychologically unwell. <br>**emo**: Originally an abbreviation of emotional hardcore, but currently an idiomatic way to say that someone's upset. |
 | 主角光环 | Plot armor; `lit.` Protagonist halo | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
 | 圈子; 同人圈 | Fandom | The creative community consisted of fans of a video game, novel, manga, or other types of fiction. Note that 圈子 can also refer to other types of social groups. |
@@ -119,6 +119,10 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 破案了 | Spoiler: ; (Plot) Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Plot Twist: This hotel was built by the mafia. |
 | 爬, 爪巴 | Screw off, fuck off | A mean way to tell someone to leave. |
 | 🐍🐋; 身寸 | Cum | To produce semen.<br>In English: Sometimes mispronounced from "come" to create a *sus* atmosphere. |
+| 秦王绕柱 | Looping something around; `lit.` (Emperor Qin) looping around a pillar | To go in circles while something is chasing you, so that it also starts to go in circles and fail to catch you up. |
+| 懂的都懂, dddd | Those who know, know | Used to describe an inside joke, reference, or *meme* which cannot be explained, either due to privacy, censorship, or the nature of the joke. |
+| 性转 | Genderbend | A character which is identical to an existing character **except** that their genders are opposite. |
+| 建议改成： | Alternative title: | A lighthearted suggestion for changing a video's title, usually for referencing *memes*, making the title more *clickbait*, or just for making fun on the video's content.<br>In Chinese internet, if the video's uploader actually changed the title to the suggested one, people may post 竞标成功 to congratulate the commenter. |
 
 ## References 参考资料
 Some words here are based on those sources

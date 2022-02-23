@@ -44,7 +44,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
-| xswl, xs, 笑死; 草, 生草; 蚌埠住了, 绷不住了; hhhh (optionally with more h's) | lmao/lfmao; rofl; lol; kekw; `uncmn.` kek; kkkk (optionally with more k's); www (optionally with more w's) | To laugh.<br/>**xswl**: `lit.` I'm laughing to death.<br>**hhhh**: An acronym for laughter in Chinese. <br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on floor laughing <br/>**lol**: Laughing out loud<br/>**kekw**: Used to represent a laughing emote on Twitch.<br>**kek**: lol in Korean<br>**kkkk**: An acronym for laughter in Korean.<br>**www**: An acronym for laughter in Japanese.  |
+| xswl, xs, 笑死; 草, 生草; 蚌, 蚌埠住了, 绷不住了; hhhh (optionally with more h's) | lmao/lfmao, rofl, lol; kekw;<br>`uncmn.` kek, kkkk (optionally with more k's), www (optionally with more w's) | To laugh.<br/>**xswl**: `lit.` I'm laughing to death.<br>**hhhh**: An acronym for laughter in Chinese. <br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on floor laughing <br/>**lol**: Laughing out loud<br/>**kekw**: Used to represent a laughing emote on Twitch.<br>**kek**: lol in Korean<br>**kkkk**: An acronym for laughter in Korean.<br>**www**: An acronym for laughter in Japanese.  |
 | （不是）;（什么）;（草）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实; 真实 | `amb.` ikr | Indeed; You got a point; That's true.<br/>**ikr**: I know right |
@@ -55,16 +55,16 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |
 | 涩, 色色; hso; 嘶哈, 裤子飞了, 裤子没了  | `amb.` Being horny; `amb.` /x, /sx; `uncmn.` NSFW | This is so sexy/hot; Showing sexual intent, interpretation, or interest. Usually accompanied by emojis such as 🥵 and 🥴.<br>**Note:** Not Safe For Work (*NSFW*) is a general word which describes content that are violent, sexually explicit, or generally inappropriate. Do not post *NSFW* as a response to those content. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
-| tql | pog; pogger(s)/pogchamp | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game". |
+| tql | pog; pogger(s)/pogchamp; W | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game".<br>**W**: Win, winner |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
 | jrm, 家人们; jr; 集美（们） | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
 | 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated.<br>**Note:** *Meme* may also be used in Chinese, either with the same meaning or to denote short animation videos accompanied with viral music sections. Do not confuse with *手书* (*Animatic*). |
 | 玩梗 | (Use a) Reference; Meme | To use a meme. To include a popular reference. |
 | 酸（了）;<br/>`uncmn.` 吃醋 | Salty | Being jealous |
 | 怪; 太怪了 | (This is so) weird/awkward; sus | Usually used as an exclamation on something confusing, with sexual intent, or both. |
-| 下饭; 菜; 蔡 | L | You are so bad at this (game)<br/>**L**: Loser |
+| 下饭; 菜; 蔡 | L; F | You are so bad at this (game)<br/>**L**: Loser<br>**F**: Fail, failure. |
 | 舔狗; 脑残粉 | Simp; Stan | Someone who likes a person so much that they agree whatever the person says and tries to get the person's attention |
-| 黑粉; 黑子 | Hater; Anti | Someone who dislikes a person. |
+| 黑粉; 黑子 | Hate, hater; Anti | Someone who dislikes a person. |
 | 人肉; 社工 | Dox | Using techniques to reveal and publicize one's personal information. |
 | 脚趾抠出了一室一厅; 脚趾抠地; 尬; `amb.` 社死/社会性死亡 | Cringe | The feeling when you entered an extremely awkward situation.<br>**脚趾抠出了一室一厅**:`lit.` I'm so awkward that my toes dug the ground into a mansion.<br>**社死/社会性死亡**: Being so embarrassed in front of a crowd that you cannot stand to be a part of the society anymore. `lit.` Socially dead. |
 | 互关/赞 | Follow/Like Back; FB/LB | If one posts this, they're offering you a follow/like if you follow/like them first. |
@@ -77,7 +77,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 刷 | To grind | (In games) doing things over and over again to get some desired outcome. |
 | 熊 | To grief | Destroying things on purpose; Sabotage |
 | 世另我 | `amb.` ikr | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world<br>**ikr**: I know right |
-| 好耶 | Let's go; Yoooo; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement.<br>**Note**: There can be an arbitrary number of "o"s after "Yooo". |
+| 好耶 | Let's go; Yoooo; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement.<br>**Note**: There can be an arbitrary number of "o"s after "Yooo".<br>Also see *tql* (*W*). |
 | (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
 | 标题党; `amb.` 营销号; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
@@ -123,6 +123,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 懂的都懂, dddd | Those who know, know | Used to describe an inside joke, reference, or *meme* which cannot be explained, either due to privacy, censorship, or the nature of the joke. |
 | 性转 | Genderbend | A character which is identical to an existing character **except** that their genders are opposite. |
 | 建议改成： | Alternative title: | A lighthearted suggestion for changing a video's title, usually for referencing *memes*, making the title more *clickbait*, or just for making fun on the video's content.<br>In Chinese internet, if the video's uploader actually changed the title to the suggested one, people may post 竞标成功 to congratulate the commenter. |
+| 表情, 表情包 | Emote; `amb.` Emoticon; `amb.` Emoji | An image that is used to express feeling, emotion, or reaction of the sender.<br>**Note:** Different platforms usually have different names for those images. E.g., DeviantArt uses *Emoticon*, while Twitch uses *Emote*.<br>See also *meme*. |
 
 ## References 参考资料
 Some words here are based on those sources

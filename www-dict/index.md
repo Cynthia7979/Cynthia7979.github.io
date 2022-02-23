@@ -49,7 +49,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实; 真实 | `amb.` ikr | Indeed; You got a point; That's true.<br/>**ikr**: I know right |
 | 什 | wha- | "What" but surprised |
-| （无慈悲） | `amb.` /s or /sarc | `lit.` Not being sorry.<br/>**/s**:With sarcasm |
+| （无慈悲） | `n.a.` | `lit.` Not being sorry. |
 | （并不） | /f; /neg | The previous statement is fake |
 | `uncmn.`（反问） | /rh; /rt | Rhetorical question |
 | （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |

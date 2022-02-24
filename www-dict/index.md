@@ -70,7 +70,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 互关/赞 | Follow/Like Back; FB/LB | If one posts this, they're offering you a follow/like if you follow/like them first. |
 | 磕, 磕CP | To ship (a couple) | To assume that two people (fictional or real) are in a romantic relationship and awe at their intimate interactions.<br/>Related: CP粉 (Shipper) |
 | kdl, 磕到了 | `n.a.` | Used by a shipper when something romantic or intimate happens between the people they're shipping. |
-| yysy | tbf; tbh; imo; ngl; `amb.` fr | `lit.` Speaking on behave of the matter being discussed.<br>**tbf**: To be fair<br>**tbh**: To be honest/humble<br>**imo**: In my opinion<br>**ngl**: Not gonna lie<br>**fr**: For real. |
+| yysy | tbf; tbh; imo; ngl | `lit.` Speaking on behave of the matter being discussed.<br>**tbf**: To be fair<br>**tbh**: To be honest/humble<br>**imo**: In my opinion<br>**ngl**: Not gonna lie. |
 | nsdd | You're right;<br/>`alt.` `amb.` You got owned | **nsdd**: This abbreviation can stand for two things: "You're right", or `lit`. "You're a child". |
 | 太长不看 | TL;DR | A summary of a long article. Too long; didn't read. |
 | 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion.<br>Joining the conversation sometime to show that one exists is called 冒泡 (`lit.` bubbling). Those who *lurk* are called *lurkers*. |
@@ -90,9 +90,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 主角光环 | Plot armor; `lit.` Protagonist halo | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
 | 圈子; 同人圈 | Fandom | The creative community consisted of fans of a video game, novel, manga, or other types of fiction. Note that 圈子 can also refer to other types of social groups. |
 | 说 话 带 空 格 | WRITING IN ALL CAPS; wRiTiNg In AlTeRnAtInG CaSeS | A form of textual communication used to represent an exaggerated, loud, angry, or sarcastic tone. It is also possible that their CapsLock is broken. |
-| 融梗; `neg.` 缝合怪 | `amb.` (Person who makes) Meme mashup | One who makes *meme* by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**融梗**: `lit.` Melting memes together. |
+| 融梗; `neg.` 缝合怪 | `amb.` (Person who makes) Meme mashup | *Meme* made by combining several related or unrelated memes together.<br>**Meme mashup**: Specifically, videos with a lot of musics and/or memes edited together.<br>**融梗**: `lit.` Melting memes together. |
 | 溜了 | gtg; g2g | I'm leaving. Got to go. |
-| 88 | ttys/ttyl | Bye. See you later.<br>**ttys**: Talk to you soon.<br>**ttyl**: Talk to you later. |
+| 8, 88 | cu, cul, ttys, ttyl | Bye. See you later.<br>**CU**: See you<br>**CUL**: See you later.<br>**ttys**: Talk to you soon.<br>**ttyl**: Talk to you later. |
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
 | 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
 | 自设; 二设 | Fanon | A *canon* created by fans. Not to be confused with *persona*. |
@@ -112,7 +112,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 你 我 这 | When-, what-, how-, why- | Expressing a surprised confusion.<br>Similar to *什* (*wha-*). |
 | 大佬 | Pogger, Pogchamp | Someone who is a master in a certain field. Someone who plays the game well.<br>See *tql*. |
 | 救命; 要命 | `amb.` (This is) Cursed; `lit.` Help | To express that something is so hilarious or crazy that one cannot stand it.<br>**Note:**While "Cursed" is always informal, "救命" can be a serious cry for help. It is important to note the context this phrase is in. |
-| 手书 | Animatic | A form of animated video that is usually based on one or more fictional *canon*(s), character(s), or *OC*(s). May and usually tell a story that is accompanied by a song. Usually digitally hand-drawn, though a small portion are rendered with 3D models. |
+| 手书 | Animatic | A form of animated video that is usually based on one or more fictional *canon*(s), character(s), or *OC*(s). May and usually tell a story that is accompanied by a song. Usually hand-drawn digitally, though a small portion are either rendered with 3D models or made with images of traditional drawings (e.g., pencil or markers). |
 | 这河里吗, 这合理吗 | (How) is that fair | That doesn't make sense. |
 | 什么鬼 | What the frick/fudge, What the heck | A more gentle way to express confusement or atsonishment. Also see: *wtf*; *wth* |
 | lj, 辣鸡, 垃圾 | `lit.` Trash; Sucker, crap; Crappy; `uncmn.` Dog water | To denote that something or someone is very bad. To show disregardness and unrespect. May be replaced with swearings that have similar meanings.<br>**Note:** As of 2022, *dog water* is most commonly used by youths to say that someone is bad at games. |
@@ -124,8 +124,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 性转 | Genderbend | A character which is identical to an existing character **except** that their genders are opposite. |
 | 建议改成： | Alternative title: | A lighthearted suggestion for changing a video's title, usually for referencing *memes*, making the title more *clickbait*, or just for making fun on the video's content.<br>In Chinese internet, if the video's uploader actually changed the title to the suggested one, people may post 竞标成功 to congratulate the commenter. |
 | 表情, 表情包 | Emote; `amb.` Emoticon; `amb.` Emoji | An image that is used to express feeling, emotion, or reaction of the sender.<br>**Note:** Different platforms usually have different names for those images. E.g., DeviantArt uses *Emoticon*, while Twitch uses *Emote*.<br>See also *meme*. |
+| xx, 蟹蟹, thx, `neg.` 屑屑 | thx, ty, 3q, tysm, tyvm, tq, tx<br>`uncmn.` 10Q, 10x, grx, grax, thanq | Thank you; Thanks. 谢谢.<br>**grx, grax**: Gracias (Thank you in Spanish). |
 
-## References 参考资料
+## References & Appendix 参考资料
 Some words here are based on those sources
 部分词汇来自以下来源：
 * [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
@@ -147,6 +148,7 @@ Take a look at those places if you didn't see the word you're finding here
 如果你找不到想找的词，在这些地方看一看（英文）：
 * [Urban Dictionary](https://www.urbandictionary.com)
 * [Your Dictionary](https://www.yourdictionary.com)
+* [Cyber Definitions](https://www.cyberdefinitions.com)
 
 
 [RETURN](/)

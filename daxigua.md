@@ -281,7 +281,7 @@
     * **作者：** [九刻临兮](https://space.bilibili.com/22994321)
     * **试玩视频：** [合成大西瓜 但是是MCYT（？](https://www.bilibili.com/video/BV1X3411e77a)
     
-<a id="other></a>
+<a id="other"></a>
 
 ## 📦其他相关作品
 * [【自制动画】真实版《合成大西瓜》](https://www.bilibili.com/video/BV1Cr4y1K7Lc)

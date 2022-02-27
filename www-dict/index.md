@@ -55,16 +55,16 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |
 | 涩, 色色; hso; 嘶哈, 裤子飞了, 裤子没了  | `amb.` Being horny; `amb.` /x, /sx; `uncmn.` NSFW | This is so sexy/hot; Showing sexual intent, interpretation, or interest. Usually accompanied by emojis such as 🥵 and 🥴.<br>**Note:** Not Safe For Work (*NSFW*) is a general word which describes content that are violent, sexually explicit, or generally inappropriate. Do not post *NSFW* as a response to those content. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
-| tql | pog; pogger(s)/pogchamp; W | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game".<br>**W**: Win, winner |
+| tql; 赛高 | pog; pogger(s)/pogchamp; W | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game".<br>**W**: Win, winner |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
-| jrm, 家人们; jr; 集美（们） | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
+| jrm, 家人们; jr, 家人; 集美, 集美们, jm; 好兄弟, hxd | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
 | 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated.<br>**Note:** *Meme* may also be used in Chinese, either with the same meaning or to denote short animation videos accompanied with viral music sections. Do not confuse with *手书* (*Animatic*). |
 | 玩梗 | (Use a) Reference; Meme | To use a meme. To include a popular reference. |
 | 酸（了）;<br/>`uncmn.` 吃醋 | Salty | Being jealous |
 | 怪; 太怪了 | (This is so) weird/awkward; sus | Usually used as an exclamation on something confusing, with sexual intent, or both. |
 | 下饭; 菜; 蔡 | L; F | You are so bad at this (game)<br/>**L**: Loser<br>**F**: Fail, failure. |
 | 舔狗; 脑残粉 | Simp; Stan | Someone who likes a person so much that they agree whatever the person says and tries to get the person's attention |
-| 黑粉; 黑子 | Hate, hater; Anti | Someone who dislikes a person. |
+| `neg.` 黑粉; 黑子 | Hate, hater; Anti | Someone who dislikes a person. |
 | 人肉; 社工 | Dox | Using techniques to reveal and publicize one's personal information. |
 | 脚趾抠出了一室一厅; 脚趾抠地; 尬; `amb.` 社死/社会性死亡 | Cringe | The feeling when you entered an extremely awkward situation.<br>**脚趾抠出了一室一厅**:`lit.` I'm so awkward that my toes dug the ground into a mansion.<br>**社死/社会性死亡**: Being so embarrassed in front of a crowd that you cannot stand to be a part of the society anymore. `lit.` Socially dead. |
 | 互关/赞 | Follow/Like Back; FB/LB | If one posts this, they're offering you a follow/like if you follow/like them first. |
@@ -100,7 +100,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | MB; NMB | Fuck (you) | Offensive swear words to target at someone. May be interchangably used with arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
 | xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
-| gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |
+| `neg.` gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |
 | bzd | dunno; idk | I don't know. |
 | 摆烂 | `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
@@ -125,6 +125,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 建议改成： | Alternative title: | A lighthearted suggestion for changing a video's title, usually for referencing *memes*, making the title more *clickbait*, or just for making fun on the video's content.<br>In Chinese internet, if the video's uploader actually changed the title to the suggested one, people may post 竞标成功 to congratulate the commenter. |
 | 表情, 表情包 | Emote; `amb.` Emoticon; `amb.` Emoji | An image that is used to express feeling, emotion, or reaction of the sender.<br>**Note:** Different platforms usually have different names for those images. E.g., DeviantArt uses *Emoticon*, while Twitch uses *Emote*.<br>See also *meme*. |
 | xx, 蟹蟹, thx, `neg.` 屑屑 | thx, ty, 3q, tysm, tyvm, tq, tx<br>`uncmn.` 10Q, 10x, grx, grax, thanq | Thank you; Thanks. 谢谢.<br>**grx, grax**: Gracias (Thank you in Spanish). |
+| 阴阳怪气, 阴阳, yygq | Being ironic, being sarcastic; `amb.` Quirky | To speak in a particularly sarcastic way, usually accompanied with ironic emojis.<br>Chinese example: 那你可真是太棒了呢😅<br>English example: [yeah break that block🙄 break it💪 you got this😀😐 you got it🤪💅](https://www.youtube.com/watch?v=dd5BOKWEkeg) |
 
 ## References & Appendix 参考资料
 Some words here are based on those sources

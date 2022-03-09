@@ -119,13 +119,20 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 破案了 | Spoiler: ; (Plot) Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Plot Twist: This hotel was built by the mafia. |
 | 爬, 爪巴 | Screw off, fuck off | A mean way to tell someone to leave. |
 | 🐍🐋; 身寸 | Cum | To produce semen.<br>In English: Sometimes mispronounced from "come" to create a *sus* atmosphere. |
-| 秦王绕柱 | Looping something around; `lit.` (Emperor Qin) looping around a pillar | To go in circles while something is chasing you, so that it also starts to go in circles and fail to catch you up. |
+| 秦王绕柱; 溜(怪) | To pace something; To loop something around; `lit.` (Emperor Qin) looping around a pillar | To go in circles while something is chasing you, so that it also starts to go in circles and fail to catch you up. |
 | 懂的都懂, dddd | Those who know, know | Used to describe an inside joke, reference, or *meme* which cannot be explained, either due to privacy, censorship, or the nature of the joke. |
 | 性转 | Genderbend | A character which is identical to an existing character **except** that their genders are opposite. |
 | 建议改成： | Alternative title: | A lighthearted suggestion for changing a video's title, usually for referencing *memes*, making the title more *clickbait*, or just for making fun on the video's content.<br>In Chinese internet, if the video's uploader actually changed the title to the suggested one, people may post 竞标成功 to congratulate the commenter. |
 | 表情, 表情包 | Emote; `amb.` Emoticon; `amb.` Emoji | An image that is used to express feeling, emotion, or reaction of the sender.<br>**Note:** Different platforms usually have different names for those images. E.g., DeviantArt uses *Emoticon*, while Twitch uses *Emote*.<br>See also *meme*. |
 | xx, 蟹蟹, thx, `neg.` 屑屑 | thx, ty, 3q, tysm, tyvm, tq, tx<br>`uncmn.` 10Q, 10x, grx, grax, thanq | Thank you; Thanks. 谢谢.<br>**grx, grax**: Gracias (Thank you in Spanish). |
-| 阴阳怪气, 阴阳, yygq | Being ironic, being sarcastic; `amb.` Quirky | To speak in a particularly sarcastic way, usually accompanied with ironic emojis.<br>Chinese example: 那你可真是太棒了呢😅<br>English example: [yeah break that block🙄 break it💪 you got this😀😐 you got it🤪💅](https://www.youtube.com/watch?v=dd5BOKWEkeg) |
+| 阴阳怪气, 阴阳, yygq | Being ironic, being sarcastic; `amb.` Being quirky | To speak in a particularly sarcastic way, usually accompanied with ironic emojis.<br>Chinese example: 那你可真是太棒了呢😅<br>English example: [yeah break that block🙄 break it💪 you got this😀😐 you got it🤪💅](https://www.youtube.com/watch?v=dd5BOKWEkeg) |
+| 我可以, 我可; 很可 | Smash (as in *Smash or Pass*); `lit.` I can | To feel crushed or want to get into a romantic and/or sexual relationship with someone or something. |
+| 可不可挑战 | Smash or Pass, Smash or Pass challenge | A viral challenge in which people decide if they *smash* someone or something. |
+| 淡圈; 淡坑 | (To be on a) Hiatus | To take a break from participating in a community or *fandom*. To be inactive for an indetermined amount of time. |
+| 退圈; 退坑 | `n.a.` | To quit a community or *fandom*. To be inactive for a long time, possibly forever. |
+| 吃设定 | `amb.` To sweep (*canon*) under the rug | To delete or forget about a *headcanon* that was previously set by the author themselves. |
+| 00后 | Gen Z, Generation Z | The group of people who were born around year 2000 and are comparatively young on the internet. |
+| 削, 削弱 | Nerf | To weaken a character, skill, etc. in video games, usually online and multi-playered ones. |
 
 ## References & Appendix 参考资料
 Some words here are based on those sources

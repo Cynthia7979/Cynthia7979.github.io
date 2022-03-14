@@ -94,8 +94,8 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 溜了 | gtg; g2g | I'm leaving. Got to go. |
 | 8, 88 | cu, cul, ttys, ttyl | Bye. See you later.<br>**CU**: See you<br>**CUL**: See you later.<br>**ttys**: Talk to you soon.<br>**ttyl**: Talk to you later. |
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
-| 一设 | Headcanon | The most important, accepted, and/or official *canon*. |
-| 自设; 二设 | Fanon | A *canon* created by fans. Not to be confused with *persona*. |
+| 一设 | `n.a.` | The most important, accepted, and/or official *canon*. |
+| 自设; 二设 | Fanon; Headcanon | A *canon* created by fans. Not to be confused with *persona*. |
 | 自设; `amb.` 人设 | Persona; `OC` | Someone's character's setting. Can describe the creator's personality in some way, or simply be an original character (aka. *OC*). Do not confuse with *自设* (*fanon*) |
 | MB; NMB | Fuck (you) | Offensive swear words to target at someone. May be interchangably used with arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
@@ -133,6 +133,10 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 吃设定 | `amb.` To sweep (*canon*) under the rug | To delete or forget about a *headcanon* that was previously set by the author themselves. |
 | 00后 | Gen Z, Generation Z | The group of people who were born around year 2000 and are comparatively young on the internet. |
 | 削, 削弱 | Nerf | To weaken a character, skill, etc. in video games, usually online and multi-playered ones. |
+| 后宫 | Harem | A common setting in romantic novels in which the protagonist establishes relationship with multiple characters, receiving consent from all of them.<br>**Note:** Formally, 后宫 refers to a similar setup in Chinese palaces. |
+| 草包美人; 笨蛋美人; 金玉其外，败絮其中 | Himbo | A male who is attractive and not bright. |
+| 萌版; 萌化; 萌系; 可爱 | Chibi | To draw/sculpt a character in a small, cute, and adorable way. English: Originated from ちび, "little" in Japanese. |
+| 猫娘; `amb.` 猫耳角色; `lit.` 猫猫 | Neko | Cat. A character with cat ears. |
 
 ## References & Appendix 参考资料
 Some words here are based on those sources

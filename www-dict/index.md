@@ -74,7 +74,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | nsdd | You're right;<br/>`alt.` `amb.` You got owned | **nsdd**: This abbreviation can stand for two things: "You're right", or `lit`. "You're a child". |
 | 太长不看 | TL;DR | A summary of a long article. Too long; didn't read. |
 | 潜水 | To lurk; Lurking | To be a part of a community, Discord server, or other chatting groups but don't participate in the discussion.<br>Joining the conversation sometime to show that one exists is called 冒泡 (`lit.` bubbling). Those who *lurk* are called *lurkers*. |
-| 刷 | To grind | (In games) doing things over and over again to get some desired outcome. |
+| 刷 | To grind; To spam, to flood | **Grind:** (In games) doing things over and over again to get some desired outcome.<br>**Spam/flood:** To post or *chain* similar messages, usually ones that are meaningless, over and over in a chat room or on a forum. |
 | 熊 | To grief | Destroying things on purpose; Sabotage |
 | 世另我 | `amb.` ikr | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world<br>**ikr**: I know right |
 | 好耶 | Let's go; Yoooo; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement.<br>**Note**: There can be an arbitrary number of "o"s after "Yooo".<br>Also see *tql* (*W*). |
@@ -133,10 +133,10 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 吃设定 | `amb.` To sweep (*canon*) under the rug | To delete or forget about a *headcanon* that was previously set by the author themselves. |
 | 00后 | Gen Z, Generation Z | The group of people who were born around year 2000 and are comparatively young on the internet. |
 | 削, 削弱 | Nerf | To weaken a character, skill, etc. in video games, usually online and multi-playered ones. |
-| 后宫 | Harem | A common setting in romantic novels in which the protagonist establishes relationship with multiple characters, receiving consent from all of them.<br>**Note:** Formally, 后宫 refers to a similar setup in Chinese palaces. |
+| 后宫 | Harem | A common setting in romantic novels or games in which the protagonist establishes relationship with multiple characters, receiving consent from all of them.<br>**Note:** Formally, 后宫 refers to a similar setup in Chinese palaces. |
 | 草包美人; 笨蛋美人; 金玉其外，败絮其中 | Himbo | A male who is attractive and not bright. |
 | 萌版; 萌化; 萌系; 可爱 | Chibi | To draw/sculpt a character in a small, cute, and adorable way. English: Originated from ちび, "little" in Japanese. |
-| 猫娘; `amb.` 猫耳角色; `lit.` 猫猫 | Neko | Cat. A character with cat ears. |
+| `f.` 猫娘, 猫耳娘; `amb.` 猫耳角色; `lit.` 猫猫 | Neko | Cat. A character with cat ears. English: Originated from "cat" in Japanese. |
 
 ## References & Appendix 参考资料
 Some words here are based on those sources

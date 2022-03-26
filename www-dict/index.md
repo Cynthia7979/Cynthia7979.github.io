@@ -136,9 +136,13 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 后宫 | Harem | A common setting in romantic novels or games in which the protagonist establishes relationship with multiple characters, receiving consent from all of them.<br>**Note:** Formally, 后宫 refers to a similar setup in Chinese palaces. |
 | 草包美人; 笨蛋美人; 金玉其外，败絮其中 | Himbo | A male who is attractive and not bright. |
 | 萌版; 萌化; 萌系; 可爱 | Chibi | To draw/sculpt a character in a small, cute, and adorable way. English: Originated from ちび, "little" in Japanese. |
-| `f.` 猫娘, 猫耳娘; 猫耳角色; 猫猫 | Neko | A character with cat ears. `lit.` Cat. **English:** Originated from "cat" in Japanese. |
+| `f.` 猫娘, 猫耳娘; 猫耳角色; `amb.` 猫猫 | Neko | A character with cat ears. A character who is part human, part cat. `lit.` Cat. **English:** Originated from "cat" in Japanese. |
 | gkd | XXX when? | To express excitement for an unrealistic project or work proposed by the speaker themselves. |
 | 小镇做题家, 做题家 | Swot; `lit.` Small-town swot | A person, especially one who was born in a small town in China, who highly values their education and *grinds* for a higher grade.<br>**UrbanDictionary.com Definition:** A person who values his education at least three times more than his social life and his teacher at least three times more than his friends |
+| `m.` 宅男, `f.` 宅女; `neg.` 肥宅 | Weeb; `amb.` Nerd | A person who is interested in or addicted to anime, manga, and/or video games. A person who spends most of their time in home watching anime. |
+| `m.` 猛男; 肌肉男 | Buff | A person who has strong muscles and appears attractive.<br>Not to be confused with *强化* (*to buff*) or *Buff* (*effect*). |
+| 加强, 强化 | To buff | To make a character in a (usually online and multi-playered) game more powerful. The opposite of `nerf`.<br>Not to be confused with *猛男* (*buff*) or *Buff* (*effect*) |
+| Buff | Buff; Effect | An effect, usually temporary, applied to the player character which assists the player in playing the game. If the effect makes the game harder for the player, it is called a debuff (same for both Chinese and English).<br>Not to be confused with *强化* (*to buff*) or *猛男* (*buff*). |
 
 ## References & Appendix 参考资料
 Some words here are based on those sources
@@ -149,7 +153,6 @@ Some words here are based on those sources
 page by MakeUseOf
 * [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
 * [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
-
 * Common Sense 发布的
 [词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
 * MakeUseOf 撰写的

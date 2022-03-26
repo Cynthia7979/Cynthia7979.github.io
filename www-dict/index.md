@@ -123,9 +123,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 懂的都懂, dddd | Those who know, know | Used to describe an inside joke, reference, or *meme* which cannot be explained, either due to privacy, censorship, or the nature of the joke. |
 | 性转 | Genderbend | A character which is identical to an existing character **except** that their genders are opposite. |
 | 建议改成： | Alternative title: | A lighthearted suggestion for changing a video's title, usually for referencing *memes*, making the title more *clickbait*, or just for making fun on the video's content.<br>In Chinese internet, if the video's uploader actually changed the title to the suggested one, people may post 竞标成功 to congratulate the commenter. |
-| 表情, 表情包 | Emote; `amb.` Emoticon; `amb.` Emoji | An image that is used to express feeling, emotion, or reaction of the sender.<br>**Note:** Different platforms usually have different names for those images. E.g., DeviantArt uses *Emoticon*, while Twitch uses *Emote*.<br>See also *meme*. |
+| 表情, 表情包 | Emote; `amb.` Emoticon; `amb.` Emoji; `amb.` Meme | An image that is used to express feeling, emotion, or reaction of the sender. Sometimes used alternatively with *meme*. <br>**Note:** Different platforms usually have different names for those images. E.g., DeviantArt uses *Emoticon*, while Twitch uses *Emote*.<br>See also *meme*. |
 | xx, 蟹蟹, thx, `neg.` 屑屑 | thx, ty, 3q, tysm, tyvm, tq, tx<br>`uncmn.` 10Q, 10x, grx, grax, thanq | Thank you; Thanks. 谢谢.<br>**grx, grax**: Gracias (Thank you in Spanish). |
-| 阴阳怪气, 阴阳, yygq | Being ironic, being sarcastic; `amb.` Being quirky | To speak in a particularly sarcastic way, usually accompanied with ironic emojis.<br>Chinese example: 那你可真是太棒了呢😅<br>English example: [yeah break that block🙄 break it💪 you got this😀😐 you got it🤪💅](https://www.youtube.com/watch?v=dd5BOKWEkeg) |
+| 阴阳怪气, 阴阳, yygq | Being ironic, being sarcastic; `amb.` Being quirky; `uncmn.` Passive-aggressively talking | To speak in a particularly sarcastic way, usually accompanied with ironic emojis.<br>Chinese example: 那你可真是太棒了呢😅<br>English example: [yeah break that block🙄 break it💪 you got this😀😐 you got it🤪💅](https://www.youtube.com/watch?v=dd5BOKWEkeg) |
 | 我可以, 我可; 很可 | Smash (as in *Smash or Pass*); `lit.` I can | To feel crushed or want to get into a romantic and/or sexual relationship with someone or something. |
 | 可不可挑战 | Smash or Pass, Smash or Pass challenge | A viral challenge in which people decide if they *smash* someone or something. |
 | 淡圈; 淡坑 | (To be on a) Hiatus | To take a break from participating in a community or *fandom*. To be inactive for an indetermined amount of time. |
@@ -136,7 +136,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 后宫 | Harem | A common setting in romantic novels or games in which the protagonist establishes relationship with multiple characters, receiving consent from all of them.<br>**Note:** Formally, 后宫 refers to a similar setup in Chinese palaces. |
 | 草包美人; 笨蛋美人; 金玉其外，败絮其中 | Himbo | A male who is attractive and not bright. |
 | 萌版; 萌化; 萌系; 可爱 | Chibi | To draw/sculpt a character in a small, cute, and adorable way. English: Originated from ちび, "little" in Japanese. |
-| `f.` 猫娘, 猫耳娘; `amb.` 猫耳角色; `lit.` 猫猫 | Neko | Cat. A character with cat ears. English: Originated from "cat" in Japanese. |
+| `f.` 猫娘, 猫耳娘; 猫耳角色; 猫猫 | Neko | A character with cat ears. `lit.` Cat. **English:** Originated from "cat" in Japanese. |
+| gkd | XXX when? | To express excitement for an unrealistic project or work proposed by the speaker themselves. |
+| 小镇做题家, 做题家 | Swot; `lit.` Small-town swot | A person, especially one who was born in a small town in China, who highly values their education and *grinds* for a higher grade.<br>**UrbanDictionary.com Definition:** A person who values his education at least three times more than his social life and his teacher at least three times more than his friends ||
 
 ## References & Appendix 参考资料
 Some words here are based on those sources

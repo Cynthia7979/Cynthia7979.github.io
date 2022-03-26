@@ -138,7 +138,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 萌版; 萌化; 萌系; 可爱 | Chibi | To draw/sculpt a character in a small, cute, and adorable way. English: Originated from ちび, "little" in Japanese. |
 | `f.` 猫娘, 猫耳娘; 猫耳角色; 猫猫 | Neko | A character with cat ears. `lit.` Cat. **English:** Originated from "cat" in Japanese. |
 | gkd | XXX when? | To express excitement for an unrealistic project or work proposed by the speaker themselves. |
-| 小镇做题家, 做题家 | Swot; `lit.` Small-town swot | A person, especially one who was born in a small town in China, who highly values their education and *grinds* for a higher grade.<br>**UrbanDictionary.com Definition:** A person who values his education at least three times more than his social life and his teacher at least three times more than his friends ||
+| 小镇做题家, 做题家 | Swot; `lit.` Small-town swot | A person, especially one who was born in a small town in China, who highly values their education and *grinds* for a higher grade.<br>**UrbanDictionary.com Definition:** A person who values his education at least three times more than his social life and his teacher at least three times more than his friends |
 
 ## References & Appendix 参考资料
 Some words here are based on those sources

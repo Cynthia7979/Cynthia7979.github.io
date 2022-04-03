@@ -45,7 +45,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
 | xswl, xs, 笑死; 草, 生草; 蚌, 蚌埠住了, 绷不住了; hhhh (optionally with more h's) | lmao/lfmao, rofl, lol; kekw;<br>`uncmn.` kek, kkkk (optionally with more k's), www (optionally with more w's) | To laugh.<br/>**xswl**: `lit.` I'm laughing to death.<br>**hhhh**: An acronym for laughter in Chinese. <br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on floor laughing <br/>**lol**: Laughing out loud<br/>**kekw**: Used to represent a laughing emote on Twitch.<br>**kek**: lol in Korean<br>**kkkk**: An acronym for laughter in Korean.<br>**www**: An acronym for laughter in Japanese.  |
-| （不是）;（什么）;（草）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
+| （不是）;（什么）;（草）;（错乱）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly (NOTE: Use this with caution, since it has the potential of being interpreted as "Bullshit".)<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实; 真实 | `amb.` ikr | Indeed; You got a point; That's true.<br/>**ikr**: I know right |
 | 什 | wha- | "What" but surprised |
@@ -60,8 +60,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | jrm, 家人们; jr, 家人; 集美, 集美们, jm; 好兄弟, hxd | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
 | 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated.<br>**Note:** *Meme* may also be used in Chinese, either with the same meaning or to denote short animation videos accompanied with viral music sections. Do not confuse with *手书* (*Animatic*). |
 | 玩梗 | (Use a) Reference; Meme | To use a meme. To include a popular reference. |
+| 玩梗 | (Use a) Reference; Meme | To use a meme. To include a popular reference. |
 | 酸（了）;<br/>`uncmn.` 吃醋 | Salty | Being jealous |
-| 怪; 太怪了 | (This is so) weird/awkward; sus | Usually used as an exclamation on something confusing, with sexual intent, or both. |
+| 怪; 太怪了 | (This is so) weird/awkward; sus; trippy | Usually used as an exclamation on something confusing, with sexual intent, or both. |
 | 下饭; 菜; 蔡 | L; F | You are so bad at this (game)<br/>**L**: Loser<br>**F**: Fail, failure. |
 | 舔狗; 脑残粉 | Simp; Stan | Someone who likes a person so much that they agree whatever the person says and tries to get the person's attention |
 | `neg.` 黑粉; 黑子 | Hate, hater; Anti | Someone who dislikes a person. |
@@ -119,7 +120,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 破案了 | Spoiler: ; (Plot) Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Plot Twist: This hotel was built by the mafia. |
 | 爬, 爪巴 | Screw off, fuck off | A mean way to tell someone to leave. |
 | 🐍🐋; 身寸 | Cum | To produce semen.<br>In English: Sometimes mispronounced from "come" to create a *sus* atmosphere. |
-| 秦王绕柱; 溜(怪) | To pace something; To loop something around; `lit.` (Emperor Qin) looping around a pillar | To go in circles while something is chasing you, so that it also starts to go in circles and fail to catch you up. |
+| 秦王绕柱; 溜(怪); 放风筝 | To pace something; To loop something around; `lit.` (Emperor Qin) looping around a pillar | To go in circles while something is chasing you, so that it also starts to go in circles and fail to catch you up. |
 | 懂的都懂, dddd | Those who know, know | Used to describe an inside joke, reference, or *meme* which cannot be explained, either due to privacy, censorship, or the nature of the joke. |
 | 性转 | Genderbend | A character which is identical to an existing character **except** that their genders are opposite. |
 | 建议改成： | Alternative title: | A lighthearted suggestion for changing a video's title, usually for referencing *memes*, making the title more *clickbait*, or just for making fun on the video's content.<br>In Chinese internet, if the video's uploader actually changed the title to the suggested one, people may post 竞标成功 to congratulate the commenter. |
@@ -142,17 +143,24 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | `m.` 宅男, `f.` 宅女; `neg.` 肥宅 | Weeb; `amb.` Nerd | A person who is interested in or addicted to anime, manga, and/or video games. A person who spends most of their time in home watching anime. |
 | `m.` 猛男; 肌肉男 | Buff | A person who has strong muscles and appears attractive.<br>Not to be confused with *强化* (*to buff*) or *Buff* (*effect*). |
 | 加强, 强化 | To buff | To make a character in a (usually online and multi-playered) game more powerful. The opposite of `nerf`.<br>Not to be confused with *猛男* (*buff*) or *Buff* (*effect*) |
-| Buff | Buff; Effect | An effect, usually temporary, applied to the player character which assists the player in playing the game. If the effect makes the game harder for the player, it is called a debuff (same for both Chinese and English).<br>Not to be confused with *强化* (*to buff*) or *猛男* (*buff*). |
+| Buff; 效果 | Buff; Effect | An effect, usually temporary, applied to the player character which assists the player in playing the game. If the effect makes the game harder for the player, it is called a debuff (same for both Chinese and English).<br>Not to be confused with *强化* (*to buff*) or *猛男* (*buff*). |
 
 ## References & Appendix 参考资料
-Some words here are based on those sources
-部分词汇来自以下来源：
+Take a look at those places if you didn't see the word you're finding here  
+如果你找不到想找的词，在这些地方看一看（英文）：
+* [Urban Dictionary](https://www.urbandictionary.com)
+* [Your Dictionary](https://www.yourdictionary.com)
+* [Cyber Definitions](https://www.cyberdefinitions.com)
+
+Some definitions here are written with reference to the following sources  
+部分词汇定义参考自以下资料
 * [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
  published by Common Sense
 * [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
 page by MakeUseOf
 * [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
 * [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
+
 * Common Sense 发布的
 [词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
 * MakeUseOf 撰写的
@@ -160,12 +168,6 @@ page by MakeUseOf
 * @ranlaugh制作的
 [Carrd](https://tonetags.carrd.co/#masterlist)
 * [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
-
-Take a look at those places if you didn't see the word you're finding here  
-如果你找不到想找的词，在这些地方看一看（英文）：
-* [Urban Dictionary](https://www.urbandictionary.com)
-* [Your Dictionary](https://www.yourdictionary.com)
-* [Cyber Definitions](https://www.cyberdefinitions.com)
 
 
 [RETURN](/)

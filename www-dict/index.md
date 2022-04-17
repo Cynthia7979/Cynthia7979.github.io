@@ -95,8 +95,8 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 溜了 | gtg; g2g | I'm leaving. Got to go. |
 | 8, 88 | cu, cul, ttys, ttyl | Bye. See you later.<br>**CU**: See you<br>**CUL**: See you later.<br>**ttys**: Talk to you soon.<br>**ttyl**: Talk to you later. |
 | 设定 | Canon | The world, character, and/or plot setting of a certain fiction piece or series. |
-| 一设 | `n.a.` | The most important, accepted, and/or official *canon*. |
-| 自设; 二设 | Fanon; Headcanon | A *canon* created by fans. Not to be confused with *persona*. |
+| 一设 | Canon; `uncmn.` Official canon | The most important, accepted, and/or official *canon*. |
+| 自设; 二设 | Fanon; Headcanon; AU | A *canon* created by fans.<br>**AU**: Alternate universe.<br>Not to be confused with *persona*. |
 | 自设; `amb.` 人设 | Persona; `OC` | Someone's character's setting. Can describe the creator's personality in some way, or simply be an original character (aka. *OC*). Do not confuse with *自设* (*fanon*) |
 | MB; NMB | Fuck (you) | Offensive swear words to target at someone. May be interchangably used with arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
@@ -106,7 +106,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 摆烂 | `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
 | （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
-| awsl, 阿伟死了 | `lit.` I'm dying; `lit.` I died | A phrase used when something is extremely impressive, cute, and/or adorable. |
+| awsl, 阿伟死了 | awww; `lit.` I'm dying; `lit.` I died | A phrase used when something is extremely impressive, cute, and/or adorable. |
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
 | 复读; 接龙 | Chain | To repeatedly post the exact same message, either for fun or to emphasize. |
 | 废话文学 | `amb.` Hmm yes, the floor here is made out of floor.<br>`lit.` Nonsense literature | Sentences that mean nothing because they used a phrase itself to describe a phrase. Statements that overstress obvious features.<br>**Note**: The English phrase is both a summary of all related *memes* and a response one would get when they say something that fits the above criteria.<br>**Chinese Examples**:<br>这A可太A了！<br>听君一席话，如听一席话<br>X了Y就像X了Y一样 |
@@ -144,6 +144,8 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | `m.` 猛男; 肌肉男 | Buff | A person who has strong muscles and appears attractive.<br>Not to be confused with *强化* (*to buff*) or *Buff* (*effect*). |
 | 加强, 强化 | To buff | To make a character in a (usually online and multi-playered) game more powerful. The opposite of `nerf`.<br>Not to be confused with *猛男* (*buff*) or *Buff* (*effect*) |
 | Buff; 效果 | Buff; Effect | An effect, usually temporary, applied to the player character which assists the player in playing the game. If the effect makes the game harder for the player, it is called a debuff (same for both Chinese and English).<br>Not to be confused with *强化* (*to buff*) or *猛男* (*buff*). |
+| 摸鱼; 摸; 划水 | Chill; Chillin'; Chilling | To have a good time not doing anything. *We're just chillin'.* *我们在摸鱼* |
+| 整活 | Bit, do a bit | To do something that would appear interesting or funny, but doesn't necessarily make sense. To purposefully throw a joke or create a *meme*. |
 
 ## References & Appendix 参考资料
 Take a look at those places if you didn't see the word you're finding here  

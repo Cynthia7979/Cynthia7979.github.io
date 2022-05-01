@@ -7,7 +7,7 @@ The Incomplete Internet Slang Dictionary (Chinese - English)
 [RETURN](/)
 {:.right}
 
-_**Content Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
+_**NSFW / Trigger Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
 
 **Use `Ctrl+F` (`Command+F`) to search for a specific word!**  
 **请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！**
@@ -44,7 +44,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 
 | Chinese | English | Meaning |
 | ------- | ------- | ------- |
-| xswl, xs, 笑死; 草, 生草; 蚌, 蚌埠住了, 绷不住了; hhhh (optionally with more h's) | lmao/lfmao, rofl, lol; kekw;<br>`uncmn.` kek, kkkk (optionally with more k's), www (optionally with more w's) | To laugh.<br/>**xswl**: `lit.` I'm laughing to death.<br>**hhhh**: An acronym for laughter in Chinese. <br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on floor laughing <br/>**lol**: Laughing out loud<br/>**kekw**: Used to represent a laughing emote on Twitch.<br>**kek**: lol in Korean<br>**kkkk**: An acronym for laughter in Korean.<br>**www**: An acronym for laughter in Japanese.  |
+| xswl, xs, 笑死; 草, 生草; 蚌, 蚌埠住了, 绷不住了; hhhh (optionally with more h's); 233 (optionally with more 3's) | lmao/lfmao, rofl, lol; kekw;<br>`uncmn.` kek, kkkk (optionally with more k's), www (optionally with more w's) ; XD, xD| To laugh.<br/>**xswl**: `lit.` I'm laughing to death.<br>**hhhh**: An acronym for laughter in Chinese. <br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on floor laughing <br/>**lol**: Laughing out loud<br/>**kekw**: Used to represent a laughing emote on Twitch.<br>**kek**: lol in Korean<br>**kkkk**: An acronym for laughter in Korean.<br>**www**: An acronym for laughter in Japanese.<br>**233**: Used to represent a *rofl* emote back in the forum era of Chinese internet.  |
 | （不是）;（什么）;（草）;（错乱）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly (NOTE: Use this with caution, since it has the potential of being interpreted as "Bullshit".)<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
 | 确实; 真实 | `amb.` ikr | Indeed; You got a point; That's true.<br/>**ikr**: I know right |
@@ -79,7 +79,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 熊 | To grief | Destroying things on purpose; Sabotage |
 | 世另我 | `amb.` ikr | I can relate; You're so similar to me; I do that as well.<br/>`lit.` The other me in this world<br>**ikr**: I know right |
 | 好耶 | Let's go; Yoooo; `uncmn.` Horray | Used when a nice thing happens and the speaker wants to express excitement.<br>**Note**: There can be an arbitrary number of "o"s after "Yooo".<br>Also see *tql* (*W*). |
-| (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of part of a short, Taiwanese educational film about homosexual male sexual harassment.<br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
+| (Any section of) 1145141919810 | `amb.` 69 | Memes. Sometimes used to create a *sus* atmosphere.<br>**1145141919810**: A phonetic transcription of a Japanese gay porn clip, in which an actor's dialogue sounds like this series of numbers when spoken in Japanese. This later entered the Chinese internet as a *meme*. <br>**69**: Originally a term for a specific sexual activity ([see this article](https://www.plannedparenthood.org/learn/teens/ask-experts/what-is-69)) but later transformed into an internet meme that can be referenced in any context. |
 | 《震惊！……》;《不转不是中国人！……》;《删前速看！……》 | `amb.` "... (GONE WRONG)/(GONE SEXUAL)/(CONFIDENTIAL)" | Some examples of archetypal clickbait video or article titles |
 | 标题党; `amb.` 营销号; `uncmn.` 震惊体 | Clickbait | Videos or articles which title was specifically designed to attract viewers and usually isn't related to the content.<br>The [tone indicator](https://tonetags.carrd.co/#masterlist) for clickbait is */cb*. |
 | dbq | sry; mb | Sorry. An apology.<br>**dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
@@ -103,7 +103,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
 | `neg.` gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |
 | bzd | dunno; idk | I don't know. |
-| 摆烂 | `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
+| 摆烂 | To be a degenerate; `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
 | （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
 | awsl, 阿伟死了 | awww; `lit.` I'm dying; `lit.` I died | A phrase used when something is extremely impressive, cute, and/or adorable. |
@@ -146,6 +146,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | Buff; 效果 | Buff; Effect | An effect, usually temporary, applied to the player character which assists the player in playing the game. If the effect makes the game harder for the player, it is called a debuff (same for both Chinese and English).<br>Not to be confused with *强化* (*to buff*) or *猛男* (*buff*). |
 | 摸鱼; 摸; 划水 | Chill; Chillin'; Chilling | To have a good time not doing anything. *We're just chillin'.* *我们在摸鱼* |
 | 整活 | Bit, do a bit | To do something that would appear interesting or funny, but doesn't necessarily make sense. To purposefully throw a joke or create a *meme*. |
+| 老实人 | Captain Obvious | A person who points out very obvious things. Someone who treats a joke seriously and points out/answers any problems in it. |
+| 单推 | Main | The character whom you like the most. |
+| 
 
 ## References & Appendix 参考资料
 Take a look at those places if you didn't see the word you're finding here  

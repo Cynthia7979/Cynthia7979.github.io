@@ -8,13 +8,21 @@ Here's a list of currently available pages:
 | Page | Established | Updated |
 |------|-------------|---------|
 | [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 1 May 2022 |
+| [Ideas](ideas) | 30 Dec 2021 | 8 May 2022 |
 | [合成大西瓜全集](daxigua) | 31 Jan 2021 | 30 Jan 2022 |
 | [Game Reviews 游戏推荐](games) | 23 Jan 2022 | 28 Jan 2022 |
-| [Ideas](ideas) | 30 Dec 2021 | 16 Jan 2022 |
 | [Book Notes Hub](/Book%20Notes) | 22 Jan 2021 | 5 Sep 2021 |
 | [Tech Stuff Hub](/Tech%20Stuff) | 23 Jan 2021 | 5 May 2021 |
 
 # News
+
+<div class="news-block">
+    <b><a href="http://cynthia-s-cabin.wikidot.com/universal-beijing">New Film Review: <i>Annihilation</i> (2018)</a>
+    <span class="date">May 8, 2022</span></b>
+    <p>
+    I found this elegantly made film <i>Annihilation</i> (2018) and I'm running to let you know about it. It is a Lovecraftian / Cosmic Horror film, so you are safe from excessive jumpscares. It has a well-paced storyline and beautiful soundtrack and post-production effects. I absolutely suggest you try it out and see if it fits your taste.
+    </p>
+</div>
 
 <div class="news-block">
     <b><a href="http://cynthia-s-cabin.wikidot.com/universal-beijing">Universal Resort Beijing Review Published</a>

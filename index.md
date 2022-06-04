@@ -7,8 +7,8 @@ Here's a list of currently available pages:
 
 | Page | Established | Updated |
 |------|-------------|---------|
+| [Ideas](ideas) | 30 Dec 2021 | 4 Jun 2022 |
 | [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 1 May 2022 |
-| [Ideas](ideas) | 30 Dec 2021 | 8 May 2022 |
 | [合成大西瓜全集](daxigua) | 31 Jan 2021 | 30 Jan 2022 |
 | [Game Reviews 游戏推荐](games) | 23 Jan 2022 | 28 Jan 2022 |
 | [Book Notes Hub](/Book%20Notes) | 22 Jan 2021 | 5 Sep 2021 |

@@ -1,4 +1,4 @@
-# Film Review: Annihilzation
+# Film Review: Annihilation
 2022/5/8 19:00
 {:.date}
 
@@ -7,6 +7,9 @@
 
 [RETURN](/)
 {:.right}
+
+*10/10*
+{:.center}
 
 Annihilation is the best Lovecraftian film I've watched so far. Its plot, editing, and soundtracks worked together and perfectly moulded an alien yet surprisingly beautiful world. What I got from this film was not sole fear, but astonishment from the gorgeously and poeticly altered world. 
 

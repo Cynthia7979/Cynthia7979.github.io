@@ -55,7 +55,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | （认真） | /g; /gen;<br>`amb.` /srs | Genuinely; Seriously |
 | 涩, 色色; hso; 嘶哈, 裤子飞了, 裤子没了  | `amb.` Being horny; `amb.` /x, /sx; `uncmn.` NSFW | This is so sexy/hot; Showing sexual intent, interpretation, or interest. Usually accompanied by emojis such as 🥵 and 🥴.<br>**Note:** Not Safe For Work (*NSFW*) is a general word which describes content that are violent, sexually explicit, or generally inappropriate. Do not post *NSFW* as a response to those content. |
 | `uncmn.`（威胁脸） | /th | Threateningly |
-| tql; 赛高 | pog; pogger(s)/pogchamp; W | This thing or person is incredible.<br/>**pog**: Originally stands for "Play of the Game".<br>**W**: Win, winner |
+| tql; 赛高; yyds | pog; pogger(s)/pogchamp; W | This thing or person is incredible.<br/>**tql**: So awesome. 太强了<br>**yyds**: The ultimate champion. 永远的神<br>**pog**: Originally stands for "Play of the Game"<br>**W**: Win, winner |
 | tcl | Too bad | To feel sorry for some terrible thing that someone went through. |
 | jrm, 家人们; jr, 家人; 集美, 集美们, jm; 好兄弟, hxd | Fam | Intimate person/people. Person/people close enough to be a family member.<br/> (In Chinese) Usually used by internet salesperson, streamers, and content creators as a term for their fans/audiences<br/>**集美：** A homonym for 姐妹 ("sister") |
 | 梗; `uncmn.` 哏 | Meme | Something that went viral; a concept/story/reference that became popular and is frequently referenced to or replicated.<br>**Note:** *Meme* may also be used in Chinese, either with the same meaning or to denote short animation videos accompanied with viral music sections. Do not confuse with *手书* (*Animatic*). |
@@ -148,6 +148,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 整活 | Bit, do a bit | To do something that would appear interesting or funny, but doesn't necessarily make sense. To purposefully throw a joke or create a *meme*. |
 | 老实人 | Captain Obvious | A person who points out very obvious things. Someone who treats a joke seriously and points out/answers any problems in it. |
 | 单推 | Main | The character whom you like the most. |
+| （大嘘） | BOOO (alternatively with more O's) | To show distrust or pessimism against someone or something. Works similarly as a tone indicator. |
+| 转推; 转发 | Retweet | To repost a status update, specifically a Twitter post. |
+| 抽奖 | Giveaway, GAW | To randomly choose a winner from a pool of eligible participants, then give a specified prize to them for free. |
 | 
 
 ## References & Appendix 参考资料

@@ -8,11 +8,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcynthia7979.github.io%2Fideas%2Fend-of-the-f---king-world-review&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 {:.hits}
 
-[RETURN](/)
-{:.right}
-
 *2/10*
 {:.center}
+
+[RETURN](/)
+{:.right}
 
 As one accustomed to watching long and stylized films, I naturally decided to watch Season 1 of *End of the F\*\*\*king World* in one sit.
 

@@ -1,15 +1,16 @@
 # Film Review: Annihilation
+
 2022/5/8 19:00
 {:.date}
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcynthia7979.github.io%2Fideas%2Fannihilation-review&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 {:.hits}
 
-[RETURN](/)
-{:.right}
-
 *10/10*
 {:.center}
+
+[RETURN](/)
+{:.right}
 
 Annihilation is the best Lovecraftian film I've watched so far. Its plot, editing, and soundtracks worked together and perfectly moulded an alien yet surprisingly beautiful world. What I got from this film was not sole fear, but astonishment from the gorgeously and poeticly altered world. 
 

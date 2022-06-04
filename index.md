@@ -17,7 +17,15 @@ Here's a list of currently available pages:
 # News
 
 <div class="news-block">
-    <b><a href="http://cynthia-s-cabin.wikidot.com/universal-beijing">New Film Review: <i>Annihilation</i> (2018)</a>
+    <b><a href="https://cynthia7979.github.io/ideas/end-of-the-f---king-world-review">Web Series Review: <i>End of the F***king World</i> (2017)</a>
+    <span class="date">Jun 4, 2022</span></b>
+    <p>
+    As a form of entertainment in the long days without any important tasks and nowhere to go hang out at, I began watching web series on Netflix. A lot of them are good - especially Love, Death, & Robots which I reviewed at my <a href="https://letterboxd.com/Cynthia7979/">Letterboxd</a> - but this one, specifically, is horrible. So, I have listed a few reasons in <a href="https://cynthia7979.github.io/ideas/end-of-the-f---king-world-review">my new blog </a>to illustrate why you really shouldn't watch this series. That is, if you're a film lover like me and can't stand long and boring interpersonal relationships.
+    </p>
+</div>
+
+<div class="news-block">
+    <b><a href="https://cynthia7979.github.com/ideas/annihilation-review">New Film Review: <i>Annihilation</i> (2018)</a>
     <span class="date">May 8, 2022</span></b>
     <p>
     I found this elegantly made film <i>Annihilation</i> (2018) and I'm running to let you know about it. It is a Lovecraftian / Cosmic Horror film, so you are safe from excessive jumpscares. It has a well-paced storyline and beautiful soundtrack and post-production effects. I absolutely suggest you try it out and see if it fits your taste.

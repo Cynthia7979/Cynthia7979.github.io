@@ -47,8 +47,8 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | xswl, xs, 笑死; 草, 生草; 蚌, 蚌埠住了, 绷不住了; hhhh (optionally with more h's); 233 (optionally with more 3's) | lmao/lfmao, rofl, lol; kekw;<br>`uncmn.` kek, kkkk (optionally with more k's), www (optionally with more w's) ; XD, xD| To laugh.<br/>**xswl**: `lit.` I'm laughing to death.<br>**hhhh**: An acronym for laughter in Chinese. <br/>**lmao/lfmao**: Laughing my ass out<br/>**rofl**: Rolling on floor laughing <br/>**lol**: Laughing out loud<br/>**kekw**: Used to represent a laughing emote on Twitch.<br>**kek**: lol in Korean<br>**kkkk**: An acronym for laughter in Korean.<br>**www**: An acronym for laughter in Japanese.<br>**233**: Used to represent a *rofl* emote back in the forum era of Chinese internet.  |
 | （不是）;（什么）;（草）;（错乱）| /j; JK; /nsrs; /bs<br/>`amb.` /ij; /lh; /nbr; /s or /sarc | The previous statement is a joke.<br/>**/j; JK**: Joke<br>**/nsrs**: Not serious<br>**/bs**: Being silly (NOTE: Use this with caution, since it has the potential of being interpreted as "Bullshit".)<br>**/ij**: Inside joke<br/>**/lh**: Lighthearted<br>**/nbr**: Not being real<br>**/s or /sarc**: Sarcastic; with sarcasm |
 | （物理） | /li;<br/>`amb.` irl | Literally; Actually; In real world |
-| 确实; 真实 | `amb.` ikr | Indeed; You got a point; That's true.<br/>**ikr**: I know right |
-| 什 | wha- | "What" but surprised |
+| 确实 | ikr | Indeed; You got a point; That's true.<br/>**ikr**: I know right |
+| 什 | wha-; what the; `amb.` istg | "What" but surprised<br/>**istg**: I swear to god |
 | （无慈悲） | `n.a.` | `lit.` Not being sorry. |
 | （并不） | /f; /neg | The previous statement is fake |
 | `uncmn.`（反问） | /rh; /rt | Rhetorical question |
@@ -151,7 +151,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | （大嘘） | BOOO (alternatively with more O's) | To show distrust or pessimism against someone or something. Works similarly as a tone indicator. |
 | 转推; 转发 | Retweet | To repost a status update, specifically a Twitter post. |
 | 抽奖 | Giveaway, GAW | To randomly choose a winner from a pool of eligible participants, then give a specified prize to them for free. |
-| 
+| 真实; 太真实了 | Relatable | To show empathy towards something or someone. To denote that the thing one went through is common. |
 
 ## References & Appendix 参考资料
 Take a look at those places if you didn't see the word you're finding here  

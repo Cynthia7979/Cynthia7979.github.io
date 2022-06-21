@@ -59,6 +59,8 @@
 
 [麦克唐纳的原话](https://www.slideshare.net/ivypanelo/ians-inspirational-stories) 是“十年前”，也就是1988年。记录他的话的人画蛇添足一般加上了一处注释：十年前（1989年）。
 
+![10yrs](/static/ten-years-ago-screenshot.png)
+
 这，便是后面持续了近30年的谣言的起点。
 
 ----------

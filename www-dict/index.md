@@ -152,6 +152,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 转推; 转发 | Retweet | To repost a status update, specifically a Twitter post. |
 | 抽奖 | Giveaway, GAW | To randomly choose a winner from a pool of eligible participants, then give a specified prize to them for free. |
 | 真实; 太真实了 | Relatable | To show empathy towards something or someone. To denote that the thing one went through is common. |
+| 有事吗？ | Can I help you? | A sarcastic way to say "you are being weird" or "I'm confused". |
 
 ## References & Appendix 参考资料
 Take a look at those places if you didn't see the word you're finding here  

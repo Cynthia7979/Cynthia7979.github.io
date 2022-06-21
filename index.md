@@ -1,20 +1,28 @@
 Welcome to my blog! If you'd like to get in touch, please fill out this form [here](/contact),
 or hop over to my [GitHub profile](https://github.com/Cynthia7979/) for alternative methods.
 
-I also have a Chinese blog [at this address](cynthia-s-cabin.wikidot.com) that's lacking maintenance. I'll not delete or move existing content, but new content will be updated here.
+I also have a Chinese blog [at this address](cynthia-s-cabin.wikidot.com) that's lacking maintenance. I'll not delete or move existing content, but any new content will be updated here. This blog's pretty much a combination of Chinese and English contents, and you'll know which language they're in when you see each of my blogs.
 
 Here's a list of currently available pages:
 
 | Page | Established | Updated |
 |------|-------------|---------|
-| [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 12 June 2022 |
-| [Ideas](ideas) | 30 Dec 2021 | 4 Jun 2022 |
+| [Ideas](ideas) | 30 Dec 2021 | 21 Jun 2022 |
+| [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 15 June 2022 |
 | [合成大西瓜全集](daxigua) | 31 Jan 2021 | 30 Jan 2022 |
 | [Game Reviews 游戏推荐](games) | 23 Jan 2022 | 28 Jan 2022 |
 | [Book Notes Hub](/Book%20Notes) | 22 Jan 2021 | 5 Sep 2021 |
 | [Tech Stuff Hub](/Tech%20Stuff) | 23 Jan 2021 | 5 May 2021 |
 
 # News
+
+<div class="news-block">
+    <b><a href="https://cynthia7979.github.com/ideas/facts-father-son-earthquake">《地震中的父与子》究竟发生在哪？——深挖语文教材中的乌龙</a>
+    <span class="date">2022/6/21</span></b>
+    <p>
+    《地震中的父与子》是人教版语文教材曾经的选文之一。然而，它因为记载的地震年份不准确而引起了大量争议。今天刚吃到这个瓜的我决定深挖一下其中的历史缘由……而且wow，我还真挖到了不少东西。
+    </p>
+</div>
 
 <div class="news-block">
     <b><a href="https://cynthia7979.github.io/ideas/end-of-the-f---king-world-review">Web Series Review: <i>End of the F***king World</i> (2017)</a>

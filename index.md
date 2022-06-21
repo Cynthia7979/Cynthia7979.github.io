@@ -17,7 +17,7 @@ Here's a list of currently available pages:
 # News
 
 <div class="news-block">
-    <b><a href="https://cynthia7979.github.com/ideas/facts-father-son-earthquake">《地震中的父与子》究竟发生在哪？——深挖语文教材中的乌龙</a>
+    <b><a href="https://cynthia7979.github.io/ideas/facts-father-son-earthquake">《地震中的父与子》究竟发生在哪？——深挖语文教材中的乌龙</a>
     <span class="date">2022/6/21</span></b>
     <p>
     《地震中的父与子》是人教版语文教材曾经的选文之一。然而，它因为记载的地震年份不准确而引起了大量争议。今天刚吃到这个瓜的我决定深挖一下其中的历史缘由……而且wow，我还真挖到了不少东西。

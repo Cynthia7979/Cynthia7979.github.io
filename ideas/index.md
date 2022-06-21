@@ -1,6 +1,6 @@
 # Ideas
 
-## [《地震里的父与子》发生在哪？反正不是美国。](/ideas/facts-father-son-earthquake.md)
+## [《地震里的父与子》发生在哪？反正不是美国。](/ideas/facts-father-son-earthquake)
 
 2022/6/21 11:30 发布
 {:.date}

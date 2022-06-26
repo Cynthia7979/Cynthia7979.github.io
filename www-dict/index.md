@@ -153,6 +153,10 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 抽奖 | Giveaway, GAW | To randomly choose a winner from a pool of eligible participants, then give a specified prize to them for free. |
 | 真实; 太真实了 | Relatable | To show empathy towards something or someone. To denote that the thing one went through is common. |
 | 有事吗？ | Can I help you? | A sarcastic way to say "you are being weird" or "I'm confused". |
+| 原来如此; ylrc | TIL | "So that's what it is."<br/>**TIL**: Today I Learned. A slang mostly popular on Reddit. |
+| 问题不大; wtbd | NBD | No big deal. |
+| 卡了; 好卡 | Lag; Ka le, Kale | A lag just happened (in a multiplayer video game) |
+| 情怀税 | Nostalgic cash-grab | Something that's priced more than its worth only because it belongs to a certain series or brand liked by people.<br/>"税" - **Direct translation:** Tax. **Semantic translation:** Cash-grab.  |
 
 ## References & Appendix 参考资料
 Take a look at those places if you didn't see the word you're finding here  

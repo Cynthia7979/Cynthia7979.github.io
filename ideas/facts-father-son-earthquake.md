@@ -81,7 +81,7 @@
 
 <div class="form">
     <form action="https://app.99inbound.com/api/e/3cZaTIPD" method="POST" target="_blank">
-        <b>邮箱地址</b><input type="email" name="email" placeholder="yourname@email.com"><br>
+        <b>邮箱地址</b><input type="email" name="email" placeholder="yourname@email.com" required><br>
         <div style="position: absolute; left: -5000px;">
             <input type="checkbox" name="magnetic_almond_waved_lamp" value="1" tabindex="-1" autocomplete="no">
         </div>

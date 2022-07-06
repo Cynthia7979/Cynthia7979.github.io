@@ -158,6 +158,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 卡了; 好卡 | Lag; Ka le, Kale | A lag just happened (in a multiplayer video game) |
 | 情怀税 | Nostalgic cash-grab | Something that's priced more than its worth only because it belongs to a certain series or brand liked by people.<br/>"税" - **Direct translation:** Tax. **Semantic translation:** Cash-grab.  |
 | 如题; RT | Title | A placeholder used when someone have described what they wanted to say in the title and don't want to write anything in the description. |
+| 面基 | Meetup | To meet a friend whom you met online *in real life*. |
 
 ## References & Appendix 参考资料
 Take a look at those places if you didn't see the word you're finding here  

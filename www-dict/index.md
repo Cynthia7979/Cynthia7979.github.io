@@ -85,7 +85,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | dbq | sry; mb | Sorry. An apology.<br>**dbq**: Abbreviation of 对不起 (dui bu qi, sorry).<br>**sry:** Abbreviation of sorry.<br>**mb**: My bad. Not to be confused with *MB* (Chinese), which is a swear word. |
 | 顶贴; dd (sometimes with more d's) | Bump; `amb.` Upvote | To increase the forum post's activity, either through giving a vote or commenting, so that it remains on the first few pages of the forum. |
 | cpdd | `n.a.` | A public, if not lighthearted, declaration the sender is seeking a romantic partner. `lit.` I want a partner (CP滴滴). |
-| woc; c | wtf; wth | To express anger, astonishment, and/or excitement. May be replaced with swearings that have similar meanings. <br>**wtf**: What the fuck.<br>**wth**: What the hell. |
+| woc; c | wtf; wth; tf | To express anger, astonishment, and/or excitement. May be replaced with swearings that have similar meanings. <br>**wtf**: What the fuck.<br>**wth**: What the hell. |
 | 鬼畜; 美式鬼畜 | YTP | A type of meme video re-editing an existing video to make it sound or look funny. Usually involves re-ordering dialogues in the video and/or adding additional sprites or sound effects.<br>**YTP**: YouTube Poop. |
 | 自闭; emo | emo | To feel frustrated, depressed, anxious, or in any way psychologically unwell. <br>**emo**: Originally an abbreviation of emotional hardcore, but currently an idiomatic way to say that someone's upset. |
 | 主角光环 | Plot armor; `lit.` Protagonist halo | The phenomenon in fictions that the main character always survive seemingly impossible situations. |
@@ -100,7 +100,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 自设; `amb.` 人设 | Persona; `OC` | Someone's character's setting. Can describe the creator's personality in some way, or simply be an original character (aka. *OC*). Do not confuse with *自设* (*fanon*) |
 | MB; NMB | Fuck (you) | Offensive swear words to target at someone. May be interchangably used with arbitrary swear words. |
 | `f.` 富婆; `uncmn.` `amb.` `f.` 干妈; `uncmn.` `amb.` `m.` 干爹; `uncmn.` `m.` 甜爹 | `f.` Sugar mommy; `m.` Sugar daddy | Someone rich who offers money for romantic or sexual companionship. |
-| xp | Type | The ideal type of sexual and/or romantic, realistic or fictional partner that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
+| xp | Kink; Fetish; Type | The ideal type of sexual and/or romantic, realistic, or fictional relationship that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
 | `neg.` gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |
 | bzd | dunno; idk | I don't know. |
 | 摆烂 | To be a degenerate; `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
@@ -115,7 +115,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 救命; 要命 | `amb.` (This is) Cursed; `lit.` Help | To express that something is so hilarious or crazy that one cannot stand it.<br>**Note:**While "Cursed" is always informal, "救命" can be a serious cry for help. It is important to note the context this phrase is in. |
 | 手书 | Animatic | A form of animated video that is usually based on one or more fictional *canon*(s), character(s), or *OC*(s). May and usually tell a story that is accompanied by a song. Usually hand-drawn digitally, though a small portion are either rendered with 3D models or made with images of traditional drawings (e.g., pencil or markers). |
 | 这河里吗, 这合理吗 | (How) is that fair | That doesn't make sense. |
-| 什么鬼 | What the frick/fudge, What the heck | A more gentle way to express confusement or atsonishment. Also see: *wtf*; *wth* |
+| 什么鬼 | What the frick/fudge, What the heck; tf | A more gentle way to express confusement or atsonishment. Also see: *wtf*; *wth* |
 | lj, 辣鸡, 垃圾 | `lit.` Trash; Sucker, crap; Crappy; `uncmn.` Dog water | To denote that something or someone is very bad. To show disregardness and unrespect. May be replaced with swearings that have similar meanings.<br>**Note:** As of 2022, *dog water* is most commonly used by youths to say that someone is bad at games. |
 | 破案了 | Spoiler: ; (Plot) Twist: | A lighthearted speculation at how something came to be.<br>**Example:** 破案了，这家酒店是黑帮建造的. Plot Twist: This hotel was built by the mafia. |
 | 爬, 爪巴 | Screw off, fuck off | A mean way to tell someone to leave. |
@@ -159,6 +159,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 情怀税 | Nostalgic cash-grab | Something that's priced more than its worth only because it belongs to a certain series or brand liked by people.<br/>"税" - **Direct translation:** Tax. **Semantic translation:** Cash-grab.  |
 | 如题; RT | Title | A placeholder used when someone have described what they wanted to say in the title and don't want to write anything in the description. |
 | 面基 | Meetup | To meet a friend whom you met online *in real life*. |
+| 没记错的话 | iirc; IIRC | If I recall correctly. |
+| 优美的中国话 | A man of culture | A statement that is usually complimentary that is said when one swears at someone or something which everyone dislikes. |
+
 
 ## References & Appendix 参考资料
 Take a look at those places if you didn't see the word you're finding here  

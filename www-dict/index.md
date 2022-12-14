@@ -105,7 +105,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | bzd | dunno; idk | I don't know. |
 | 摆烂 | To be a degenerate; `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
-| （内）卷 | `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
+| （内）卷 | Grind, grind culture; `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
 | awsl, 阿伟死了 | awww; `lit.` I'm dying; `lit.` I died | A phrase used when something is extremely impressive, cute, and/or adorable. |
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
 | 复读; 接龙 | Chain | To repeatedly post the exact same message, either for fun or to emphasize. |
@@ -153,7 +153,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 抽奖 | Giveaway, GAW | To randomly choose a winner from a pool of eligible participants, then give a specified prize to them for free. |
 | 真实; 太真实了 | Relatable | To show empathy towards something or someone. To denote that the thing one went through is common. |
 | 有事吗？ | Can I help you? | A sarcastic way to say "you are being weird" or "I'm confused". |
-| 原来如此; ylrc | TIL | "So that's what it is."<br/>**TIL**: Today I Learned. A slang mostly popular on Reddit. |
+| 原来如此; ylrc; 学到了 | TIL | "So that's what it is."<br/>**TIL**: Today I Learned. A slang mostly popular on Reddit. |
 | 问题不大; wtbd | NBD | No big deal. |
 | 卡了; 好卡 | Lag; Ka le, Kale | A lag just happened (in a multiplayer video game) |
 | 情怀税 | Nostalgic cash-grab | Something that's priced more than its worth only because it belongs to a certain series or brand liked by people.<br/>"税" - **Direct translation:** Tax. **Semantic translation:** Cash-grab.  |

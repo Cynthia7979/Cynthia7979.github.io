@@ -214,7 +214,7 @@
     * **试玩视频：** [五行石合成玄晶？玄晶x2＝玫瑰？](https://www.bilibili.com/video/BV1pT4y1P7be)
 * [合成大pi瓜](http://thog.xyz:2333/) *api*
     * 作者未知
-    * **试玩视频：** [【api】如何合成一个大pi瓜|合成大西瓜api版](https://www.bilibili.com/video/BV1h5411J7Hv)
+    * **试玩视频：** [【api】如何合成一个大pi瓜\|合成大西瓜api版](https://www.bilibili.com/video/BV1h5411J7Hv)
 * [合成假面骑士](https://build.weiranmua.vercel.app/)
     * **作者：** [梦思远妄](https://space.bilibili.com/203664560)
     * **试玩视频：** [【撒，合成的法则已经决定】](https://www.bilibili.com/video/BV1UT4y1P7hk)
@@ -291,7 +291,7 @@
 * [合成大西瓜源码复制](https://github.com/bullhe4d/bigwatermelon)
     * **不是**原作者开源，代码是压缩后的js代码
 * [合成大西瓜创意工坊](https://plashspeed.top/xigua/creator#/) *制作器*
-    * 作者已终止图片上传功能
+    * 作者重新开启网站，制作需要联系作者并支付维护费用
 
 [RETURN](/)
 {:.right}

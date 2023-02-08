@@ -28,7 +28,7 @@
 
 *Q:* 我有一个建议/我发现了一个错误  
 *A:* 请[开一个Issue](https://github.com/Cynthia7979/Cynthia7979.github.io/issues/new?assignees=Cynthia7979&labels=&template=-----.md&title=)
-或者（如果你对GitHub不熟悉的话）给我[发一封邮件](mailto:CynthiaWang7979@hotmail.com)
+或者（如果你对GitHub不熟悉的话）给我[发一封邮件](/contact.md)
 
 *Q:* 这也太多了吧！  
 *A:* 是的。所以如果要找一个特定版本的话，请使用`Ctrl+F`（电脑）或浏览器的搜索功能。另外，名称旁边的*斜体字*可以辅助搜索——它们提供了一些名称中没有的关键词。

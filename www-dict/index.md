@@ -1,4 +1,5 @@
 # 不完全网络用语中英词典  
+
 The Incomplete Internet Slang Dictionary (Chinese - English)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcynthia7979.github.io%2Fwww-dict%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -7,12 +8,13 @@ The Incomplete Internet Slang Dictionary (Chinese - English)
 [RETURN](/)
 {:.right}
 
-_**NSFW / Trigger Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.**_
+***NSFW / Trigger Warning: Cyberbullying-related content. Swear words. Implicit or explicit sexual reference.***
 
 **Use `Ctrl+F` (`Command+F`) to search for a specific word!**  
 **请使用 `Ctrl+F` (`Command+F`) 快捷键搜索词汇！**
 
 ## Introduction 简介
+
 This dictionary is made for those who'd like to speak more natively in both Chinese and English, translate or write internet-related thing like a chat history, or just want to understand what everything means in this digital world.  
 本词典可以用来学习更地道的中英网络用语、作为网络相关文学作品的翻译或写作参考、或只是用来辅助理解网络上常见用词的意思。
 
@@ -26,6 +28,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 **请注意**：下列英语词汇中，以斜杠（/）开头的词汇都是**tone indicator**（语气指示词）。它们的作用是阐明一句话的语气和意思，因此需要被恰当使用。在 [这里](https://toneindicators.carrd.co/) 阅读更多关于tone indicator（语气指示词）的介绍。
 
 ## Legend 词汇标签
+
 - `amb.` Ambiguous 模糊翻译
 - `n.a.` Not available 关联词不存在
 - `uncmn.` Uncommon or not a slang 不常用或过于正式
@@ -36,9 +39,8 @@ A term is usually included if it has a matching translation in Chinese or can't 
 - `neg.` Negative connotation 贬义
 
 ## **[Didn't Find Your Word? CONTRIBUTE HERE! 提交新条目！](/www-dict/contrib)**
+
 {:.center}
-
-
 
 ## The Dictionary 词典正文
 
@@ -103,9 +105,9 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | xp | Kink; Fetish; Type | The ideal type of sexual and/or romantic, realistic, or fictional relationship that one desires; What turns you on.<br>**xp**: Abbreviation for 性癖 (`lit.` Special hobby for a sexual feature) |
 | `neg.` gg | Got/get owned | To die in game. To make a mistake controlling the character. Neutral or negative connotation.<br>**Not to be confused with *gg* in English, which stands for “Good Game”.** |
 | bzd | dunno; idk | I don't know. |
-| 摆烂 | To be a degenerate; `uncmn.` To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
+| 摆烂 | To be a degenerate; To tank | To lose or do bad on purpose without even trying.<br>**Note**: *Tanked* can also mean drunk. |
 | 同人（文） | Fanart; Fanfiction | A literature or artwork produced based on an existing worldview or character setting that is not created by the artist of this art. |
-| （内）卷 | Grind, grind culture; `uncmn.` `amb.` Rat race | (As noun) a situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) working too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
+| （内）卷 | Grind, grind culture; `amb.` Rat race | (As noun) A situation in which everyone is working too hard that nobody could get any additional award from working hard. (As verb) To work too hard that it causes a *rat race* situation. `lit.` Involution; Internal working |
 | awsl, 阿伟死了 | awww; `lit.` I'm dying; `lit.` I died | A phrase used when something is extremely impressive, cute, and/or adorable. |
 | KY | `n.a.` | Being unable to read the situation or being unable to pick up on the mood of a conversation. Referencing a fandom, game, film, or other works when it is not the right time. Origin: 空気読めない (Kuuki Yomenai), `lit.` Unable to read the air. |
 | 复读; 接龙 | Chain | To repeatedly post the exact same message, either for fun or to emphasize. |
@@ -149,7 +151,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 老实人 | Captain Obvious | A person who points out very obvious things. Someone who treats a joke seriously and points out/answers any problems in it. |
 | 单推 | Main | The character whom you like the most. |
 | （大嘘） | BOOO (alternatively with more O's) | To show distrust or pessimism against someone or something. Works similarly as a tone indicator. |
-| 转推; 转发 | Retweet | To repost a status update, specifically a Twitter post. |
+| 转推; 转发 | Retweet; Repost | To repost a status update, specifically a Twitter post. |
 | 抽奖 | Giveaway, GAW | To randomly choose a winner from a pool of eligible participants, then give a specified prize to them for free. |
 | 真实; 太真实了 | Relatable | To show empathy towards something or someone. To denote that the thing one went through is common. |
 | 有事吗？ | Can I help you? | A sarcastic way to say "you are being weird" or "I'm confused". |
@@ -161,32 +163,34 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 面基 | Meetup | To meet a friend whom you met online *in real life*. |
 | 没记错的话 | iirc; IIRC | If I recall correctly. |
 | 优美的中国话 | A man of culture | A statement that is usually complimentary that is said when one swears at someone or something which everyone dislikes. |
-
+| 脚本小子 | Scriptkiddie | A self-proclaimed hacker. Derogatory term for people who use prewritten scripts and/or computer programs to infiltrate computer systems, create computer viruses, or otherwise carry out activities that may cause damage to another person's digital property. |
 
 ## References & Appendix 参考资料
+
 Take a look at those places if you didn't see the word you're finding here  
 如果你找不到想找的词，在这些地方看一看（英文）：
-* [Urban Dictionary](https://www.urbandictionary.com)
-* [Your Dictionary](https://www.yourdictionary.com)
-* [Cyber Definitions](https://www.cyberdefinitions.com)
+
+- [Urban Dictionary](https://www.urbandictionary.com)
+- [Your Dictionary](https://www.yourdictionary.com)
+- [Cyber Definitions](https://www.cyberdefinitions.com)
 
 Some definitions here are written with reference to the following sources  
 部分词汇定义参考自以下资料
-* [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
+
+- [Cheat sheet](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
  published by Common Sense
-* [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
+- [This](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
 page by MakeUseOf
-* [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
-* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
+- [Carrd](https://tonetags.carrd.co/#masterlist) written by @ranlaugh
+- [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
 
-* Common Sense 发布的
+- Common Sense 发布的
 [词汇表](https://www.commonsensemedia.org/sites/default/files/uploads/pdfs/2017_csm_digital-slang-cheat-sheet_2017.pdf)
-* MakeUseOf 撰写的
+- MakeUseOf 撰写的
 [文章](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/)
-* @ranlaugh制作的
+- @ranlaugh制作的
 [Carrd](https://tonetags.carrd.co/#masterlist)
-* [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
-
+- [StackExchange: KY](https://japanese.stackexchange.com/questions/372/when-japanese-say-ky-on-the-internet-what-does-it-mean-exactly)
 
 [RETURN](/)
 {:.right}

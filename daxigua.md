@@ -59,21 +59,6 @@
 
 * [合成风暴对立](https://melon.arcaea.moe) *Arcaea* *音游*
   * Q群传的 作者未知
-* [合成阴阳怪气](https://game.liuling.win/QQ/) *表情 QQ*
-  * **作者：** [琉凌セイギ](https://space.bilibili.com/2085689)
-  * **试玩视频：** [把阴阳怪气打在大西瓜上](https://www.bilibili.com/video/BV1Q54y1p75b)
-  * **QQ分享链接：** [https://qq.xiaozhan.rest/](https://qq.xiaozhan.rest/)
-* [合成新浪微博](https://game.liuling.win/weibo/) *表情*
-  * **作者：** [琉凌セイギ](https://space.bilibili.com/2085689)
-  * **试玩视频：** [微博，随时随地夹住新内容](https://www.bilibili.com/video/BV1fz4y1m72B)
-  * **QQ分享链接：** [https://wb.xiaozhan.rest/](https://wb.xiaozhan.rest/)
-* [合成大刻晴](http://qiaotung.ddjson.com)
-  * **作者：** [六个烫](https://space.bilibili.com/112032955)
-* [合成大狗头](http://doge.ddjson.com) *表情 QQ*
-  * **作者：** [六个烫](https://space.bilibili.com/112032955)
-  * **试玩视频：** [别合成大西瓜了，看我合成大狗头doge](https://www.bilibili.com/video/BV1Cy4y117EL)
-* [合成大欧派](http://opai.ddjson.com)
-  * **作者：** [六个烫](https://space.bilibili.com/112032955)
 * [合成大木毛](http://inmdex.com/bighomo/)
   * **作者：** [宁靜致远](https://space.bilibili.com/5935506)
 * 合成十连券 *明日方舟*
@@ -84,14 +69,12 @@
   * **作者：** [叫我龙傲天吧](https://space.bilibili.com/352445348)
   * **试玩视频：** [合 成 舰 娘](https://www.bilibili.com/video/BV1ur4y1K7Zk)
 * [3D合成大西瓜](http://www.fmpog.com) *原作向*
+  * **注意：上方网页已不包含合成大西瓜，下方链接疑似被劫持，请谨慎点击**
   * 需要下载
     * [电脑版备用下载](https://wws.lanzous.com/iYeHGl35q9e)
     * [安卓版备用下载](https://wws.lanzous.com/iyZ85l35qwh)
   * **作者：** [-Fm2-](https://space.bilibili.com/287853853)
   * **试玩视频：** [合成大西瓜，但是变3D了……](https://www.bilibili.com/video/BV1Py4y1n7WV)
-* [合成大柚子社](http://47.94.230.132:8080/ComposeYuzu)
-  * **作者：** [sick白牧](https://space.bilibili.com/3009864)
-  * **试玩视频：** [【Yuzusoft】合成大柚子社](https://www.bilibili.com/video/BV1Ko4y1d7jy)
 * 合成周星星
   * 需要按照[视频教程](https://www.bilibili.com/video/BV1v54y1p7MK?p=2)手动修改
     * 其中提到的文件夹下载链接：
@@ -109,9 +92,6 @@
   * [备用链接](https://weiyin-cat.gitee.io/jojo-serena)
   * **作者：** [尾音猫](https://space.bilibili.com/3934727)
   * **试玩视频：** [【啾啾猫猫】合成大猫猫](https://www.bilibili.com/video/BV1yv4y1o7kN)
-* [合成有栖mana](https://xiaoxiangxuecao.github.io/Alicemana)
-  * **作者：** [有栖条胖次](https://space.bilibili.com/16104874)，[法力喵的仙人掌](https://space.bilibili.com/32933007)
-  * **试玩视频：** [『有栖Mana』合成大钢板](https://www.bilibili.com/video/BV1mU4y1s7z2)
 * [合成太阳系](https://cs.darkmap.cn)
   * **作者：** [h1astro](https://space.bilibili.com/88749048)
   * **试玩视频：** [天文休闲小游戏︱玩了多次“合成大西瓜”后，我制作了“合成太阳系”，最后有个彩蛋是…](https://www.bilibili.com/video/BV1hp4y1s7cx)
@@ -121,24 +101,15 @@
 * [合成大希瓜](https://magnoliar.github.io/Hiitermelon) *Hiiro*
   * **作者：** [咸鱼都不如的阿飞](https://space.bilibili.com/167243033)
   * **试玩视频：** [《合成大希瓜》](https://www.bilibili.com/video/BV1DT4y1P7Q1)
-* [合成大萃香](https://suika.touhoudog.com)
-  * **作者：** 白倉カナ
-  * **试玩视频：** [【东方同人魔改】合成大萃香（试玩）](https://www.bilibili.com/video/BV1qT4y1P7DJ)
 * [合成大沃玛 薇尔拉版](https://warmaboom-viola-pi.vercel.app)
   * **作者：** [薇尔拉](https://space.bilibili.com/7546734)
   * **试玩视频：** [【沃玛/自制】合成沃玛！](https://www.bilibili.com/video/BV1pT4y1P7A8)
 * [合成明越夜](https://yoricai.gitee.io/new)
   * **作者：** [你算哪只小饺子](https://space.bilibili.com/1427035)
   * **试玩视频：** [【合成大西瓜】魔改版之《合成明越夜》](https://www.bilibili.com/video/BV1sK4y1p75k)
-* [合成大宝贝](https://in-vaina.gitee.io/synthetic-baby)
-  * **作者：** 酩酊平江
-  * **试玩视频：** [【大张伟】合成大宝贝](http://bilibili.com/BV1bK4y1p7g3)
 * [合成金路云](https://coyeci.gitee.io/rowoon/)
   * **作者：** [阿莫尔词典](https://space.bilibili.com/7794308)
   * **试玩视频：** [【合成大西瓜】？不，【合成金路云】蓝毛衣](https://www.bilibili.com/video/BV1P54y1W7RY)
-* [合成大表头](https://zio-8g9otrrx7c36afd1-1304901052.tcloudbaseapp.com/)
-  * **作者：** [梦思远妄](https://space.bilibili.com/203664560)
-  * **试玩视频：** [【庆贺吧！合成大表头】](https://www.bilibili.com/video/BV1oy4y1J7eT)
 * [合成大猫诺](https://aabbcczhy.gitee.io/maonuo)
   * **作者：** [米法の祈り](https://space.bilibili.com/266749744)
   * **试玩视频：** [合成大猫诺1.0（测试）](https://www.bilibili.com/video/BV1Sy4y117wY)
@@ -147,22 +118,6 @@
 提取码：2yn8
   * **作者：** [老举温抖丶](https://space.bilibili.com/6193541)
   * **试玩视频：** [Unity自制合成大西瓜简陋版](https://www.bilibili.com/video/BV1gy4y1172R)
-* [合成陆小果](https://wichellchung.gitee.io/watermelon) *果宝特攻*
-  * **作者：** [未来会好吗]()(<https://space.bilibili.com/49471257>)
-  * **试玩视频：** [合成大西瓜✘，合成陆小果✔](https://www.bilibili.com/video/BV1vr4y1K7tf)
-* [合成灿白](https://no-north.gitee.io/synthesis-of-chanbaek/)
-  * **作者：** [无島北渡](https://m.weibo.cn/profile/3961247229)
-  * **试玩视频：** [【灿白】灿白版合成大西瓜！！！](https://www.bilibili.com/video/BV16r4y1K7is)
-* [合成小问号](https://vaccaria.gitee.io/composite-question-mark-20/) *张艺兴*
-  * **作者：** [美莲储](https://m.weibo.cn/profile/3188124010)
-  * **试玩视频：** [【合成大西瓜︱合成张艺兴】](https://www.bilibili.com/video/BV1Mp4y1s7SF)
-* [合成沃沃头](https://melon.warma.love/) *沃玛*
-  * 另一个合成沃玛的版本
-  * 作者未知
-  * **试玩视频：** [合成沃沃头！](https://www.bilibili.com/video/BV1bv4y1o7Pf)
-* [合成素素](https://a-white-vic.gitee.io/synthamin/) *朴素妍*
-  * **作者：** [冠你之名Tiamo](https://space.bilibili.com/591843284)
-  * **试玩视频：** [【朴素妍】合成大西瓜✘ 合成素素✔](https://www.bilibili.com/video/BV1v54y1p7Hw)
 * [合成小芝麻](http://www.wesane.com/game/658/) *原作向*
   * [App Store下载（疑似非原作者上传）](https://apps.apple.com/cn/app/%E5%90%88%E6%88%90%E5%B0%8F%E8%8A%9D%E9%BA%BB/id1224088907)
   * **作者：** （可能）与原作相同
@@ -171,16 +126,9 @@
   * 作者未知
 * [合成大叔叔](https://tup0lev.github.io/MergeChenRui/) *陈睿*
   * 作者未知
-* [合成大Igallta](https://melon.solariar.tech) *Phigros* *音游*
-  * 作者未知
-  * 【优质】自定义了背景、音效和特效
-  * 看到这里我才意识到我火星了（指不知道怎么解锁Igallta） ~Cynthia
-* [合成苏维埃](https://njuer.top/hechengxigua/?uid=10299&name=Soviet)
-  * **作者：** [西楚爸爸王](https://space.bilibili.com/281271249)
-  * **试玩视频：** [合成苏维埃](https://www.bilibili.com/video/BV1K54y1W7rF)
 * 合成大乔 *JoJo*
   * 需要下载后自建服务器游玩
-  * > 好了你们赢了，这里是链接[tv_笑哭]  
+  * > 好了你们赢了，这里是链接\[tv_笑哭\]  
     不过这玩意直接双击html文件会卡在99%，要自己搭一个服务器才能用  
     详情可以搜iis服务器搭建  
     链接：<https://pan.baidu.com/s/1ZR16k847KNWOzwXs5D1gFw>  
@@ -188,34 +136,13 @@
     改的源码来源:<https://github.com/xiaopengand/daxigua>
   * **作者：** [AccelCYang](https://space.bilibili.com/15153924)
   * **试玩视频：** [合 成 大 乔(×) 超 级 加 辈(√)](https://www.bilibili.com/video/BV1Uv411s7ou)
-* [合成露西亚](https://coding-pages-bucket-3519941-8306729-11836-485562-1304912479.cos-website.ap-hongkong.myqcloud.com/)
-  * **作者：** [凉樱夢](https://space.bilibili.com/260487856)
-  * **试玩视频：** [合成露西亚](https://www.bilibili.com/video/BV1dv411Y7ap)
 * [合成大帕瓦](https://bigvergil-main.vercel.app)
   * **作者：** [文鸟气球](https://space.bilibili.com/2167233)
   * **试玩视频：** [合成大帕瓦！！！](https://www.bilibili.com/video/BV1tt4y167Zk)
-* [合成大钻石](http://www.kitick.xyz/)
-  * **作者：** [KiTick_](https://message.bilibili.com/#whisper/mid397444350)
-  * **试玩视频：** [合成大西瓜魔改版——合成大钻石](https://www.bilibili.com/video/BV185411J7pK)
-* [合成大汐瓜](https://hosimiyasio.com/game/) *星宮汐*
-  * 作者未知
-  * **试玩视频：** [【星宮汐/底部弹幕】合成大汐瓜](https://www.bilibili.com/video/BV15y4y1n77c)
 * [合成大呜米](https://u5er-n4me.github.io/SyntheticUmy/ver1/index.html)
   * **作者：** [泡泡要抱抱咕噜叽](https://space.bilibili.com/3045020)
   * 如果加载不出来可以下载到本地用浏览器打开
   * **试玩视频：** [【呜米】合 成 大 呜 米](https://www.bilibili.com/video/BV1TA411p7Ft)
-* [合成大呜米另一版本](https://meumy.live)
-  * **作者：** [是本本哒](https://space.bilibili.com/165598943)
-* [合成大德克萨斯](http://arknights.yang99.top/) *明日方舟*
-  * **作者：** [旸旸旸g](https://space.bilibili.com/9154099)
-  * **试玩视频：** [合 成 大 德 克 萨 斯](https://www.bilibili.com/video/BV1Rz4y1S7Sb)
-  * 电脑端游玩方法 [http://www.yang99.top/index.php/archives/22/](http://www.yang99.top/index.php/archives/22/)
-* [合成大玄晶](https://heigui.weixiwu.cn/?continueFlag=023cabae3d8d9ac6faf928c5c79207f7) *剑网3*
-  * **作者：** [紫喵Azunya](https://space.bilibili.com/2469548)
-  * **试玩视频：** [五行石合成玄晶？玄晶x2＝玫瑰？](https://www.bilibili.com/video/BV1pT4y1P7be)
-* [合成大pi瓜](http://thog.xyz:2333/) *api*
-  * 作者未知
-  * **试玩视频：** [【api】如何合成一个大pi瓜\|合成大西瓜api版](https://www.bilibili.com/video/BV1h5411J7Hv)
 * [合成假面骑士](https://build.weiranmua.vercel.app/)
   * **作者：** [梦思远妄](https://space.bilibili.com/203664560)
   * **试玩视频：** [【撒，合成的法则已经决定】](https://www.bilibili.com/video/BV1UT4y1P7hk)
@@ -231,12 +158,6 @@
 * [合成魔王曲](https://robocoawsl.gitee.io/the-magic-song/) *Arcaea* *音游*
   * **作者：** [白露级四番舰poi](https://space.bilibili.com/3217118)
   * **试玩视频：** [【Arc】合 成 魔 王 曲](https://www.bilibili.com/video/BV1Gv411e7sc)
-* [合成青蒿素](https://youjihecheng-1gell9ya9bad9372-1301642626.tcloudbaseapp.com)
-  * **作者：** [北极挖不到石英](https://space.bilibili.com/110359606)
-  * **试玩视频：** [有 机 合 成](https://www.bilibili.com/video/BV1rh411C7uS)
-* [合成SCP基金会](https://plashspeed.top/xigua/game?id=2726d849)
-  * **作者：** [StarryPony](https://space.bilibili.com/3836886)
-  * **试玩视频：** [合成SCP基金会](https://www.bilibili.com/video/BV1Cr4y1P7P8)
 * [合成五条悟](https://xiaowu.ipiyo.vercel.app/)
   * 备用链接：[https://xiaowu.vercel.app/](https://xiaowu.vercel.app/)
   * **作者：** [xliio](https://space.bilibili.com/13686566)
@@ -282,9 +203,115 @@
 * 合成MCYT（无链接）
   * **作者：** [九刻临兮](https://space.bilibili.com/22994321)
   * **试玩视频：** [合成大西瓜 但是是MCYT（？](https://www.bilibili.com/video/BV1X3411e77a)
-* [开挂版+其它魔改版合成大西瓜](http://watermelon.uz3.top/games.html) （因未备案无法访问） *原作向*
+* 开挂版+其它魔改版合成大西瓜 （因未备案无法访问） *原作向*
+  * [http://watermelon.uz3.top/games.html](http://watermelon.uz3.top/games.html)
   * **作者：** [XAzrael](https://www.zhihu.com/people/XAzrael)
     * **背景故事：** [手机游戏《合成大西瓜》可以合成两个西瓜吗？ - XAzrael的回答](https://www.zhihu.com/question/440715965/answer/1697176595)
+* 合成沃沃头 (网站下线) *沃玛*
+  * [https://melon.warma.love/](https://melon.warma.love/)
+  * 作者未知
+  * **试玩视频：** [合成沃沃头！](https://www.bilibili.com/video/BV1bv4y1o7Pf)
+* 合成SCP基金会 （游戏无法开始）
+  * [网页使用下方民间创意工坊制作，是否是创意工坊的问题暂且未知](https://plashspeed.top/xigua/game?id=2726d849)
+  * **作者：** [StarryPony](https://space.bilibili.com/3836886)
+  * **试玩视频：** [合成SCP基金会](https://www.bilibili.com/video/BV1Cr4y1P7P8)
+* 合成阴阳怪气 （服务器下线） *表情 QQ*
+  * [https://game.liuling.win/QQ/](https://game.liuling.win/QQ/)
+  * **作者：** [琉凌セイギ](https://space.bilibili.com/2085689)
+  * **试玩视频：** [把阴阳怪气打在大西瓜上](https://www.bilibili.com/video/BV1Q54y1p75b)
+  * **QQ分享链接：** [https://qq.xiaozhan.rest/](https://qq.xiaozhan.rest/)
+* 合成新浪微博 （网站下线） *表情*
+  * [https://game.liuling.win/weibo/](https://game.liuling.win/weibo/)
+  * **作者：** [琉凌セイギ](https://space.bilibili.com/2085689)
+  * **试玩视频：** [微博，随时随地夹住新内容](https://www.bilibili.com/video/BV1fz4y1m72B)
+  * **QQ分享链接：** [https://wb.xiaozhan.rest/](https://wb.xiaozhan.rest/)
+* 合成大刻晴 （网站下线）
+  * [http://qiaotung.ddjson.com](http://qiaotung.ddjson.com)
+  * **作者：** [六个烫](https://space.bilibili.com/112032955)
+* 合成大狗头 （网站下线） *表情 QQ*
+  * [http://doge.ddjson.com](http://doge.ddjson.com)
+  * **作者：** [六个烫](https://space.bilibili.com/112032955)
+  * **试玩视频：** [别合成大西瓜了，看我合成大狗头doge](https://www.bilibili.com/video/BV1Cy4y117EL)
+* 合成大欧派 （网站下线）
+  * [http://opai.ddjson.com](http://opai.ddjson.com)
+  * **作者：** [六个烫](https://space.bilibili.com/112032955)
+* 合成大柚子社 （网站下线）
+  * [http://47.94.230.132:8080/ComposeYuzu](http://47.94.230.132:8080/ComposeYuzu)
+  * **作者：** [sick白牧](https://space.bilibili.com/3009864)
+  * **试玩视频：** [【Yuzusoft】合成大柚子社](https://www.bilibili.com/video/BV1Ko4y1d7jy)
+* 合成有栖mana （链接404）
+  * [https://xiaoxiangxuecao.github.io/Alicemana](https://xiaoxiangxuecao.github.io/Alicemana)
+  * **作者：** [有栖条胖次](https://space.bilibili.com/16104874)，[法力喵的仙人掌](https://space.bilibili.com/32933007)
+  * **试玩视频：** [『有栖Mana』合成大钢板](https://www.bilibili.com/video/BV1mU4y1s7z2)
+* 合成大萃香 （网站下线）
+  * [https://suika.touhoudog.com](https://suika.touhoudog.com)
+  * **作者：** 白倉カナ
+  * **试玩视频：** [【东方同人魔改】合成大萃香（试玩）](https://www.bilibili.com/video/BV1qT4y1P7DJ)
+* 合成大宝贝 （链接404） *大张伟*
+  * [https://in-vaina.gitee.io/synthetic-baby](https://in-vaina.gitee.io/synthetic-baby)
+  * **作者：** 酩酊平江
+  * **试玩视频：** [【大张伟】合成大宝贝](http://bilibili.com/BV1bK4y1p7g3)
+* 合成大表头 （网站下线）
+  * [https://zio-8g9otrrx7c36afd1-1304901052.tcloudbaseapp.com/](https://zio-8g9otrrx7c36afd1-1304901052.tcloudbaseapp.com/)
+  * **作者：** [梦思远妄](https://space.bilibili.com/203664560)
+  * **试玩视频：** [【庆贺吧！合成大表头】](https://www.bilibili.com/video/BV1oy4y1J7eT)
+* 合成陆小果 （链接404） *果宝特攻*
+  * [https://wichellchung.gitee.io/watermelon](https://wichellchung.gitee.io/watermelon)
+  * **作者：** [未来会好吗](<https://space.bilibili.com/49471257>)
+  * **试玩视频：** [合成大西瓜✘，合成陆小果✔](https://www.bilibili.com/video/BV1vr4y1K7tf)
+* 合成灿白 （链接404）
+  * [https://no-north.gitee.io/synthesis-of-chanbaek/](https://no-north.gitee.io/synthesis-of-chanbaek/)
+  * **作者：** [无島北渡](https://m.weibo.cn/profile/3961247229)
+  * **试玩视频：** [【灿白】灿白版合成大西瓜！！！](https://www.bilibili.com/video/BV16r4y1K7is)
+* 合成素素 （链接404） *朴素妍*
+  * [https://a-white-vic.gitee.io/synthamin/](https://a-white-vic.gitee.io/synthamin/)
+  * **作者：** [冠你之名Tiamo](https://space.bilibili.com/591843284)
+  * **试玩视频：** [【朴素妍】合成大西瓜✘ 合成素素✔](https://www.bilibili.com/video/BV1v54y1p7Hw)
+* 合成小问号 （链接404） *张艺兴*
+  * [https://vaccaria.gitee.io/composite-question-mark-20/](https://vaccaria.gitee.io/composite-question-mark-20/)
+  * **作者：** [美莲储](https://m.weibo.cn/profile/3188124010)
+  * **试玩视频：** [【合成大西瓜︱合成张艺兴】](https://www.bilibili.com/video/BV1Mp4y1s7SF)
+* 合成大Igallta （网站下线） *Phigros* *音游*
+  * [https://melon.solariar.tech](https://melon.solariar.tech)
+  * 作者未知
+  * 【优质】自定义了背景、音效和特效
+  * 看到这里我才意识到我火星了（指不知道怎么解锁Igallta） ~Cynthia
+* 合成苏维埃 （链接404）
+  * [https://njuer.top/hechengxigua/?uid=10299&name=Soviet](https://njuer.top/hechengxigua/?uid=10299&name=Soviet)
+  * **作者：** [西楚爸爸王](https://space.bilibili.com/281271249)
+  * **试玩视频：** [合成苏维埃](https://www.bilibili.com/video/BV1K54y1W7rF)
+* 合成露西亚 （疑似网站欠费）
+  * [https://coding-pages-bucket-3519941-8306729-11836-485562-1304912479.cos-website.ap-hongkong.myqcloud.com/](https://coding-pages-bucket-3519941-8306729-11836-485562-1304912479.cos-website.ap-hongkong.myqcloud.com/)
+  * **作者：** [凉樱夢](https://space.bilibili.com/260487856)
+  * **试玩视频：** [合成露西亚](https://www.bilibili.com/video/BV1dv411Y7ap)
+* 合成大钻石 （页面下线） *我的世界* *MC* *Minecraft*
+  * [http://www.kitick.xyz/](http://www.kitick.xyz/)
+  * **作者：** [KiTick_](https://message.bilibili.com/#whisper/mid397444350)
+  * **试玩视频：** [合成大西瓜魔改版——合成大钻石](https://www.bilibili.com/video/BV185411J7pK)
+* 合成大汐瓜 （网站下线） *星宮汐*
+  * [https://hosimiyasio.com/game/](https://hosimiyasio.com/game/)
+  * 作者未知
+  * **试玩视频：** [【星宮汐/底部弹幕】合成大汐瓜](https://www.bilibili.com/video/BV15y4y1n77c)
+* 合成大呜米另一版本 （网站下线）
+  * [https://meumy.live](https://meumy.live)
+  * **作者：** [是本本哒](https://space.bilibili.com/165598943)
+* 合成大德克萨斯 （页面下线） *明日方舟*
+  * [http://arknights.yang99.top/](http://arknights.yang99.top/)
+  * **作者：** [旸旸旸g](https://space.bilibili.com/9154099)
+  * **试玩视频：** [合 成 大 德 克 萨 斯](https://www.bilibili.com/video/BV1Rz4y1S7Sb)
+  * 电脑端游玩方法 [http://www.yang99.top/index.php/archives/22/](http://www.yang99.top/index.php/archives/22/)
+* 合成大玄晶 （网页出错） *剑网3*
+  * [https://heigui.weixiwu.cn/?continueFlag=023cabae3d8d9ac6faf928c5c79207f7](https://heigui.weixiwu.cn/?continueFlag=023cabae3d8d9ac6faf928c5c79207f7)
+  * **作者：** [紫喵Azunya](https://space.bilibili.com/2469548)
+  * **试玩视频：** [五行石合成玄晶？玄晶x2＝玫瑰？](https://www.bilibili.com/video/BV1pT4y1P7be)
+* 合成大pi瓜 （网站下线）*api*
+  * [http://thog.xyz:2333/](http://thog.xyz:2333/)
+  * 作者未知
+  * **试玩视频：** [【api】如何合成一个大pi瓜\|合成大西瓜api版](https://www.bilibili.com/video/BV1h5411J7Hv)
+* 合成青蒿素 （网站下线）
+  * [https://youjihecheng-1gell9ya9bad9372-1301642626.tcloudbaseapp.com](https://youjihecheng-1gell9ya9bad9372-1301642626.tcloudbaseapp.com)
+  * **作者：** [北极挖不到石英](https://space.bilibili.com/110359606)
+  * **试玩视频：** [有 机 合 成](https://www.bilibili.com/video/BV1rh411C7uS)
 <a id="other"></a>
 
 ## 📦其他相关作品
@@ -293,7 +320,7 @@
 * 使用cocos实现一个合成大西瓜 [文章](http://www.shymean.com/article/使用cocos实现一个合成大西瓜)
   * [Repo](https://github.com/tangxiangmin/cocos-big-watermelon)
   * [在线体验](https://web-game-9gh6nrus14fec37e-1252170212.tcloudbaseapp.com/) *原作向*
-* [合成大西瓜源码复制](https://github.com/bullhe4d/bigwatermelon)
+* [合成大西瓜源码](https://github.com/bullhe4d/bigwatermelon)
   * **不是**原作者开源，代码是压缩后的js代码
 * [合成大西瓜创意工坊](https://plashspeed.top/xigua/creator#/) *制作器*
   * 作者重新开启网站，制作需要联系作者并支付维护费用

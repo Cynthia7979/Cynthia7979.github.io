@@ -11,91 +11,223 @@
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="/assets/js/script.js"></script>
 
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>My Thoughts On Books | Cynthia7979.github.io</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="My Thoughts On Books" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="~Online Tools~" />
-<meta property="og:description" content="~Online Tools~" />
-<link rel="canonical" href="https://cynthia7979.github.io/Book%20Notes/" />
-<meta property="og:url" content="https://cynthia7979.github.io/Book%20Notes/" />
-<meta property="og:site_name" content="Cynthia7979.github.io" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="My Thoughts On Books" />
-<script type="application/ld+json">
-{"@type":"WebPage","headline":"My Thoughts On Books","url":"https://cynthia7979.github.io/Book%20Notes/","description":"~Online Tools~","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+  <title>My Thoughts On Books | Cynthia7979.github.io</title>
+  <meta name="generator" content="Jekyll v3.9.0" />
+  <meta property="og:title" content="My Thoughts On Books" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="~Online Tools~" />
+  <meta property="og:description" content="~Online Tools~" />
+  <link rel="canonical" href="https://cynthia7979.github.io/Book%20Notes/" />
+  <meta property="og:url" content="https://cynthia7979.github.io/Book%20Notes/" />
+  <meta property="og:site_name" content="Cynthia7979.github.io" />
+  <meta name="twitter:card" content="summary" />
+  <meta property="twitter:title" content="My Thoughts On Books" />
+  <script type="application/ld+json">
+  {"@type":"WebPage","headline":"My Thoughts On Books","url":"https://cynthia7979.github.io/Book%20Notes/","description":"~Online Tools~","@context":"https://schema.org"}</script>
+  <!-- End Jekyll SEO tag -->
 
+  <style lang="scss">
+    :root {
+      --main-color: #63a52a;
+      --secondary-color: #63a52a;
+      --sans: Times, "NSimSun", "STSong", serif;
+    }
 
+    .hidden {
+      display: none;
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 3s ease-in-out;
+    }
+
+    .visible {
+      display: block;
+      opacity: 100;
+      visibility: visible;
+      transition: opacity 3s ease-in-out;
+    }
+
+    .inner {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      opacity: 0;
+      transition: 1s;
+      visibility: hidden;
+    }
+
+    .box {
+      position: relative;
+      left: 50%;
+      width: 500px;
+      height: 500px;
+      transform: translate(-50%, 1%);
+      background: #fff;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 1.5rem rgba(0, 0, 0, .5);
+      font-size: 1.5rem;
+      font-family: var( --sans);
+      letter-spacing: .5px;
+    }
+
+    .number::before {
+      content: "";
+      position: absolute;
+      top: -130px;
+      right: -30px;
+      width: 90px;
+      height: 270px;
+      background: var(--secondary-color);
+      transform: rotate(-45deg);
+      z-index: -1;
+      box-shadow: 0 0 .7rem rgba(0, 0, 0, .5);
+    }
+
+    .number {
+      font-family: var(--sans);
+      position: absolute;
+      margin: 0;
+      top: 15px;
+      right: 25px;
+      color: #fff;
+    }
+
+    .quote {
+      position: absolute;
+      top: 35%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80%;
+    }
+
+    .credit {
+      position: absolute;
+      top: 60%;
+      right: 5%;
+      font-family: var(--sans);
+      font-size: 1rem;
+      font-weight: 500;
+    }
+
+    .credit::before {
+      content: "～ ";
+      vertical-align: middle;
+      font-size: 1.4rem;
+    }
+
+    .fas {
+      font-size: 3.5rem;
+      position: absolute;
+      top: 12%;
+      left: 7%;
+      color: rgba(100, 58, 122, .2);
+    }
+
+    input {
+      width: 100%;
+      transition: .3s;
+    }
+
+    .button {
+      background: #63a52a;
+      text-align: center;
+      color: #fff;
+      padding: 1rem 0;
+      width: 100%;
+      font-family: var(--sans);
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      margin: 0;
+      transition: .2s ease-out;
+    }
+
+    .button:hover {
+      background: var(--secondary-color);
+      cursor: pointer; 
+    }
+  </style>
+
+  <script>
+    function onLoad() {
+      const boxes = document.getElementsByClassName('box')
+      let initialBoxCount = 0
+      Array.prototype.forEach.call(boxes, box => {
+        let button = box.getElementsByClassName('button')[0]
+        let nextNum = button.getAttribute('for').split('-')[1]
+        let nextBox = document.getElementById('box-' + nextNum)
+        let nextRadio = document.getElementById('card-' + nextNum)
+        button.addEventListener('click', e => {
+          box.classList.add('hidden')
+          box.classList.remove('visible')
+          nextBox.classList.remove('hidden')
+          nextBox.classList.add('visible')
+          nextRadio.checked = true
+        })
+        if (initialBoxCount != 0) {
+          box.classList.add('hidden')
+          box.classList.remove('visible')
+        } else {
+          box.classList.remove('hidden')
+          box.classList.add('visible')
+        }
+        initialBoxCount++
+      })
+      document.getElementById('card-one').checked = true
+    }
+  </script>
 </head>
 
-<body>
-
+<body onload="onLoad()">
   <div class="wrapper">
     <header>
       <h1 class="title">Cynthia7979.github.io</h1>
     </header>
     <div id="container">
-      <p class="tagline">~Online Tools~</p>
+      <p class="tagline">👀</p>
       <div id="main" role="main">
-        <div class="download-bar">
-        <div class="inner">
-          
-          <a href="https://github.com/Cynthia7979/Cynthia7979.github.io" class="code">View Cynthia7979.github.io on GitHub</a>
+        <div class="box inner-one" id="box-one">
+          <div class="triangle"></div>
+          <p class="number">1</p>
+            <div class="text">
+              <i class="start-quote fas fa-quote-left"></i>
+              <p class="quote">京都的人们络绎不绝地投身于自杀之旅。即使被生活剥夺一切自由，至少选择自杀的权力永远掌握在自己的手中。哪怕身陷囹圄，或是双手被紧紧困住，只要信念坚定，用强烈的意志坚持屏住呼吸，也可以轻松获得成功。</p>
+              <p class="credit">菊池宽《投水救助业》</p>
+            </div>
+          <label class="button" for="card-two">
+            Next
+          </label>
+		    </div>
+        
+        <div class="box inner-two" id="box-two">
+          <div class="triangle"></div>
+          <p class="number">2</p>
+            <div class="text">
+              <i class="start-quote fas fa-quote-left"></i>
+              <p class="quote">Vanity. Always my favorite crime.</p>
+              <p class="credit"><i>The Devil's Advocate</i></p>
+            </div>
+          <label class="button" for="card-one">
+            Next
+          </label>
+		    </div>
+        
+        <div id="radio-box">
+          <input id="card-one" type="radio" name="ok-button" disabled="" checked="">
+          <input id="card-two" type="radio" name="ok-button" disabled="">
         </div>
-        <span class="blc"></span><span class="trc"></span>
-        </div>
-        
-        <div class="box">
-            <div class="triangle"></div>
-            <p class="number">1</p>
-                <div class="text">
-                    <i class="start-quote fas fa-quote-left"></i>
-                    <p class="quote">京都的人们络绎不绝地投身于自杀之旅。即使被生活剥夺一切自由，至少选择自杀的权力永远掌握在自己的手中。哪怕身陷囹圄，或是双手被紧紧困住，只要信念坚定，用强烈的意志坚持屏住呼吸，也可以轻松获得成功。</p>
-                    <p class="credit">菊池宽《投水救助业》</p>
-                </div>
-            <label class="button" for="card-two">
-            <p>Next</p>
-            </label>
-		</div>
-        
-        <div class="box">
-            <div class="triangle"></div>
-            <p class="number">2</p>
-                <div class="text">
-                    <i class="start-quote fas fa-quote-left"></i>
-                    <p class="quote">Vanity. Always my favorite crime.</p>
-                    <p class="credit"><i>The Devil's Advocate</i></p>
-                </div>
-            <label class="button" for="card-one">
-            <p>Next</p>
-            </label>
-		</div>
-        
+        <!-- <input id="card-three" class="hidden" type="radio" name="ok-button"> -->
+
         <article class="markdown-body">
-		
-			<link rel="stylesheet" href="quotes.css">
-			<input id="card-one" class="hidden" type="radio" name="ok-button" checked="">
-			<input id="card-two" class="hidden" type="radio" name="ok-button">
-			<input id="card-three" class="hidden" type="radio" name="ok-button">
-			<p class="right"><a href="/">RETURN</a></p><div class="container">
-			  <div class="inner inner-one">
-				
-			  </div>
-			</div>    
-	
+          <p class="right"><a href="/">RETURN</a></p>
         </article>
       </div>
     </div>
     <footer>
       <div class="owner">
-      
-
-       
-      <p><a href="https://github.com/Cynthia7979" class="avatar"><img src="https://github.com/Cynthia7979.png" width="48" height="48"></a>View <a href="https://github.com/Cynthia7979">Cynthia7979</a> on <a href="https://www.github.com">GitHub</a></p>
-      
-
+        <p><a href="https://github.com/Cynthia7979" class="avatar"><img src="https://github.com/Cynthia7979.png" width="48" height="48"></a>View <a href="https://github.com/Cynthia7979">Cynthia7979</a> on <a href="https://www.github.com">GitHub</a></p>
       </div>
       <div class="creds">
         <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
@@ -107,8 +239,5 @@
     <a href="https://github.com/Cynthia7979/Cynthia7979.github.io/tarball/master" class="tar">tar</a><a href="https://github.com/Cynthia7979/Cynthia7979.github.io/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
     <p class="name"></p>
   </div>
-
-  
-
 </body>
 </html>

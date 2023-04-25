@@ -1,0 +1,38 @@
+.bingo-box {
+    display: flex;
+    min-width: 110px;
+    aspect-ratio: 1;
+    margin: 5px;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.bingo-row {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#bingo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 70%;
+    padding: 30px;
+    border: 1px dashed grey;
+    margin: 30px;
+}
+
+#wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 100vw;
+    text-align: center;
+}
+
+#free-box {
+    font-size: 400%;
+}

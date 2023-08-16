@@ -165,6 +165,10 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 优美的中国话 | A man of culture | A statement that is usually complimentary that is said when one swears at someone or something which everyone dislikes. |
 | 脚本小子 | Scriptkiddie | A self-proclaimed hacker. Derogatory term for people who use prewritten scripts and/or computer programs to infiltrate computer systems, create computer viruses, or otherwise carry out activities that may cause damage to another person's digital property. |
 | 每个字都会，连在一起就看不懂了 | I understand all these words separately. | To denote that a sentence is overly complicated or absurd that it is impossible to understand. |
+| （当）电灯泡 | Thirdwheel(ing) | To witness somebody else enjoy their personal time while you watch awkwardly. For example, a mutual friend of a couple could be thirdwheeling if the couple invites the friend to their date. |
+| （捧读）; （棒读） | (not impressed) | Emphasizes that one is only pretending to be interested. |
+| 抽象 | Random; `lit.` Abstract | Something that defies understanding. |
+| 憨憨 | Bozo | A silly person. |
 
 ## References & Appendix 参考资料
 

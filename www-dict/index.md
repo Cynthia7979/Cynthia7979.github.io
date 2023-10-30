@@ -165,6 +165,14 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 优美的中国话 | A man of culture | A statement that is usually complimentary that is said when one swears at someone or something which everyone dislikes. |
 | 脚本小子 | Scriptkiddie | A self-proclaimed hacker. Derogatory term for people who use prewritten scripts and/or computer programs to infiltrate computer systems, create computer viruses, or otherwise carry out activities that may cause damage to another person's digital property. |
 | 每个字都会，连在一起就看不懂了 | I understand all these words separately. | To denote that a sentence is overly complicated or absurd that it is impossible to understand. |
+| 键盘侠 | Keyboard Warrior | Someone who pretends to be more powerful than they are *in real life* in the comments they post online. |
+| 己所不欲，勿施于人 | (The) Golden Rule; Do not do others what you would not have done to yourself. | |
+| 好险，要长脑子了 | `amb.` My brain's almost wrinkling | Used as a response to some especially silly or absurd content. May be accompanied with some expression about smoothing said brain. |
+| 纵连 | Jackhammer | A term specific to *rhythm games* that refers to tightly spaced music notes which require the player to spam the same key at high speed. |
+| 音游 | Rhythm game | A game that is oftentimes beaten or controlled by pressing keys according to the rhythm of the music being played. |
+| 星跳水立方 | Dropper | A classic minigame in Minecraft in which the player drops from a high place and attempts to land in the water blocks at the bottom without hitting any obstacles. |
+| （棒读）; （捧读） | (not impressed) | Indicates that the typer is saying the message with an emotionless, monotonic, or otherwise unimpressed tone. |
+| 抽象 | Random; `lit.` Abstract | Absurd. Out of the blue. |
 
 ## References & Appendix 参考资料
 

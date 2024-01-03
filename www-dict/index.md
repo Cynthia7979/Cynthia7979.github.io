@@ -173,6 +173,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 星跳水立方 | Dropper | A classic minigame in Minecraft in which the player drops from a high place and attempts to land in the water blocks at the bottom without hitting any obstacles. |
 | （棒读）; （捧读） | (not impressed) | Indicates that the typer is saying the message with an emotionless, monotonic, or otherwise unimpressed tone. |
 | 抽象 | Random; `lit.` Abstract | Absurd. Out of the blue. |
+| 初见杀 | Beginner's trap | A trap, usually in role-playing games, that is easily avoidable once acknowledged but will likely cause the player to fail their first attempt due to it being unforeseenable. |
 
 ## References & Appendix 参考资料
 

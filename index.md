@@ -7,7 +7,7 @@ Here's a list of currently available pages:
 
 | Page | Established | Updated |
 |------|-------------|---------|
-| [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 30 Oct 2023 |
+| [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 2 Jan 2024 |
 | [合成大西瓜全集](daxigua) | 31 Jan 2021 | 7 Feb 2023 |
 | [Ideas](ideas) | 30 Dec 2021 | 21 Jun 2022 |
 | [Game Reviews 游戏推荐](games) | 23 Jan 2022 | 28 Jan 2022 |
@@ -17,6 +17,12 @@ Here's a list of currently available pages:
 # News
 
 <div class="news-block">
+<b>2024新年快乐！
+<span class="date">2024/1/2</span></b>
+That's it, see you next year >:）
+</div>
+
+<div class="news-block">
     <b>截至今天，在之前被收录的57个《合成大西瓜》版本中，有27个（47%）已经下线
     <span class="date">2023/2/7</span></b>
     <p>
@@ -24,7 +30,7 @@ Here's a list of currently available pages:
     </p><p>
     这也让我意识到两年已经过去了。人们已经找到了新的方向，许多曾经人尽皆知的“热点”也已经失去了热度，从人们的记忆里溜走了。如果没有现在还留下来的文章、视频为证，可能再过几年就没人会记得这个曾经的热搜了。这可能就是做archive的意义：它将一切似乎意义不大的东西都当作历史的一部分，保存在人类共同的记忆里。或许有一天我们会用到这些，或许不会，但是它是不会那样简单地被遗去的。
     </p><p>
-    接下来的时间里我会继续更新<a href="https://cynthia7979.github.io/www-dict">不完全网络用语中英词典</a>，但我接下来的计划是将这个页面转移到一个新的网站上，给它搭载上搜索、例句等功能（相当于双语版的Urban Dictionary)。鉴于现在的任务量，这个的完成时间（和网站的更新速率）可能会很慢。但是嘛，人总是要有梦想的。
+    接下来的时间里我会继续更新<a href="https://cynthia7979.github.io/www-dict">不完全网络用语中英词典</a>，但我接下来的计划是将这个页面转移到一个新的网站上，给它搭载上搜索、例句等功能（相当于双语版的Urban Dictionary）。鉴于现在的任务量，这个的完成时间（和网站的更新速率）可能会很慢。但是嘛，人总是要有梦想的。
     </p><p>
     感谢你的来访，下次再见。
     </p>

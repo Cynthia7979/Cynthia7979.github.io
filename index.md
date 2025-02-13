@@ -7,7 +7,7 @@ Here's a list of currently available pages:
 
 | Page | Established | Updated |
 |------|-------------|---------|
-| [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 19 Dec 2024 |
+| [The Incomplete Internet Slang Dictionary 不完全网络用语中英词典](www-dict) | 21 Dec 2021 | 12 Feb 2025 |
 | [合成大西瓜全集](daxigua) | 31 Jan 2021 | 7 Feb 2023 |
 | [Ideas](ideas) | 30 Dec 2021 | 21 Jun 2022 |
 | [Game Reviews 游戏推荐](games) | 23 Jan 2022 | 28 Jan 2022 |

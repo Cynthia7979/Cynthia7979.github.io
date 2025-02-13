@@ -158,7 +158,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 摸鱼; 摸; 划水 | Chill; Chillin'; Chilling | To have a good time not doing anything. *We're just chillin'.* *我们在摸鱼* |
 | 整活 | Bit, do a bit | To do something that would appear interesting or funny, but doesn't necessarily make sense. To purposefully throw a joke or create a *meme*. |
 | 老实人 | Captain Obvious | A person who points out very obvious things. Someone who treats a joke seriously and points out/answers any problems in it. |
-| 单推 | Main | The character whom you like the most. |
+| 推; 单推 | Oshi; Main | The character whom you like the most. The character you put your entire dedication into. |
 | （大嘘） | BOOO (alternatively with more O's) | To show distrust or pessimism against someone or something. Works similarly as a tone indicator. |
 | 转推; 转发 | Retweet; Repost | To repost a status update, specifically a Twitter post. |
 | 抽奖 | Giveaway, GAW | To randomly choose a winner from a pool of eligible participants, then give a specified prize to them for free. |
@@ -194,6 +194,7 @@ A term is usually included if it has a matching translation in Chinese or can't 
 | 受;<br>(usually `m.`) 0, 零;<br>`f.` P | Bottom | The more submissive one in a gay or lesbian couple. |
 | 嬷 | To feminize; `uncmn.` To turn into a bottom; `amb.` To woobify | To write a character that is usually seen as a *top* into a powerless, more feminine *bottom*.<br>**Woobify**: To make a often morally questionable character look vulnerable, misunderstood, and defendable. |
 | 拟人化; `f.` 娘化 | Anthropomorphism; Personify | To portray a non-human character with distinctively human features. 娘化 specifically gives the character overtly female features. |
+| 不谈剂量谈毒性都是耍流氓 | The dose makes the poison | Anything is only poisonous once it reaches a certain dosage. |
 
 ## References & Appendix 参考资料
 
